@@ -40,8 +40,11 @@ jobs:
         git config --global user.name 'VPN Scout Bot'
         git config --global user.email 'bot@noreply.github.com'
         
+        # Сначала делаем сброс всех изменений от предыдущих шагов
+        git reset --hard
+        
         # Подтягиваем изменения, если они были (защита от конфликтов)
-        git pull origin main --rebase
+        git pull origin main
         
         # Добавляем все текстовики
         git add *.txt || echo "No txt files to add"
