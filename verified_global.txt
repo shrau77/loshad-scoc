@@ -46,9 +46,11 @@ https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscrip
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8
+https://raw.githubusercontent.com/wenxig/dongtai-sub/182729a64bc77970be5dd8b02c2f6d4fb74e3c9f/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/207ac367e97fb61cdfcbb11f131e7c7b710a2500/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/cbc8a7bf3f3521fd2c26a565b55883b881dbc43f/data/sub.txt
 https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray
 https://raw.githubusercontent.com/xyfqzy/free-nodes/20248a216dadf41982f3334b8bf4fbc6486af435/nodes/xyfqzy.txt
 https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
+https://raw.githubusercontent.com/youfa555/myvv/d8ba0555750fe5ef0c2f2c47f32883cbbefb5e43/public/nodes.txt
 https://raw.githubusercontent.com/youfa555/myvv/f11e04db29ade1ff9f5b8d3232d439381473a68e/public/nodes.txt
