@@ -1,0 +1,57 @@
+name: VPN Scout Ultimate
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # Важно для git pull
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11' # 3.11 быстрее для асинхронности
+
+    - name: Install dependencies
+      run: |
+        pip install aiohttp requests # Устанавливаем всё нужное сразу
+
+    - name: Run Scout Logic
+      id: scout_step
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        HF_TOKEN: ${{ secrets.HF_TOKEN }}
+      run: |
+        python scout.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'VPN Scout Bot'
+        git config --global user.email 'bot@noreply.github.com'
+        
+        # Подтягиваем изменения, если они были (защита от конфликтов)
+        git pull origin main --rebase
+        
+        # Добавляем все текстовики
+        git add *.txt || echo "No txt files to add"
+        
+        # Проверяем, есть ли что коммитить
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          # Берем сообщение из аутпута или ставим дефолтное
+          MSG="${{ steps.scout_step.outputs.COMMIT_MSG }}"
+          git commit -m "${MSG:-Scout Automatic Update $(date +'%Y-%m-%d %H:%M')}"
+          git push
+        fi
