@@ -1,26 +1,27 @@
-- name: Commit and Push changes
+    - name: Commit and Push changes
+      env:
+        COMMIT_MSG: ${{ steps.scout_step.outputs.COMMIT_MSG }}
       run: |
         # 1. Настройка автора
         git config --global user.name 'VPN Scout Bot'
         git config --global user.email 'bot@noreply.github.com'
         
-        # 2. Добавляем файлы в индекс (подготовка к коммиту)
-        # Используем || true, чтобы не падало, если файлов вдруг нет
-        git add *.txt || true
+        # 2. Добавляем файлы
+        # Используем подстановку, чтобы не вылетало, если файлов нет
+        git add *.txt 2>/dev/null || true
         
-        # 3. ПРОВЕРКА: Если изменений нет — просто выходим, чтобы не спамить ошибками
+        # 3. ПРОВЕРКА: Если индекс пуст — выходим
         if git diff --cached --quiet; then
           echo "No changes to commit. Exiting."
           exit 0
         fi
 
-        # 4. КОММИТ (Фиксируем изменения ЛОКАЛЬНО)
-        # Именно это устраняет ошибку "unstaged changes"
-        MSG="${{ steps.scout_step.outputs.COMMIT_MSG }}"
-        git commit -m "${MSG:-Scout Automatic Update}"
+        # 4. КОММИТ
+        # Используем переменную из env, чтобы избежать проблем с кавычками в сообщении
+        git commit -m "${COMMIT_MSG:-Scout Automatic Update}"
 
-        # 5. ОБНОВЛЕНИЕ (Забираем изменения с сервера)
-        # --rebase наложит твой новый коммит ПОВЕРХ того, что уже есть на сервере
+        # 5. ОБНОВЛЕНИЕ (Pull Rebase)
+        # На случай, если во время работы чекера в репо прилетел другой коммит
         git pull origin main --rebase
         
         # 6. ОТПРАВКА
