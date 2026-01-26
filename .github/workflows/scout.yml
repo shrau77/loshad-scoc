@@ -2,7 +2,7 @@ name: VPN Scout Ultimate
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '7 * * * *'
   workflow_dispatch:
 
 permissions:
