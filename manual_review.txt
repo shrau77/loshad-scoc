@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/hopsayer/vless-win-starter-oneclick/192df83fd6
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt
 https://raw.githubusercontent.com/shabane/kamaji/846ae20587ef27f1d173b463645309ece584154e/hub/QA.txt
+https://raw.githubusercontent.com/sinasims/Free-V2ray-Config-/main/sub1.txt
