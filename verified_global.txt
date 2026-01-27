@@ -50,6 +50,7 @@ https://raw.githubusercontent.com/wenxig/dongtai-sub/182729a64bc77970be5dd8b02c2
 https://raw.githubusercontent.com/wenxig/dongtai-sub/207ac367e97fb61cdfcbb11f131e7c7b710a2500/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/2575b2c33a96c4d66ea27795d4f02ee8efabbe00/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/5ef26ffece30ff9a8c01f44c5d6b35675b2cdafe/data/sub.txt
+https://raw.githubusercontent.com/wenxig/dongtai-sub/639d7c2ffc07b5a2189842b96a8c576811061e5b/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/91cf75c33e174cef960f343cb30064eed32ad46b/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/aafc89dd3817929f49bc03bf37b1540d63bd84a6/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/b28691ee6a2e8ac709c9ca305f83eb741ac4b3c4/data/sub.txt
