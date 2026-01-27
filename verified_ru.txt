@@ -46,10 +46,13 @@ https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whi
 https://raw.githubusercontent.com/dumbazzed/reality-obhod-glushilok/3872cb6172a85343722213533ea4991376667fee/xray-reality-master/install.sh
 https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/refs/heads/main/myvpnkey/ufovpn.txt
 https://raw.githubusercontent.com/gundoneg/SQVOZRKN/bafd4f6fa6c21abaf51b0b2000085406241c7478/xray-vless-setup.sh
+https://raw.githubusercontent.com/howdeploy/Xrayebator/590616cc966764404ce7b6bd80b6501fb1f50814/xrayebator
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/obhod1.txt
 https://raw.githubusercontent.com/huiwin/collectSub-qjlxg/a8768eb846a695f4e414aa2eda82f6e729296a7e/sub/sub_all_clash.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/0678580eccadf83203183db36c1f4818a3ebe666/1.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/00d2ac72af2ee3e3223278f5ff495f8098a7071c/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/00d2ac72af2ee3e3223278f5ff495f8098a7071c/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/533758c1de7222bd6dbc2dfc8a83d75a7264a0a7/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/5e69281704e495ee32234ea652db4cb881ce054e/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/6d25640020c8b0fb4268cc4085088fdebf8f6c56/githubmirror/new/by_protocol/vless/vless_018.txt
