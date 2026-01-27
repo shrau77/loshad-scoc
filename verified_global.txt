@@ -39,6 +39,7 @@ https://raw.githubusercontent.com/pengelana/blocklist/7909b78841b50e1ed3694ee20c
 https://raw.githubusercontent.com/qjlxg/HA/f03dfb24d07cebf7c66b534a6c39815c5e0ab81e/sc/2025-08/2025-08-23/all_unique_nodes.txt_2025-08-23_001147
 https://raw.githubusercontent.com/tjyu010/FreeNodes/master/nodes/merged.txt
 https://raw.githubusercontent.com/tkamirparsa/Javid-shah/refs/heads/main/Sub.text
+https://raw.githubusercontent.com/vlesscollector/vlesscollector/refs/heads/main/vless_configs.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/FreeConfigConnector/a4d96730c4f5dd0ca251eb95cd361160cb16fa9e/settings/config.json
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhvl
 https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2
@@ -49,6 +50,7 @@ https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscrip
 https://raw.githubusercontent.com/wenxig/dongtai-sub/182729a64bc77970be5dd8b02c2f6d4fb74e3c9f/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/207ac367e97fb61cdfcbb11f131e7c7b710a2500/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/2575b2c33a96c4d66ea27795d4f02ee8efabbe00/data/sub.txt
+https://raw.githubusercontent.com/wenxig/dongtai-sub/27448631997035422c743bd359ecfcab22137064/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/5ef26ffece30ff9a8c01f44c5d6b35675b2cdafe/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/639d7c2ffc07b5a2189842b96a8c576811061e5b/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/6966d1d3e71d30333ccb7fc25443db38c894d4dd/data/sub.txt
@@ -62,6 +64,7 @@ https://raw.githubusercontent.com/xyfqzy/free-nodes/20248a216dadf41982f3334b8bf4
 https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
 https://raw.githubusercontent.com/youfa555/myvv/5ba69bcc4a17be5e82e320a1b2bcd018886a9731/public/nodes.txt
 https://raw.githubusercontent.com/youfa555/myvv/6e893d30ab31cec6215a041e5d77bfa6e7013b5f/public/nodes.txt
+https://raw.githubusercontent.com/youfa555/myvv/778adcd97d1193aef9652ffe68403e12faca94b2/public/nodes.txt
 https://raw.githubusercontent.com/youfa555/myvv/c9d169447922955d3d4830fe06975bc17c9a4210/public/nodes.txt
 https://raw.githubusercontent.com/youfa555/myvv/d8ba0555750fe5ef0c2f2c47f32883cbbefb5e43/public/nodes.txt
 https://raw.githubusercontent.com/youfa555/myvv/f11e04db29ade1ff9f5b8d3232d439381473a68e/public/nodes.txt
