@@ -62,6 +62,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/5e69281704e4
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/6d25640020c8b0fb4268cc4085088fdebf8f6c56/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/7dfa9e9cd2935d47e42432c6ace1b5c2c7071435/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8c0cf4ca2f3d0262631da22d9408bfdb927e5b0c/githubmirror/new/by_protocol/vless/vless_018.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d7ae2328ce23ac553fb53870711cb33621aaea7a/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/koteey/Ms.Kerosin-VPN/refs/heads/main/proxies.txt
 https://raw.githubusercontent.com/liketolivefree/kobabi/1850f3c93483844a9502362d8af1cbc7fbd068cc/sub.txt
 https://raw.githubusercontent.com/liketolivefree/kobabi/refs/heads/main/sub
@@ -75,4 +76,5 @@ https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhjk
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhljjjkk
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0db7d24e84d11b7289957fe9683e06f00829766e/githubmirror/bypass-unsecure/bypass-unsecure-10.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0db7d24e84d11b7289957fe9683e06f00829766e/source/config/URLS.txt
+https://raw.githubusercontent.com/xiyingruyi/Stash-rules/01e0e0c91317c98fc5631df93f416e10a63101ab/nodes.txt
 https://storage.yandexcloud.net/cid-vpn/whitelist.txt
