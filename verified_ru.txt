@@ -123,6 +123,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8c0cf4ca2f3d
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/997d0e8a822dfaca502001c3c4aca17f44fdcf08/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/b745db375d3daa7dad62a4bc3b21504c1cdf0383/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c1bebbcbb8420d133ba3a468f3cf21b39274c0c7/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c2383acb85a775e827d8e55dda8defe18df76d69/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d7ae2328ce23ac553fb53870711cb33621aaea7a/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/dab2afc00cd0d644431517f6c4d4973339d2499a/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/eb3fefc76fedbed06c5bbd1a282206d59fff75ca/githubmirror/new/by_protocol/vless/vless_017.txt
@@ -152,6 +153,7 @@ https://raw.githubusercontent.com/wenxig/dongtai-sub/2772f8f403b5960f33eff1c1dd2
 https://raw.githubusercontent.com/wenxig/dongtai-sub/336b5154bdec448c238f99cae253fd49c94c92b2/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/77b4e9c32338591caf9dbb5f2aae9361d8c0ecd8/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/88b5027e1f87309d1b8d13c893627657a1ef7a0b/data/sub.txt
+https://raw.githubusercontent.com/wenxig/dongtai-sub/ae0adda190527e507688933d5db9d12e5158211e/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/afa7213f6de0e3f99ced3fdd929c2be7c248baa5/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/cc03ab89db56886dc13640f57a763f8d00ca2870/data/sub.txt
 https://raw.githubusercontent.com/wenxig/dongtai-sub/dd3fdd29f7bb38ade06d66581beabda1311d5a0a/data/sub.txt
