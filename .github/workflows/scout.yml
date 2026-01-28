@@ -16,7 +16,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0 # Важно для git pull
+        fetch-depth: 0 
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -25,7 +25,16 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install aiohttp requests
+        pip install aiohttp
+        # requests убран, так как скрипт его не использует
+
+    - name: Pull latest changes (Sync)
+      run: |
+        git config --global user.name 'VPN Scout Bot'
+        git config --global user.email 'bot@noreply.github.com'
+        git pull origin main
+        # ВАЖНО: Сначала обновляем базу, чтобы скрипт видел последние ссылки
+        # и не добавлял дубликаты, если сработал другой запуск
 
     - name: Run Scout Logic
       id: scout_step
@@ -36,13 +45,7 @@ jobs:
         python scout.py
 
     - name: Commit and Push changes
-      env:
-        COMMIT_MSG: ${{ steps.scout_step.outputs.COMMIT_MSG }}
       run: |
-        # Настройка автора
-        git config --global user.name 'VPN Scout Bot'
-        git config --global user.email 'bot@noreply.github.com'
-        
         # Добавляем только измененные текстовые файлы
         git add *.txt 2>/dev/null || true
         
@@ -52,11 +55,8 @@ jobs:
           exit 0
         fi
         
-        # Создаем коммит
-        git commit -m "${COMMIT_MSG:-Scout Automatic Update $(date +'%Y-%m-%d %H:%M:%S')}"
-        
-        # Получаем последние изменения с репозитория
-        git pull origin main --rebase --autostash
+        # Создаем коммит (сообщение по умолчанию, т.к. скрипт возвращает только кол-во)
+        git commit -m "Scout Automatic Update $(date +'%Y-%m-%d %H:%M:%S')"
         
         # Пушим изменения
         git push origin main
