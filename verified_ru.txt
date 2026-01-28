@@ -27,7 +27,6 @@ https://raw.githubusercontent.com/ASTRACAT2022/VPN-FREE-astra.net-V1/84b0547bf8d
 https://raw.githubusercontent.com/Ai123999/WhiteKeys/refs/heads/main/WhiteKeys
 https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whitelistkeys
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/3f211dd761cd6f737a6f67ace0ed9873dc4408c4/data/sub/channel_subs/v2nodes.txt
-https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Country/Russia.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/wenode.txt
@@ -132,7 +131,6 @@ https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/38bea52f9db
 https://raw.githubusercontent.com/qjlxg/HA/1ed7edcd69abdf2641b4894178986d5bf409c402/sc/2025-08/2025-08-23/all_unique_nodes.txt_2025-08-23_001147
 https://raw.githubusercontent.com/qjlxg/HA/3f7fd0943531861ca8ba9891d01bbc071f3983af/sc/2025-08/2025-08-23/all_unique_nodes.txt_2025-08-23_001147
 https://raw.githubusercontent.com/qjlxg/HA/72e33b47a4d7b81eaa92038698dc0ec99663c958/sc/2025-08/2025-08-23/all_unique_nodes.txt_2025-08-23_001147
-https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt
 https://raw.githubusercontent.com/runoneall/v2server/79e90325ee815d656d7103845d0f15f6b794dcc1/one.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/52eda50bd622fd226df1e7d7c8fc2f183993ee8b/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/6c26f1d42497d26a10afffd70ca68793055b47fb/output/country/RU.txt
