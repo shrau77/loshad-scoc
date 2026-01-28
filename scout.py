@@ -226,14 +226,14 @@ async def search_github_safe(session):
     found = set()
     logger.info(f"🔍 [GitHub] Запуск поиска по {len(SEARCH_QUERIES)} запросам...")
     
-    # Date filter: Files indexed in the last 180 days
-    date_str = (datetime.now() - timedelta(days=180)).strftime("%Y-%m-%d")
-    
     for i, query in enumerate(SEARCH_QUERIES):
         page = 1
         while page <= 2:
-            # Добавляем фильтр даты в запрос
-            url = f"https://api.github.com/search/code?q={query}+created:>{date_str}&sort=indexed&order=desc&per_page=30&page={page}"
+            # FIX 1: Кодируем запрос, чтобы кавычки не ломали URL
+            encoded_query = urllib.parse.quote(query)
+            
+            # FIX 2: Убрал created:>date, так как Code Search API этого не понимает
+            url = f"https://api.github.com/search/code?q={encoded_query}&sort=indexed&order=desc&per_page=30&page={page}"
             
             headers, token_used = get_best_github_header()
             
@@ -244,19 +244,21 @@ async def search_github_safe(session):
                         items = data.get("items", [])
                         for item in items:
                             found.add((convert_to_raw(item['html_url']), f"dork: {query[:20]}..."))
-                        logger.info(f"   [{resp.status}] Query '{query[:30]}...' (p{page}): +{len(items)} файлов")
+                        
+                        if items:
+                            logger.info(f"   [{resp.status}] Query '{query[:30]}...' (p{page}): +{len(items)} файлов")
+                        
                         page += 1
-                        await asyncio.sleep(5)
+                        await asyncio.sleep(2) 
                     elif resp.status == 403 or resp.status == 429:
                         reset_time = resp.headers.get("X-RateLimit-Reset")
                         wait_time = 60
                         if reset_time: wait_time = max(10, int(reset_time) - int(time.time()))
                         
-                        # Обновляем статус токена
                         if token_used:
                             token_status[token_used]['reset_time'] = int(time.time()) + wait_time
                             
-                        logger.warning(f"🛑 GitHub Rate Limit (Token: {token_used[:8]}...). Cooling down for {wait_time}s...")
+                        logger.warning(f"🛑 GitHub Rate Limit. Cooling down for {wait_time}s...")
                         await asyncio.sleep(wait_time + 5)
                         break
                     else:
