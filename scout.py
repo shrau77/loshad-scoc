@@ -9,7 +9,7 @@ import base64
 import hashlib
 import random
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # --- CONFIGURATION & LOGGING ---
 
@@ -41,7 +41,7 @@ USER_AGENTS = [
     "Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Mobile/15E148 Safari/604.1"
 ]
 
-# --- DORKS (HYBRID COLLECTION) ---
+# --- DORKS (EXPANDED LIST) ---
 SEARCH_QUERIES = [
     # --- GOLDEN (High Value Targets) ---
     'filename:whitelist.txt "vless" "reality"',
@@ -54,6 +54,21 @@ SEARCH_QUERIES = [
     '"goida" OR "kerosin" OR "kizyak" OR "rjsxrd" vless',
     '"s3c3.001.gpucloud.ru" OR "storage.yandexcloud.net" OR "vkcloud-storage.ru"',
     
+    # --- ADVANCED (Targeted) ---
+    '"security=reality" "fp=chrome" "type=tcp" extension:txt',
+    '"security=reality" "fp=firefox" "encryption=none" -iran',
+    '"vless-reality" "client-fingerprint"',
+    '"sni=gosuslugi.ru" vless',
+    '"sni=lenta.ru" reality',
+    '"sni=yandex.ru" "publicKey"',
+    'path:**/subscriptions/** "vless" -iran -ir',
+    'path:**/config/** "reality" -cn',
+    'filename:client.txt reality',
+    'filename:proxy.txt vless',
+    'filename:ru.txt vless',
+    '"nekoray" "reality" extension:json',
+    '"v2rayng" "reality" "publicKey"',
+
     # --- STANDARD (Volume Search) ---
     "vless reality whitelist extension:txt",
     "vless reality whitelist extension:json",
@@ -75,7 +90,15 @@ S3_COMMON_FILES = ["config.txt", "sub.txt", "vless.txt", "nodes.txt", "list.txt"
 BAD_DOMAINS = ['.ir', 'zula.ir', 'mci.ir', 'arvancloud', 'derp', 'mobinnet', 'shatel', '.cn', '.pk', '.af', '.sy', '.sa']
 ARABIC_REGEX = re.compile(r'[\u0600-\u06FF]')
 
-# 3. Trash SNI (Реклама, Порно, Трекеры) - ПОЛНЫЙ СПИСОК
+# 3. Guide/Spam Keywords (Эвристика гайдов)
+GUIDE_KEYWORDS = [
+    'tutorial', 'how to', 'guide', 'install', 'instruction', 'manual',
+    'readme', 'subscribe to my channel', 'телефон', 'пароль', 'логин',
+    'buy', 'покупать', 'цена', 'cost', 'donate', 'patreon', 'boosty',
+    'step 1', 'step 2', 'шаг', 'настройка', 'setting', 'uuid_here'
+]
+
+# 4. Trash SNI (Реклама, Порно, Трекеры)
 BLACK_SNI = [
     'google.com', 'youtube.com', 'facebook.com', 'instagram.com', 'twitter.com',
     'cloudflare', 'amazon', 'microsoft', 'oracle', 'amazon.com', '147135001195.sec22org.com',
@@ -89,36 +112,71 @@ BLACK_SNI = [
     'test', 'localhost', '127.0.0.1', 'workers.dev'
 ]
 
-# 4. White List (RU Boost) - ВЕРНУЛ СПИСОК
+# 5. White List (RU Boost)
 WHITE_SNI = [
     "gosuslugi.ru", "yandex.ru", "vk.com", "mail.ru", "ozon.ru", "wildberries.ru",
     "tbank.ru", "sberbank.ru", "mos.ru", "rutube.ru", "dzen.ru", "avito.ru",
     "kinopoisk.ru", "dns-shop.ru", "rzd.ru", "pochta.ru", "nalog.ru", "ru_target"
 ]
 
-# Global Caches
-CONTENT_HASHES = set()    # MD5 файлов (чтобы не качать одно и то же)
-SEEN_FINGERPRINTS = set() # VLESS Fingerprints (чтобы не дублировать конфиги)
-VISITED_URLS = set()      # URL (чтобы не ходить кругами)
-RESULTS_BUFFER = []       # Итоговый список источников
+# Global Caches & State
+CONTENT_HASHES = set()
+SEEN_FINGERPRINTS = set()
+VISITED_URLS = set()
+RESULTS_BUFFER = []
+
+# Statistics
+stats = {
+    "total_fetched": 0,
+    "errors": 0,
+    "trash": 0,
+    "duplicate": 0,
+    "clean_ru": 0,
+    "clean_global": 0,
+    "aggregators": 0
+}
+
+# Token Pool State
+token_status = {} # {token: {'reset_time': int}}
 
 # --- HELPER FUNCTIONS ---
+
+def clean_url(url):
+    """Очищает URL от GET-параметров, чтобы избежать дублей."""
+    parsed = urllib.parse.urlparse(url)
+    return f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
 
 def get_random_header():
     return {"User-Agent": random.choice(USER_AGENTS)}
 
-def get_github_header():
-    if not GITHUB_TOKENS: return {}
-    token = random.choice(GITHUB_TOKENS)
-    return {"Authorization": f"token {token}", "Accept": "application/vnd.github.v3+json"}
+def get_best_github_header():
+    """Выбирает токен, который не исчерпал лимит."""
+    if not GITHUB_TOKENS: return {}, None
+    
+    current_time = int(time.time())
+    available_tokens = []
+
+    for token in GITHUB_TOKENS:
+        if token not in token_status:
+            token_status[token] = {'reset_time': 0}
+        
+        if current_time > token_status[token]['reset_time']:
+            available_tokens.append(token)
+    
+    if available_tokens:
+        chosen = available_tokens[0]
+    else:
+        # Если все токены на паузе, берем первый, чтобы узнать время ожидания в обработчике
+        chosen = GITHUB_TOKENS[0]
+        
+    headers = {"Authorization": f"token {chosen}", "Accept": "application/vnd.github.v3+json"}
+    return headers, chosen
 
 def get_md5_head(content):
-    """Хеш первых 500 байт для быстрой дедупликации файлов."""
     head = content[:500].encode('utf-8', errors='ignore')
     return hashlib.md5(head).hexdigest()
 
 def extract_vless_fingerprint(vless_link):
-    """Уникальный отпечаток конфига (UUID + Key)."""
     try:
         pattern = r'vless://(?P<uuid>[a-zA-Z0-9\-]+)@.*?(?:\?|&)(?:pbk|publickey)=(?P<pbk>[a-zA-Z0-9%\-\_]+)'
         match = re.search(pattern, vless_link, re.IGNORECASE)
@@ -131,10 +189,9 @@ def extract_vless_fingerprint(vless_link):
     return None
 
 def generate_variations(url):
-    """Генерация инкрементальных ссылок и S3 путей (Auto-Discovery)."""
     variations = set()
     
-    # 1. Numeric Increment (node1.txt -> node2.txt)
+    # 1. Numeric Increment
     match = re.search(r'(\d+)\.(txt|json|yaml|conf|sub)$', url)
     if match:
         base_num = int(match.group(1))
@@ -169,12 +226,19 @@ async def search_github_safe(session):
     found = set()
     logger.info(f"🔍 [GitHub] Запуск поиска по {len(SEARCH_QUERIES)} запросам...")
     
+    # Date filter: Files indexed in the last 180 days
+    date_str = (datetime.now() - timedelta(days=180)).strftime("%Y-%m-%d")
+    
     for i, query in enumerate(SEARCH_QUERIES):
         page = 1
         while page <= 2:
-            url = f"https://api.github.com/search/code?q={query}&sort=indexed&order=desc&per_page=30&page={page}"
+            # Добавляем фильтр даты в запрос
+            url = f"https://api.github.com/search/code?q={query}+created:>{date_str}&sort=indexed&order=desc&per_page=30&page={page}"
+            
+            headers, token_used = get_best_github_header()
+            
             try:
-                async with session.get(url, headers=get_github_header()) as resp:
+                async with session.get(url, headers=headers) as resp:
                     if resp.status == 200:
                         data = await resp.json()
                         items = data.get("items", [])
@@ -187,7 +251,12 @@ async def search_github_safe(session):
                         reset_time = resp.headers.get("X-RateLimit-Reset")
                         wait_time = 60
                         if reset_time: wait_time = max(10, int(reset_time) - int(time.time()))
-                        logger.warning(f"🛑 GitHub Rate Limit. Cooling down for {wait_time}s...")
+                        
+                        # Обновляем статус токена
+                        if token_used:
+                            token_status[token_used]['reset_time'] = int(time.time()) + wait_time
+                            
+                        logger.warning(f"🛑 GitHub Rate Limit (Token: {token_used[:8]}...). Cooling down for {wait_time}s...")
                         await asyncio.sleep(wait_time + 5)
                         break
                     else:
@@ -203,7 +272,8 @@ async def search_gists(session):
     logger.info("🔍 [Gist] Сканирование ленты...")
     try:
         url = "https://api.github.com/gists/public?per_page=60"
-        async with session.get(url, headers=get_github_header()) as resp:
+        headers, _ = get_best_github_header()
+        async with session.get(url, headers=headers) as resp:
             if resp.status == 200:
                 gists = await resp.json()
                 keywords = ["vless", "reality", "sub", "free", "nodes", "v2ray"]
@@ -220,30 +290,38 @@ async def search_gists(session):
 # --- AI ANALYSIS ---
 
 async def ask_huggingface_async(session, snippet):
-    if not HF_TOKEN: return "unknown"
-    prompt = f"Analyze this VLESS config. Does it look like a Russian (RU) targeted VPN, a Global proxy, or Spam? Return one word: RU, Global, or Spam. Content: {snippet[:500]}"
+    if not HF_TOKEN: return "unknown", "No Token"
+    
+    prompt = f"""Analyze this VLESS/VPN content.
+Is it a Russian (RU) targeted resource, Global proxy, Spam, or a Tutorial/Guide?
+Format: "Verdict: [RU/Global/Spam/Guide] Reason: [short reason]"
+Content snippet: {snippet[:800]}"""
+    
     try:
         headers = {"Authorization": f"Bearer {HF_TOKEN}"}
-        payload = {"inputs": prompt, "parameters": {"max_new_tokens": 10, "return_full_text": False}}
-        async with session.post(HF_API_URL, headers=headers, json=payload, timeout=5) as resp:
+        payload = {"inputs": prompt, "parameters": {"max_new_tokens": 25, "return_full_text": False}}
+        async with session.post(HF_API_URL, headers=headers, json=payload, timeout=8) as resp:
             if resp.status == 200:
                 res = await resp.json()
                 text = res[0]['generated_text'].lower() if isinstance(res, list) else ""
-                if "ru" in text: return "ru"
-                if "spam" in text: return "spam"
-                if "global" in text: return "global"
-    except: pass
-    return "unknown"
+                
+                reason = "raw text"
+                if "guide" in text or "tutorial" in text: return "guide", "Detected guide text"
+                if "spam" in text: return "spam", "Detected spam keywords"
+                if "ru" in text: return "ru", "Detected RU keywords/SNI"
+                if "global" in text: return "global", "Generic config"
+                return "unknown", text
+    except Exception as e:
+        return "error", str(e)
+    return "unknown", "No match"
 
-# --- CORE LOGIC (Restored Function) ---
+# --- CORE LOGIC ---
 
 async def fetch_and_analyze(session, url, depth, ai_semaphore):
-    """
-    Возвращает: (status, valid_count, extra_data)
-    Status: 'clean', 'aggregator', 'trash', 'duplicate'
-    """
-    if url in VISITED_URLS: return "duplicate", 0, None
-    VISITED_URLS.add(url)
+    # Очистка URL от мусора
+    url_clean = clean_url(url)
+    if url_clean in VISITED_URLS: return "duplicate", 0, None
+    VISITED_URLS.add(url_clean)
 
     try:
         headers = get_random_header()
@@ -254,23 +332,33 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     except Exception:
         return "error", 0, None
 
-    # 1. Dedup MD5 (File Level)
+    # 1. Dedup MD5
     content_hash = get_md5_head(content)
     if content_hash in CONTENT_HASHES: return "duplicate", 0, None
     CONTENT_HASHES.add(content_hash)
 
-    # 2. Base64 Auto-Decode
+    # 2. Multiline Fix (Склейка ссылок)
+    # Если ссылка разбита переносом строки перед параметрами (& или ?)
+    content = re.sub(r'(\n|\r)\s*(?=[&\?])', '', content)
+
+    # 3. Base64 Auto-Decode
     if "vless://" not in content and len(content) > 50:
         try:
             decoded = base64.b64decode(content).decode('utf-8', errors='ignore')
             if "vless://" in decoded: content = decoded
         except: pass
 
-    # 3. Hard Block Filters
+    # 4. Hard Block Filters
     if ARABIC_REGEX.search(content): return "trash", 0, "Arabic"
     if any(d in content for d in BAD_DOMAINS): return "trash", 0, "Bad Domain"
 
-    # 4. Matryoshka Check (Aggregator)
+    # 5. Guide/Spam Heuristic (Быстрая проверка на гайды)
+    content_lower = content.lower()
+    guide_hits = sum(1 for word in GUIDE_KEYWORDS if word in content_lower)
+    if guide_hits >= 2:
+        return "trash", 0, f"Detected Guide/Spam (hits: {guide_hits})"
+
+    # 6. Matryoshka Check (Aggregator)
     links_raw = re.findall(r'(https?://[^\s<>"]+)', content)
     subs = [l for l in links_raw if any(x in l for x in ['.txt', '.json', '.yaml', 'raw', 'gist'])]
     if len(subs) >= 3 and "vless://" not in content:
@@ -278,7 +366,7 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
             return "aggregator", 0, subs
         return "trash", 0, "Max recursion"
 
-    # 5. VLESS Parsing & Scoring
+    # 7. VLESS Parsing & Scoring
     vless_links = re.findall(r'vless://[^\s<>"]+', content)
     valid_count = 0
     white_hits = 0
@@ -290,10 +378,19 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
         # Blacklist SNI Check
         if any(b in link for b in BLACK_SNI): continue
         
+        # Template/Placeholder Check (UUID и Host)
+        if any(placeholder in link for placeholder in ['uuid', 'server', 'your-uuid', 'example.com', '1.1.1.1']):
+            continue
+        uuid_match = re.search(r'(?P<uuid>[a-f0-9\-]{32,36})@', link, re.I)
+        if uuid_match:
+            uuid = uuid_match.group('uuid').replace('-', '')
+            if len(uuid) != 32: continue 
+            if len(set(uuid)) < 5: continue # Шаблон типа 1111...
+        
         # Whitelist SNI Check (RU Boost)
         if any(w in link for w in WHITE_SNI): white_hits += 1
         
-        # Fingerprint Dedup (Config Level)
+        # Fingerprint Dedup
         fp = extract_vless_fingerprint(link)
         if fp and fp not in SEEN_FINGERPRINTS:
             SEEN_FINGERPRINTS.add(fp)
@@ -302,7 +399,7 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     if valid_count == 0:
         return "trash", 0, "No valid VLESS"
 
-    # 6. Classification Logic
+    # 8. Classification Logic
     is_ru = False
     if white_hits > 0 or "Russia" in content or "ru_" in content:
         is_ru = True
@@ -310,16 +407,25 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     # AI Check for ambiguous cases
     if not is_ru and valid_count < 5:
         async with ai_semaphore:
-            ai_verdict = await ask_huggingface_async(session, content)
+            ai_verdict, ai_reason = await ask_huggingface_async(session, content)
+            logger.info(f"🤖 AI Check ({url_clean[:50]}...): Verdict={ai_verdict}, Reason={ai_reason}")
+            
             if ai_verdict == "ru": is_ru = True
-            elif ai_verdict == "spam": return "trash", 0, "AI-Spam"
+            elif ai_verdict in ["spam", "guide"]: return "trash", 0, f"AI-{ai_verdict}"
 
     tag = "RU" if is_ru else "GLOBAL"
     
-    # 7. Auto-Discovery (Return variations)
-    variations = generate_variations(url)
+    # 9. Auto-Discovery + Hybrid Hidden Links
+    variations = generate_variations(url_clean)
     
-    return "clean", valid_count, (tag, variations)
+    # Hybrid: Если файл чистый, проверим на скрытые ссылки на сабы внутри
+    hidden_subs = []
+    if valid_count > 0:
+        for link in links_raw:
+            if any(x in link for x in ['/sub?', '/api/', 'download', 'get.php']):
+                hidden_subs.append(link)
+    
+    return "clean", valid_count, (tag, variations + hidden_subs)
 
 # --- WORKER ---
 
@@ -330,35 +436,48 @@ async def worker(queue, session, ai_sem):
         
         status, count, data = await fetch_and_analyze(session, url, depth, ai_sem)
         
+        # Обновляем статистику
+        stats["total_fetched"] += 1
+        
         if status == "clean":
             tag, variations = data
             
-            # Save Source URL
-            RESULTS_BUFFER.append(f"{url}")
-            logger.info(f"✅ Found {count} nodes in {url} [{tag}]")
-            
-            # Spawn Variations (Auto-Discovery)
-            if variations:
-                for v_url in variations:
-                    if v_url not in VISITED_URLS:
-                        await queue.put((v_url, "source: brute-force", depth))
-                        
+            if tag == "RU":
+                RESULTS_BUFFER.append(f"{url}") # Сохраняем только RU
+                stats["clean_ru"] += count
+                logger.info(f"✅ Found {count} RU nodes in {url}")
+                
+                # Спавним варианты
+                if variations:
+                    for v_url in variations:
+                        if clean_url(v_url) not in VISITED_URLS:
+                            await queue.put((v_url, "source: brute-force", depth))
+            else:
+                stats["clean_global"] += count
+                # logger.info(f"🌍 Skipped {count} GLOBAL nodes in {url}")
+                # Всё равно проверяем на скрытые ссылки (Hybrid)
+                if variations:
+                    for v_url in variations:
+                        if clean_url(v_url) not in VISITED_URLS:
+                            await queue.put((v_url, "source: hidden-guess", depth))
+                            
         elif status == "aggregator":
-            # Spawn Recursion
+            stats["aggregators"] += 1
             for sub_url in data:
-                if sub_url not in VISITED_URLS:
+                if clean_url(sub_url) not in VISITED_URLS:
                     await queue.put((sub_url, "source: recursion", depth + 1))
                     
         elif status == "trash":
-            # logger.debug(f"🗑️ Trash: {url} ({data})")
-            pass
+            stats["trash"] += 1
+            
+        elif status == "error":
+            stats["errors"] += 1
             
         queue.task_done()
 
 # --- SMART MERGE ---
 
 def smart_merge_and_save(new_urls):
-    """Читает старый файл, добавляет новые уникальные, сохраняет."""
     filename = "verified_ru.txt"
     existing = set()
     
@@ -411,6 +530,17 @@ async def main():
             with open(os.environ["GITHUB_OUTPUT"], "a") as f:
                  f.write(f"FOUND_COUNT={added}\n")
 
+    # 4. Print Statistics
+    logger.info("="*40)
+    logger.info("📊 SESSION STATISTICS:")
+    logger.info(f"  URLs Checked:   {stats['total_fetched']}")
+    logger.info(f"  ✅ RU Nodes:    {stats['clean_ru']}")
+    logger.info(f"  🌍 Global:      {stats['clean_global']}")
+    logger.info(f"  🗑️  Trash/Guides: {stats['trash']}")
+    logger.info(f"  🔗 Aggregators:  {stats['aggregators']}")
+    logger.info(f"  ❌ Errors:       {stats['errors']}")
+    logger.info("="*40)
+
 if __name__ == "__main__":
     start_ts = time.time()
     try:
@@ -419,4 +549,4 @@ if __name__ == "__main__":
         loop.run_until_complete(main())
     except KeyboardInterrupt:
         pass
-    logger.info(f"Execution time: {round(time.time() - start_ts, 2)}s")
+    logger.info(f"Execution time: {round(time.time() - start_ts, 2)}s") 
