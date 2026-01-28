@@ -1,0 +1,54 @@
+name: VPN Cleaner (Genocide)
+
+on:
+  schedule:
+    # Запускается раз в неделю: Воскресенье, 04:00 UTC
+    - cron: '0 4 * * 0'
+  workflow_dispatch: # Позволяет запустить вручную кнопку
+
+permissions:
+  contents: write
+
+jobs:
+  cleaner:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        pip install aiohttp
+
+    - name: Pull latest changes
+      run: |
+        git config --global user.name 'VPN Scout Bot'
+        git config --global user.email 'bot@noreply.github.com'
+        git pull origin main
+
+    - name: Run Cleaner Logic
+      run: |
+        python cleaner.py
+
+    - name: Commit and Push changes
+      run: |
+        # Добавляем только файл со списком
+        git add verified_ru.txt 2>/dev/null || true
+        
+        # Проверяем, есть ли изменения
+        if git diff --cached --quiet; then
+          echo "No dead links found. Base is clean."
+          exit 0
+        fi
+        
+        # Коммитим
+        git commit -m "🧹 Cleaner: Genocide completed $(date +'%Y-%m-%d %H:%M:%S')"
+        
+        # Пушим
+        git push origin main
