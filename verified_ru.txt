@@ -104,6 +104,7 @@ https://raw.githubusercontent.com/kojjii/vv/18de1fc8411cfb74d0ba5f72c0870110b6ce
 https://raw.githubusercontent.com/kojjii/vv/18de1fc8411cfb74d0ba5f72c0870110b6ce0c17/x082
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/00d2ac72af2ee3e3223278f5ff495f8098a7071c/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/04efeb6d2642b6496b0a2e083832df03f490c7f5/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/0d27a8b0a3e5794e79b7219cb5ecd68f66f5f106/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/0fd437a85ade8e2351cf929920ffe757b6a7099b/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/10c260615a6678f9ce96b5213c936472c5b7b455/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/1354598a2d34e88754c965c4a675ad17ab21b969/githubmirror/new/by_protocol/vless/vless_017.txt
@@ -172,6 +173,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/18352596de5f55f93c53401c8e7e
 https://raw.githubusercontent.com/sakha1370/OpenRay/22f3a07c59c9e74c8f10a501fd62bab111743bfb/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2969a9afcd80b8e2326ae0f1e0af007fc5279fb7/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/316b082c1ec046ea535a327823fc501bc9a378e7/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/3abc3cc07de9d227f6d7b6c9c47375ffb9602936/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/3e9da35a03224ab507a468b6481cf077efd7c462/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/40c5ebb8f31fdf7e33aa20bbd5781df7d01d4fd7/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/433fdf199375aab2f60f3da2c5cf1f5604de3e0d/output/country/RU.txt
