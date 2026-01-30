@@ -228,7 +228,6 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/fb6208788feeb9fd427c758063af
 https://raw.githubusercontent.com/tanhatarinam/server/5638127c4f3e21d2a4f906be578a481d6c04e5cd/NEO.text
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/34272382f7af5300a445230d7d8f24877cf8b6ee/Sub.txt
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/6a7aa705a74734fa813b5f6915040ac750dd7eb4/Sub.txt
-https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh_old
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhjk
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhljjjkk
