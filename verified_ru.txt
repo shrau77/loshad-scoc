@@ -51,7 +51,6 @@ https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/ae1642214820c5372e30f5a
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/c237f77330e6f20033287986cfd5ab3e32650189/configs/russia_whitelist.txt
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/e8fa866559c0c0098cc5dc0c0bb7d79da90bfe50/configs/russia_whitelist.txt
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/eb19917ca31a6de0449c686a418ddad06d734db7/configs/russia_whitelist.txt
-https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/main/configs/russia_whitelist.txt
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs
 https://raw.githubusercontent.com/Hdyxgd/amin1/ef26c7b2ad18280e5854007a5ac975ab47cf2e2b/Realit
 https://raw.githubusercontent.com/Hdyxgd/amovjfj/f2c55f5ecf0d337ce79f4733321b669419af28c2/Reality
@@ -106,7 +105,6 @@ https://raw.githubusercontent.com/Semenhach1/vpnserver/70c4f7a58a7e845f38dfb60ae
 https://raw.githubusercontent.com/Semenhach1/vpnserver/79187b37141eaf5f5db69655b1bc18f0b0931e38/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/843e9db973e52106eb8fe9f6717c22fe91f273b9/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/ad8b4630006aa023a9642ef07c3791184903cd2c/test
-https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/main/FL1PVPN#FL1PVPN
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240329.txt
