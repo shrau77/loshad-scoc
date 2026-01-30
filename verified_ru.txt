@@ -160,6 +160,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/663815593b26
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/6d25640020c8b0fb4268cc4085088fdebf8f6c56/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/6dc6225f787a78d25eba282ba92714d3960c65d3/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/6dd0c6c54d323884a226c6dc08186ef45d85f013/githubmirror/new/by_protocol/vless/vless_018.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/6e98c3227e0db9abbde2e6ea06f1c14a68b71d2c/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/74b13537147d00c7180197fc41d97e8fe18af581/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/751035ac99e1265fa4144963675a0d42dc11a6f1/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/7bbc330a48f2947a1a24e2f19c72759f00dd5e73/githubmirror/new/by_protocol/vless/vless_017.txt
@@ -237,6 +238,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/9ef29e6173b3ddfdd11947c0b5ea
 https://raw.githubusercontent.com/sakha1370/OpenRay/9ef57abb80cb1eb430c23e9e4a49a4eb53618a59/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/a5f5eb39bba05dde249e25751407bd5c4c3c011f/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/a8a992160f2e0c195f4389737faee654d941e0db/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/bc0366081463e0f3e8cfba06f103ee8a414c826c/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/c35712dc2f783599155691fec156348d827e7d1d/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/d2d19e0a462d1eb82d97ecf1198142c7948c3c9b/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/e6f5a2a741152c8f5ce000f66bfd403229031679/output/country/RU.txt
