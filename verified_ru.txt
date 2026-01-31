@@ -17,7 +17,6 @@ https://github.com/pwjf4rxfkf-wq/vpn-subs/raw/main/subs.txt
 https://github.com/qwwqe18-cmyk/VPNRUOBNOVILKA/raw/main/ru_top.txt
 https://github.com/svpjohji/VPN/raw/main/NECHAEV_VPN
 https://github.com/universal-hd/HydranetVPN/raw/main/111ServHydranetVPN.txt
-https://github.com/whatplayer9/vpn-subs/raw/main/servers.json
 https://github.com/whatplayer9/vpn-subs/raw/main/subs.json
 https://github.com/zeltest10-debug/vpn-sub/raw/main/eu.txt
 https://github.com/zieng2/wl/raw/main/vless.txt
