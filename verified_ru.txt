@@ -199,7 +199,6 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/f2128fb11851
 https://raw.githubusercontent.com/koteey/Ms.Kerosin-VPN/refs/heads/main/proxies.txt
 https://raw.githubusercontent.com/liketolivefree/kobabi/1850f3c93483844a9502362d8af1cbc7fbd068cc/sub.txt
 https://raw.githubusercontent.com/liketolivefree/kobabi/cbb37a89860ce3333cb15eed95fc5af541820cf7/sub.txt
-https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt
 https://raw.githubusercontent.com/maplelgj/TV/c9264f50a436e5cb67eda56e331f5619783c08ed/VV
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
 https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/38bea52f9db127d8512b5d2545a53dd9133a78ce/sub.txt
