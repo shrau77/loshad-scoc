@@ -136,6 +136,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/0d27a8b0a3e5
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/0fd437a85ade8e2351cf929920ffe757b6a7099b/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/10c260615a6678f9ce96b5213c936472c5b7b455/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/1354598a2d34e88754c965c4a675ad17ab21b969/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/156de585058cef08cecb81195e37ccee60f05d09/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/18c3d298731286fa403e52ba40378fade5f2830e/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/1950e8f40b57ab521d2e876d6a66f84fce24db3f/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/1a918ffe7ccd4a7bdcd487a41adce3844f1b7638/githubmirror/new/by_protocol/vless/vless_017.txt
@@ -235,6 +236,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/1c314f107bf833f0a742ad181a7d
 https://raw.githubusercontent.com/sakha1370/OpenRay/21dfff7764501f384976d8aadf377e0df7103d37/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/22f3a07c59c9e74c8f10a501fd62bab111743bfb/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/253ac70e06e66de888499cbe1d0ceb7308563b68/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/26e276bae9f6d577fc59976e70811e37f1a717ca/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2969a9afcd80b8e2326ae0f1e0af007fc5279fb7/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2d0ade3cb3c1c1dc49cf1cb80fb61b23708141ae/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/316b082c1ec046ea535a327823fc501bc9a378e7/output/country/RU.txt
@@ -504,6 +506,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074c
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/48.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/50.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/51.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/76.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d242ff698ff6a31a5ccd903adb4672e827a28279/githubmirror/bypass-unsecure/bypass-unsecure-12.txt
