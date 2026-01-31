@@ -108,7 +108,6 @@ https://raw.githubusercontent.com/Semenhach1/vpnserver/70c4f7a58a7e845f38dfb60ae
 https://raw.githubusercontent.com/Semenhach1/vpnserver/79187b37141eaf5f5db69655b1bc18f0b0931e38/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/843e9db973e52106eb8fe9f6717c22fe91f273b9/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/ad8b4630006aa023a9642ef07c3791184903cd2c/test
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no4.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240329.txt
@@ -219,9 +218,6 @@ https://raw.githubusercontent.com/liketolivefree/kobabi/cbb37a89860ce3333cb15eed
 https://raw.githubusercontent.com/maplelgj/TV/c9264f50a436e5cb67eda56e331f5619783c08ed/VV
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
 https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/38bea52f9db127d8512b5d2545a53dd9133a78ce/sub.txt
-https://raw.githubusercontent.com/qjlxg/HA/1ed7edcd69abdf2641b4894178986d5bf409c402/sc/2025-08/2025-08-23/all_unique_nodes.txt_2025-08-23_001147
-https://raw.githubusercontent.com/qjlxg/HA/3f7fd0943531861ca8ba9891d01bbc071f3983af/sc/2025-08/2025-08-23/all_unique_nodes.txt_2025-08-23_001147
-https://raw.githubusercontent.com/qjlxg/HA/72e33b47a4d7b81eaa92038698dc0ec99663c958/sc/2025-08/2025-08-23/all_unique_nodes.txt_2025-08-23_001147
 https://raw.githubusercontent.com/runoneall/v2server/79e90325ee815d656d7103845d0f15f6b794dcc1/one.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/10cfcec79f415f7e3431c7d4a5ca002af9625ba4/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/16d411164424751a848d69ccad2e5f3414b15be6/output/country/RU.txt
