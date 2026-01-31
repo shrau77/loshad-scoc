@@ -138,6 +138,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2361741dde42
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/24e4870d6ba3c6379c998982cd6876ad57510841/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2e583a95de95cb9b328fc6b5bbb165c112a78ce1/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2f59234924bc1a2cf3b02d9bac72c0449cec148d/githubmirror/new/by_protocol/vless/vless_018.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/3385fb264ca2e86158d48fb3cfa9495a9a96362c/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/34b521a1281d85e5415a28c5ab6e3eb87755cf62/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/401e067c33f3d55d2fb7ebc9624dc195bd238f4f/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/404fd48592a6f1d076345a310d2bb3b2e23780fb/githubmirror/new/by_protocol/vless/vless_017.txt
@@ -257,6 +258,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/e9282251404436cb45671b2929c4
 https://raw.githubusercontent.com/sakha1370/OpenRay/ed3ff4615908386475c7b05a9b0b26b02eeff8d3/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/f66f0ea34850f5a354bf1863171452e8c9fe4db9/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/f742136869b44f8d4bb8dcc77e0da880d11fa1dc/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/fa871e4f90d6b8cf4f927d049297bdef5ac33fe7/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/fb6208788feeb9fd427c758063af21e6ed3e961b/output/country/RU.txt
 https://raw.githubusercontent.com/tanhatarinam/server/5638127c4f3e21d2a4f906be578a481d6c04e5cd/NEO.text
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/34272382f7af5300a445230d7d8f24877cf8b6ee/Sub.txt
