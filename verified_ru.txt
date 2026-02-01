@@ -119,7 +119,6 @@ https://raw.githubusercontent.com/Semenhach1/vpnserver/7d28fd1719a7a34e46ce5c067
 https://raw.githubusercontent.com/Semenhach1/vpnserver/843e9db973e52106eb8fe9f6717c22fe91f273b9/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/8e379e98b3c4af5b8348f06d47242cbe41be4122/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/ad8b4630006aa023a9642ef07c3791184903cd2c/test
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no2.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240329.txt
