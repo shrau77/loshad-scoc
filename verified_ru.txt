@@ -39,6 +39,8 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/915bbef0055feb4cfe0a0e6dd24
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/97f0cbcb709a069a365e6a65028fcbd5b55f7d52/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a3dea83ddc7f1cde0806f60d1816506b229d4010/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c56d6ce34700cd092858052f2d9254a1de253e65/data/sub/channel_subs/v2nodes.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/f8d274fd97d237589fb8312cf84e1d19a346da17/data/sub/channel_subs/v2nodes.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/f8d274fd97d237589fb8312cf84e1d19a346da17/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/wenode.txt
@@ -110,12 +112,14 @@ https://raw.githubusercontent.com/SamanValipour1/My-v2ray-configs/main/MySub.txt
 https://raw.githubusercontent.com/Semenhach1/vpnserver/0aa24db5a3cbdb222d8ea14161c056cb079ffaec/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/1bc4fc917f91ad7286e3b612d16d52ef13f004fb/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/2092254e1c55a123607335a1d19ef596b96bb507/test
+https://raw.githubusercontent.com/Semenhach1/vpnserver/324200dd3daf84a31588d054372048aed25d422a/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/70c4f7a58a7e845f38dfb60ae6cedb596f13bbf9/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/79187b37141eaf5f5db69655b1bc18f0b0931e38/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/7d28fd1719a7a34e46ce5c0672143559f9844145/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/843e9db973e52106eb8fe9f6717c22fe91f273b9/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/8e379e98b3c4af5b8348f06d47242cbe41be4122/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/ad8b4630006aa023a9642ef07c3791184903cd2c/test
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no2.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240329.txt
@@ -223,6 +227,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c1bebbcbb842
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c2383acb85a775e827d8e55dda8defe18df76d69/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c38a906393907b8687520944de57015612332b6a/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c67ea50cfd764a2b6b7611eb51bc9b8179dc41cf/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d0f2886fab825b6833e9df06576ff4532c1a132f/githubmirror/new/by_protocol/vless/vless_019.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d46e3f140a9ab347b17291caf6b7c7d6767a3ce3/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d5bc1be47e3f69f0ce10233957f20d0f87c50d74/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d7ae2328ce23ac553fb53870711cb33621aaea7a/githubmirror/new/by_protocol/vless/vless_018.txt
@@ -253,6 +258,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/100070591d2348ab113507b9eccd
 https://raw.githubusercontent.com/sakha1370/OpenRay/10164648f68248afe3ad23663826e5615e1631ac/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/10cfcec79f415f7e3431c7d4a5ca002af9625ba4/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/10e30ebbef2058f59e79fac296025e597c03329b/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/1161be646c7ca809c9c39c4a1ce3643926ebef72/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/16d411164424751a848d69ccad2e5f3414b15be6/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/18352596de5f55f93c53401c8e7eed98bbb46b80/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/1c314f107bf833f0a742ad181a7da7ff9c1008a3/output/country/RU.txt
