@@ -9,6 +9,7 @@ https://github.com/Mukhin7/MukhinVPN/raw/main/MukhinVPN.txt
 https://github.com/Semenhach1/vpnserver/raw/main/test
 https://github.com/SilentGhostCodes/TestWhiteListVpn/raw/main/config.txt
 https://github.com/Sprorororo/Sava-VPN-Premium/raw/main/Sava.txt
+https://github.com/Urbanica/vpn-sub/raw/main/sub.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-CIDR-RU-checked.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-SNI-RU-all.txt
 https://github.com/mhitarana509-svg/Phantom-vpn/raw/main/Phantom%20vppn
@@ -49,10 +50,12 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a3dea83ddc7f1cde0806f60d181
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/bd7240299affba02cd87881db6e43905018ea110/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c1f6e615c0f26e1be235626ab80c92a3dc7548dd/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c56d6ce34700cd092858052f2d9254a1de253e65/data/sub/channel_subs/v2nodes.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/e1b7d4cc8a28b71ebc60a66f3f915679f1f4d788/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/f8d274fd97d237589fb8312cf84e1d19a346da17/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/f8d274fd97d237589fb8312cf84e1d19a346da17/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa69ff569c3d45d002a716b95c349f3fc813af05/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa69ff569c3d45d002a716b95c349f3fc813af05/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Country/Russia.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/wenode.txt
@@ -132,7 +135,11 @@ https://raw.githubusercontent.com/Semenhach1/vpnserver/843e9db973e52106eb8fe9f67
 https://raw.githubusercontent.com/Semenhach1/vpnserver/8e379e98b3c4af5b8348f06d47242cbe41be4122/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/ad8b4630006aa023a9642ef07c3791184903cd2c/test
 https://raw.githubusercontent.com/Semenhach1/vpnserver/bb6fe46722af230990f54b40258d1437c585adeb/test
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no10.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no2.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no3.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no8.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240329.txt
@@ -233,6 +240,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/86dd6cbd551a
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8bc2b72433afd33e538a69669e41adedbe408ad5/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/91a6c5b0336271f76d3a2a13de57380b4a4252a1/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/987cbaf26783ae260116d30595e5acb2a84d86ef/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/992b36c405f1f2ec7180d32e28652d39c946c325/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/997d0e8a822dfaca502001c3c4aca17f44fdcf08/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/9b0226aaf85039a0507f13339894b5cf25cce6d5/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/9c2573670b1b41ebf5e268916c57148590544080/githubmirror/new/by_protocol/vless/vless_017.txt
@@ -315,6 +323,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/253ac70e06e66de888499cbe1d0c
 https://raw.githubusercontent.com/sakha1370/OpenRay/26885d3725d062c63b547d51cc297371e26fdd6e/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/26e276bae9f6d577fc59976e70811e37f1a717ca/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2969a9afcd80b8e2326ae0f1e0af007fc5279fb7/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/299bc665cc46ecc0035f39269e859248fcbb394c/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2a5d92da739c1d8c6690e143e6a5cc1d17bf4f17/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2d0ade3cb3c1c1dc49cf1cb80fb61b23708141ae/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2f965da9105938ef3ca9297af4a7aef1aad1cf2c/output/country/RU.txt
