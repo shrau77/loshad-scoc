@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/Ai123999/WhiteKeys/refs/heads/main/WhiteKeys
 https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whitelistkeys
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/0159d2efd222b7823a01285bd6fafcd03c210f44/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/273dbf09a5689c53f004b5a7de0e942c03aa597e/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/36603a4436746852df0c215cd5ea5278a602ea88/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/3f211dd761cd6f737a6f67ace0ed9873dc4408c4/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/43eb1b8061373d36d3bf76ca6e89090027a9c38f/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/4aa0643cbe32857cb5c1f0aa7a3ac43754961222/data/sub/channel_subs/v2nodes.txt
@@ -222,6 +223,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/7eaaed905bfe
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/7f88579d23dc9ace4f5072ae529b31319ae5cb61/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8050ecea5f10012f62cefe606cc9990070beedc7/githubmirror/new/by_protocol/vless/vless_019.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/80e8901f6b823c9e9398d8c705beb7086a0174c9/githubmirror/new/by_protocol/vless/vless_018.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8126d0c4805ad1ca16697786a68bc1b2a2656393/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/863d2f690f16a55c367170c08d1d51c57f68a828/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/86a19043d32c11cae3f789bcdc43856d6c9b27ca/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8bc2b72433afd33e538a69669e41adedbe408ad5/githubmirror/new/by_protocol/vless/vless_017.txt
@@ -272,6 +274,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e86669cd6c95
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e9d6f7cd9d759c10b51726eac3ab9a66d11d351e/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ea46da5377578f5c604e023f2ba0e73b1e861cab/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/eb3fefc76fedbed06c5bbd1a282206d59fff75ca/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/eda2d6b8cf034b79bdfcd89913a9f1658b80cf31/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/f1913784778e0de30bab7943cd8720c07bbc6b12/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/f2128fb118511a2ff36b3d7e3d497bdf37ed6d0f/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/f80c0fb2ab0d8101b6fd27dc6f0acf9a5cca86ab/githubmirror/new/by_protocol/vless/vless_021.txt
@@ -313,6 +316,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/3371ee1a47962854ffc6fb7f1884
 https://raw.githubusercontent.com/sakha1370/OpenRay/33b2540e508ceea50eb45574f4c98ea926824fee/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/351a2710751cecda33fd8e085c5a494eb2935cff/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/378eee18fedd3fd34a3dbd41bfe1dff8e72a978a/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/37a2c825649341d622a73d5ac68421db1df5792e/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/3abc3cc07de9d227f6d7b6c9c47375ffb9602936/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/3cc3aef5b5d71287ac8ddb25110987c5ebe82524/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/3e53d97d0e02edea80f261dd1254314ff9dd7807/output/country/RU.txt
@@ -382,6 +386,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/fc14ea3fe6f57bfb83e9386bc201
 https://raw.githubusercontent.com/tanhatarinam/server/5638127c4f3e21d2a4f906be578a481d6c04e5cd/NEO.text
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/34272382f7af5300a445230d7d8f24877cf8b6ee/Sub.txt
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/6a7aa705a74734fa813b5f6915040ac750dd7eb4/Sub.txt
+https://raw.githubusercontent.com/trikiman/desktop-tutorial/cf10eda09b1ecaf338bc9fe7e78234225ad9f2e7/Sub.txt
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh_old
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhjk
@@ -544,6 +549,20 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/62053bf20a93e80be26f7af1d32615
 https://raw.githubusercontent.com/whoahaow/rjsxrd/62053bf20a93e80be26f7af1d32615c8f57b707f/githubmirror/default/48.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/62053bf20a93e80be26f7af1d32615c8f57b707f/githubmirror/default/50.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/62053bf20a93e80be26f7af1d32615c8f57b707f/githubmirror/default/51.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass-unsecure/bypass-unsecure-10.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass-unsecure/bypass-unsecure-12.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass-unsecure/bypass-unsecure-13.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass-unsecure/bypass-unsecure-2.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass-unsecure/bypass-unsecure-3.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass/bypass-10.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass/bypass-12.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass/bypass-2.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass/bypass-3.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass/bypass-4.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass/bypass-6.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass/bypass-7.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/bypass/bypass-8.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7a0f7ce103ea4e126ad6c1067e1ae62f0fb86731/githubmirror/default/120.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e8330e9098b581e74db8250565ea8fca75289c6/githubmirror/bypass-unsecure/bypass-unsecure-10.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e8330e9098b581e74db8250565ea8fca75289c6/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e8330e9098b581e74db8250565ea8fca75289c6/githubmirror/bypass-unsecure/bypass-unsecure-2.txt
