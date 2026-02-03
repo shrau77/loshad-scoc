@@ -22,6 +22,7 @@ https://github.com/universal-hd/HydranetVPN/raw/main/111ServHydranetVPN.txt
 https://github.com/whatplayer9/vpn-subs/raw/main/subs.json
 https://github.com/zeltest10-debug/vpn-sub/raw/main/eu.txt
 https://github.com/zieng2/wl/raw/main/vless.txt
+https://gitverse.ru/api/repos/Vsevj/OBS/raw/branch/master/wwh
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/13dd0153c306586f9802e9a9ab96a6798edd5310/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/25781eadbad2ffdb73a7ca6a6ce0c9c0faa4d6a4/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/820cec0826ab3f4591607871d714978c35d5b402/whitelist.txt
@@ -266,6 +267,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/be9c03c59482
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/bedec06c9b6d30e10be83ed7e7f7f7ae3cf84b49/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/bf93ae578ecb7795b3b2f4fbd8cfc8382948bbfc/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c18b5232086ae457915f6ab3d0760985d57aab2f/githubmirror/new/by_protocol/vless/vless_019.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c19f7d34b15b58bfb57bbb3ff676b791ebfe613e/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c1bebbcbb8420d133ba3a468f3cf21b39274c0c7/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c2383acb85a775e827d8e55dda8defe18df76d69/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c38a906393907b8687520944de57015612332b6a/githubmirror/new/by_protocol/vless/vless_017.txt
