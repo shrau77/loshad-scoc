@@ -167,10 +167,12 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/03bdb2c3900ede85267bb
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4c043391aa296c6ae72ce44112aa84a3b7d9e23d/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4c043391aa296c6ae72ce44112aa84a3b7d9e23d/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/573445b6b7443853ab1f35bc48e6f5602ce9ad95/Countries/Albania.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7e97ff5b567ac378416c78658ee6fab744065894/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/876216d93adc181ba713d2e34876acc40d128322/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c62e320794198e32d84406c0f69c1c3e604753e7/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c9b775377ba9b8dcd781d8837c07c0760e4926c2/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fd98b1f73020e3512b12fbbc9b8731b67ae59ab0/Countries/T%C3%BCrkiye.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no10.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240329.txt
@@ -183,6 +185,8 @@ https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/b2d0eaad37c
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/e861f223cd42bd5ce1520ac2f533328d159eb866/detailed/vless/501.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/obhod1.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/1422f4bec8ea082a9765f6b16605a99a4f67f6f2/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/1422f4bec8ea082a9765f6b16605a99a4f67f6f2/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/3f780c4351d6525adfcbb9b8ca07eb8df3fd1968/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/3f780c4351d6525adfcbb9b8ca07eb8df3fd1968/WHITE-CIDR-RU-checked.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/534945adef82d29ed0b12c03d547d517e4681806/Vless-Reality-White-Lists-Rus-Mobile-2.txt
@@ -224,6 +228,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2361741dde42
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/23d4123ec50583ec6da7f6f823485f21e5cf0035/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/248ab73c56e5d7c46c557bbc07ce1a5481148e8e/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/24e4870d6ba3c6379c998982cd6876ad57510841/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/27bfa473f196fc41b35627df16a56b6cc598e00a/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2e562be4564d4bb450267603531b55eaeba6be0c/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2e562be4564d4bb450267603531b55eaeba6be0c/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2e583a95de95cb9b328fc6b5bbb165c112a78ce1/githubmirror/new/by_protocol/vless/vless_017.txt
