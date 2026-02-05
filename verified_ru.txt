@@ -1,3 +1,4 @@
+https://bp.wl.free.nf/confs/selected.txt
 https://bp.wl.free.nf/confs/wl.txt
 https://github.com/AirLinkVPN/AirLinkVPN.github.io/raw/main/1.txt
 https://github.com/Artem0790YT/vpninternet/raw/main/vpn.txt
@@ -432,6 +433,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/dc37f12f1a76
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/dff41ac3722d7bbb85ec11b3b8999d8f45d3be78/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e2b2635d83f8981d81127eb8842420e08a4738fa/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e2bad1a7f5a412fcccd40aebd1bfdf97a3b41d9e/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e30c6a8a97ae8e2c689aa252f1b04adc78c6710e/githubmirror/new/by_protocol/vless/vless_019.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e40e31526fc6c7c954145d4965a467fa22235b1f/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e55c561ad74551fceae3e51c906f9a26600d861d/githubmirror/new/by_protocol/vless/vless_019.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e5fd897e30a10b9c042fc6873000729432f6893c/githubmirror/new/by_protocol/vless/vless_017.txt
