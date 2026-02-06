@@ -197,6 +197,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5573ffc98c66e636cfe1f
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/573445b6b7443853ab1f35bc48e6f5602ce9ad95/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5a61b28057e0946eb0bc41d77e54d0c094546beb/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7344af7f10d76b7d90645a864f651cd470085a0d/Subscriptions/Sub30.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/79cec896884acc72d180f15d780e35c63be9f3ba/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7e97ff5b567ac378416c78658ee6fab744065894/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/82967d69ef21da8d40a71fc53086201edf0d1c09/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/8407d40e63667df49e895f8fabde719c2957b27b/Countries/Portugal.txt
@@ -230,6 +231,7 @@ https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/15e3a74ac50
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/2b2b8e7aad91e4a89c3348c40f1d456938a4ef81/detailed/vless/3443.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/2b2b8e7aad91e4a89c3348c40f1d456938a4ef81/detailed/vless/4443.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/673e9af52ca49a042e8abe0ba4980bddcd62b74d/detailed/vless/4249.txt
+https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/9f4792167f18902bfd31fe18596c46114222bacf/detailed/vless/4443.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/b2d0eaad37c14ff599908dc8b9a1e9bff7a838f9/detailed/vless/5443.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/cabb7e01cbfa643cdc5c355cf163ddae5d80f3c3/detailed/vless/501.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/d3b3ede6b21ef7ef841089511d856265ae0c07be/detailed/vless/4249.txt
@@ -435,6 +437,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c67ea50cfd76
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/c6f050e93554437e7b4bcb3fc5e53209f09ea351/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ca5e12810e19ce93ea938b1e38623200be85c7aa/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/cabbcd89bec4a85483503317a560c32b774753ae/githubmirror/new/by_protocol/vless/vless_021.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/cb51536192d94f044bae0d3b0ed7a0cc58a4adfa/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/cbce250ceade66e9ea2dcfafe30e5174ab03a0a9/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ced5b8af4b8052c649331134c2cc9c089a25f2f8/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d0f2886fab825b6833e9df06576ff4532c1a132f/githubmirror/new/by_protocol/vless/vless_019.txt
@@ -481,6 +484,7 @@ https://raw.githubusercontent.com/maplelgj/TV/c9264f50a436e5cb67eda56e331f561978
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
 https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/38bea52f9db127d8512b5d2545a53dd9133a78ce/sub.txt
 https://raw.githubusercontent.com/runoneall/v2server/79e90325ee815d656d7103845d0f15f6b794dcc1/one.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/01d72af29c136feb9ab5bb0ce9ad3a5681fc4da7/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/06422cb8b26da56318591c9376a394e3ddd97037/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/06f024d70a25275437046f7a3ff2a0e92dff392b/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/0995eba6cc8bf8ac68001a2c0635000a5c78cf40/output/country/RU.txt
@@ -677,6 +681,8 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c658
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass-unsecure/bypass-unsecure-3.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass-unsecure/bypass-unsecure-4.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass-unsecure/bypass-unsecure-6.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass-unsecure/bypass-unsecure-7.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass-unsecure/bypass-unsecure-8.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass/bypass-2.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass/bypass-3.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass/bypass-4.txt
@@ -684,7 +690,11 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c658
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass/bypass-7.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass/bypass-8.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/default/110.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/default/111.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/default/118.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/default/120.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/default/13.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/default/42.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/176198f70ce8c7d827e9c4393344957ecb00b860/githubmirror/bypass-unsecure/bypass-unsecure-10.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/176198f70ce8c7d827e9c4393344957ecb00b860/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
@@ -1187,6 +1197,7 @@ https://raw.githubusercontent.com/zieng2/wl/8b61ae48c2b70a0a5854f295ba4e495fa0eb
 https://raw.githubusercontent.com/zieng2/wl/9fb45afdb1b9f607c3ff801db18b4d15746853c4/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/a9435df582c03c151d3f83303add271f82cf1b61/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/ade75852a8d495f06cced03133378ea95f7b777d/vless_lite.txt
+https://raw.githubusercontent.com/zieng2/wl/bbe2a19d03ec4dd63d381a44741e0d0e0195833d/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/d1b63a3fadec53528d6321894eb9d4b5b004f45f/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/d7869c5ea59517f6becf2b9655ecff3565578ebb/vless_lite.txt
 https://storage.yandexcloud.net/cid-vpn/whitelist.txt
