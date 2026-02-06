@@ -223,6 +223,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c9b775377ba9b8dcd781d
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/cc1945eda5d919fb14cd4ef36f2f74ff84d7ec21/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ccf4a1a87f95f4b7eca9946e4fdfe303172877c4/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fd98b1f73020e3512b12fbbc9b8731b67ae59ab0/Countries/T%C3%BCrkiye.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no8.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240329.txt
@@ -339,6 +340,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/27bfa473f196
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2e562be4564d4bb450267603531b55eaeba6be0c/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2e562be4564d4bb450267603531b55eaeba6be0c/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2e583a95de95cb9b328fc6b5bbb165c112a78ce1/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2eb15b66ea19d7cb4fb713bbd438e9d7423e256f/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/2f59234924bc1a2cf3b02d9bac72c0449cec148d/githubmirror/new/by_protocol/vless/vless_018.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/308739df8518bae77f7fd580f622db24710bda33/githubmirror/new/by_protocol/vless/vless_019.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/32171bddb54e9bf0586c771a4fd907b5f344e998/githubmirror/new/by_protocol/vless/vless_017.txt
@@ -633,6 +635,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/d5113d6bb1949e005418e7662384
 https://raw.githubusercontent.com/sakha1370/OpenRay/d657e4784f8e68f9ac2b402a6de63bf0374fbfd5/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/dde4304f236d28664effc277b4d40d09b7f1db19/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/e2eb12d5fe19fd45c972706a58a679e248b5133d/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/e359cae47cbdfc0cccf001273933e2caf309acf6/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/e6f5a2a741152c8f5ce000f66bfd403229031679/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/e8088271b22c204bf96c53d513c762fd3767a4a0/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/e9282251404436cb45671b2929c4b7fcbe4a162c/output/country/RU.txt
