@@ -211,7 +211,6 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c62e320794198e32d8440
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c9b775377ba9b8dcd781d8837c07c0760e4926c2/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/cc1945eda5d919fb14cd4ef36f2f74ff84d7ec21/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fd98b1f73020e3512b12fbbc9b8731b67ae59ab0/Countries/T%C3%BCrkiye.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240329.txt
