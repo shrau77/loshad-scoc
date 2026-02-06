@@ -101,6 +101,7 @@ https://raw.githubusercontent.com/Dan20104/iptv/0f20b0a9286167a40f659dba4e4bc1cd
 https://raw.githubusercontent.com/Danialsamadi/v2go/7682e3265a41df066b1eeb9f43dd632bf26beb65/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/d59e8b164de2b4877b6a884afefe3402a77321c3/splitted-by-country/United_Kingdom.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/df1e95583b3dab307bbc2578d3e5d795be72ce1c/splitted-by-country/Poland.txt
+https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/df1e95583b3dab307bbc2578d3e5d795be72ce1c/splitted-by-country/Russia.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-country/Russia.txt
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/0ff58f4b86a5e4364ee414571eff0cd349c839e6/configs/russia_whitelist.txt
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/1c9e938c768b486ee86d963523a742cf75493ab9/configs/russia_whitelist.txt
@@ -226,6 +227,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b3179152f2e311392989b
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b58e276f99d671703cb6d4358c28c0bab9a689ec/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b8573b6fafe7c98279b9f10d99fc788988bfb3f4/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/bd4b194f5b1f679c89914dca977fbf1de68d965a/Countries/Russia.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c1360559a4fbe2e4e3a7ae3a2de882f0982415d5/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c4f90b503bbbdf7c8065dcf5c1b1f2b1c7b12769/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c62e320794198e32d84406c0f69c1c3e604753e7/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c9b775377ba9b8dcd781d8837c07c0760e4926c2/Countries/T%C3%BCrkiye.txt
