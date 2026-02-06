@@ -201,6 +201,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0e941230b0b41c5fa245c
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/2e5f70fc768668452192ff7107cf2e79b0e4d0e8/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/36807a8c475da56000780b601f5e20a60f258d00/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/38e592d065b24c119028571c826ed3adebc7a483/Countries/Russia.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/3ae6b3b275d1fb5419638ca0de710fbe246c0a92/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4abc79659a5f231462826ae2230786a6ec8be811/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4c043391aa296c6ae72ce44112aa84a3b7d9e23d/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4c043391aa296c6ae72ce44112aa84a3b7d9e23d/Countries/T%C3%BCrkiye.txt
