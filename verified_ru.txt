@@ -266,6 +266,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ed8b6d1742ace64ae00de
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fd98b1f73020e3512b12fbbc9b8731b67ae59ab0/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fe966b174ca73dfd2091ad6adb2083a785005f88/Countries/Russia.txt
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/59c95be0a28a0c0629946196cf69ebc4a0baec50/stats.json
+https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/da4dcb9c8eedb3358d5dba98232b02b26d686f52/stats.json
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
@@ -384,6 +385,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/00d2ac72af2e
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/01794a1be0adf03dfedabf9ea8866cd7804b68a1/githubmirror/new/by_protocol/vless/vless_019.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/0221bdcf96b647d91f321d968bd3d4a9f97478cc/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/02a451be8e742de939a94952fde2dc9fe90cd65b/githubmirror/new/by_protocol/vless/vless_020.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/049774cb7b88199f37306783a29b78d6ecda4e7c/githubmirror/new/by_protocol/vless/vless_022.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/04efeb6d2642b6496b0a2e083832df03f490c7f5/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/05fe4c9fa627d1b142522a4dbf4d3b9bd0b4082b/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/06c20495df5294b2dc4cacf91fa2a0b62f8a47aa/githubmirror/new/by_protocol/vless/vless_016.txt
