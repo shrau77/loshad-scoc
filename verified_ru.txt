@@ -211,6 +211,8 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/2e5f70fc768668452192f
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/36807a8c475da56000780b601f5e20a60f258d00/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/38e592d065b24c119028571c826ed3adebc7a483/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/3ae6b3b275d1fb5419638ca0de710fbe246c0a92/Countries/Russia.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/41408affa1d491767ae9023c4c76303d6d65041b/Countries/Albania.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/41408affa1d491767ae9023c4c76303d6d65041b/Countries/Latvia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4a339ba6e8eaf65dfd730f8838340b522a4a98a2/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4a339ba6e8eaf65dfd730f8838340b522a4a98a2/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4a339ba6e8eaf65dfd730f8838340b522a4a98a2/Subscriptions/Sub14.txt
@@ -354,6 +356,7 @@ https://raw.githubusercontent.com/kojjii/vv/18de1fc8411cfb74d0ba5f72c0870110b6ce
 https://raw.githubusercontent.com/kort0881/vpn-checker-backend/e74d3aa51229041df25f374c486081386225d8bb/checked/My_Euro/my_euro_part3.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/00d2ac72af2ee3e3223278f5ff495f8098a7071c/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/01794a1be0adf03dfedabf9ea8866cd7804b68a1/githubmirror/new/by_protocol/vless/vless_019.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/0221bdcf96b647d91f321d968bd3d4a9f97478cc/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/02a451be8e742de939a94952fde2dc9fe90cd65b/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/04efeb6d2642b6496b0a2e083832df03f490c7f5/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/05fe4c9fa627d1b142522a4dbf4d3b9bd0b4082b/githubmirror/new/by_protocol/vless/vless_017.txt
