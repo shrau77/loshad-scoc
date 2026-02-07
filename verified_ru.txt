@@ -135,7 +135,6 @@ https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f0
 https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt
 https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/vless.txt
 https://raw.githubusercontent.com/LowiKLive/BypassWhitelistRu/refs/heads/main/WhiteList-Bypass_Ru.txt
-https://raw.githubusercontent.com/MamawliV2/MmlSub/d091d2f2202d8a0543b903fb54793cec8ef640b0/MmliSub.txt
 https://raw.githubusercontent.com/MohsenReyhani/vless-subscriptions/a4bf5e9a0111522b547e7c87c57990660f198627/sub.txt
 https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs
 https://raw.githubusercontent.com/SER38Off/happ-subscription/457c428754836e639b4b327494702b614f9d4d45/White-lists-sub.txt
@@ -259,11 +258,6 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fd98b1f73020e3512b12f
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fe966b174ca73dfd2091ad6adb2083a785005f88/Countries/Russia.txt
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no2.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no3.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no4.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no6.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no7.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no9.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
