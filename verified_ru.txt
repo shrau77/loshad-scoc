@@ -267,6 +267,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fd98b1f73020e3512b12f
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fe966b174ca73dfd2091ad6adb2083a785005f88/Countries/Russia.txt
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/59c95be0a28a0c0629946196cf69ebc4a0baec50/stats.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/da4dcb9c8eedb3358d5dba98232b02b26d686f52/stats.json
+https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/e3b5da8cb29b85f646ae997964cbd08e0ffeed54/stats.json
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
@@ -362,6 +363,8 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/c0179e16bfd721b
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/c0179e16bfd721b5d5bf5861d8d79087c2ac2784/WHITE-CIDR-RU-checked.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/ca315f37e2a259c215fae253c8fbfbffd9216b8b/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/ca315f37e2a259c215fae253c8fbfbffd9216b8b/Vless-Reality-White-Lists-Rus-Mobile.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/d2a63bfb28919f65c2dbc0f7b0947403a836d0a1/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/d2a63bfb28919f65c2dbc0f7b0947403a836d0a1/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/d3f3d5d2db14d9cd42c3f337d9d225c84f3a4323/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/d4bdb613f0c0e6506eb5c70f3b23fae41ea514b4/WHITE-CIDR-RU-checked.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/e4f682ecbbd341561d8265328a369f23e9e6bafd/Vless-Reality-White-Lists-Rus-Mobile-2.txt
@@ -598,6 +601,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e5fd897e30a1
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e7e9d4f930eb5bb813bd0e849a4f4af26224fcf2/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e86669cd6c95d6ea83665daf92fbc70ee03c58e6/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e87faef1b5481e3588395def4b7dbe42012b2057/githubmirror/new/by_protocol/vless/vless_019.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e9b0455079b4dfbf9cf78262390f9cfcc366dd2c/githubmirror/new/by_protocol/vless/vless_022.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/e9d6f7cd9d759c10b51726eac3ab9a66d11d351e/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ea46da5377578f5c604e023f2ba0e73b1e861cab/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ea528b0a1f57e10cec0144dce931dd5984e0b36e/githubmirror/new/by_protocol/vless/vless_020.txt
@@ -1450,6 +1454,7 @@ https://raw.githubusercontent.com/zieng2/wl/1bb0e4fc5ea9e86a64d3df647523fb26ce9d
 https://raw.githubusercontent.com/zieng2/wl/32a87922653412379f60a30e60d855f08cbf6523/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/3f2f6e8dc9923e84ccde693c7c011de72bf9cd82/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/4cfc8697280bcbf932cd37fbbbf38b016bf6a0b3/vless_lite.txt
+https://raw.githubusercontent.com/zieng2/wl/4e95405c203373178dcc0f20da62b0a62e2be651/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/4ed21442842af6bfcaf7d3d991bf1e0305fe9b19/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/64a7299cd553c0b66e91f2ea62094883baedd6a9/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/69196631b6b45ebf7aa3ce4cfee29820318154f5/vless_lite.txt
