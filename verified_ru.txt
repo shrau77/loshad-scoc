@@ -97,6 +97,7 @@ https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/9ed8fbd3fa1d1d6f0a1bf54
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/9ed8fbd3fa1d1d6f0a1bf54798d5a74447c813e1/configs/Latvia.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/b426205ea219aedceb85c14a56de1bc309f82c47/configs/Czechia.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/d57888b93138567729c9d905a65b1c5377ac32cd/configs/Czechia.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/048ec3748d6837674ddf65a204c0594d2d80c76b/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/050dfd2dbc8bf846564bfff65db2ad1d2b0a7bd7/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/087a2053921d6a54908edc56f1d5c3521003c446/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/29f61baa896e7b6ca9abfe1bd18356dabcb47d6d/githubmirror/13.txt
@@ -275,6 +276,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ed8b6d1742ace64ae00de
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ed8b6d1742ace64ae00deca1b5ab72405284b755/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fd98b1f73020e3512b12fbbc9b8731b67ae59ab0/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fe966b174ca73dfd2091ad6adb2083a785005f88/Countries/Russia.txt
+https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/28c0815f60350cc4f6c6f139802e439482e98b12/reserve_pool.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/59c95be0a28a0c0629946196cf69ebc4a0baec50/stats.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/909cde3de11deb78f007c732ce7de8cd9bf43cd9/reserve_pool.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/909cde3de11deb78f007c732ce7de8cd9bf43cd9/stats.json
@@ -295,6 +297,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/58c85686ce89029cf60dbbb
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5cde0b30a85e0cbcfeaa0cc7e7f3df072560dea1/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/63ba9d2509de23813e671a135e1069aa34d013eb/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/9c423743b1e55f3ef1a3140c93986df3edb703ab/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/eb75e80b9d367c423675e45373b99bbe1b0fbf21/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f61ffe062a7d58f32bbcf5094f8693e3915b6ed4/Sub30.txt
 https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whitelists1-4pda.txt
 https://raw.githubusercontent.com/eliv2-ray/elena-config/54df34e3c3e8f9e31ea6ce6a602ea5951f461c0f/ELENA-CONFIG.txt
@@ -514,6 +517,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/6dd0c6c54d32
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/6e98c3227e0db9abbde2e6ea06f1c14a68b71d2c/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/6f0dd2d520253213e6db4ce38d137f5613a3ad56/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/70df0c8f8680e039922a17765e18be98302ad52c/githubmirror/new/by_protocol/vless/vless_019.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/718f2df0e22d4b96543dafce79454081178092ac/githubmirror/new/by_protocol/vless/vless_022.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/71c6bdb68ed55901bc774a9eba4f33a79586f96c/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/7209f5517ffb539aef8721db177c5eb328f67a42/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/74b13537147d00c7180197fc41d97e8fe18af581/githubmirror/new/by_protocol/vless/vless_017.txt
@@ -825,6 +829,7 @@ https://raw.githubusercontent.com/tanhatarinam/server/5638127c4f3e21d2a4f906be57
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/34272382f7af5300a445230d7d8f24877cf8b6ee/Sub.txt
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/5bc4f41a7bfe8801dfd24009d338831993c37aa2/Sub.txt
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/6a7aa705a74734fa813b5f6915040ac750dd7eb4/Sub.txt
+https://raw.githubusercontent.com/trikiman/desktop-tutorial/95e067131bad426fcb911614d9b3b4f42f665426/Sub.txt
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/cf10eda09b1ecaf338bc9fe7e78234225ad9f2e7/Sub.txt
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh_old
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhjk
