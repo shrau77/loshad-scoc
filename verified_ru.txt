@@ -99,6 +99,7 @@ https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/9ed8fbd3fa1d1d6f0a1bf54
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/9ed8fbd3fa1d1d6f0a1bf54798d5a74447c813e1/configs/Latvia.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/b426205ea219aedceb85c14a56de1bc309f82c47/configs/Czechia.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/d57888b93138567729c9d905a65b1c5377ac32cd/configs/Czechia.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/050dfd2dbc8bf846564bfff65db2ad1d2b0a7bd7/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/087a2053921d6a54908edc56f1d5c3521003c446/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/29f61baa896e7b6ca9abfe1bd18356dabcb47d6d/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/70ee6a2dcd88015889b809a84abc7c53c1adb713/githubmirror/13.txt
@@ -277,6 +278,8 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ed8b6d1742ace64ae00de
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fd98b1f73020e3512b12fbbc9b8731b67ae59ab0/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/fe966b174ca73dfd2091ad6adb2083a785005f88/Countries/Russia.txt
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/59c95be0a28a0c0629946196cf69ebc4a0baec50/stats.json
+https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/909cde3de11deb78f007c732ce7de8cd9bf43cd9/reserve_pool.json
+https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/909cde3de11deb78f007c732ce7de8cd9bf43cd9/stats.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/da4dcb9c8eedb3358d5dba98232b02b26d686f52/stats.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/e3b5da8cb29b85f646ae997964cbd08e0ffeed54/stats.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/f7c84289e4595cd1cdd6cdf3ab55592ea2973a14/stats.json
@@ -293,6 +296,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/4531f48534fa90fcd8bf474
 https://raw.githubusercontent.com/barry-far/V2ray-Config/58c85686ce89029cf60dbbb6ceac75285058b6f3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5cde0b30a85e0cbcfeaa0cc7e7f3df072560dea1/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/9c423743b1e55f3ef1a3140c93986df3edb703ab/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/f61ffe062a7d58f32bbcf5094f8693e3915b6ed4/Sub30.txt
 https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whitelists1-4pda.txt
 https://raw.githubusercontent.com/eliv2-ray/elena-config/54df34e3c3e8f9e31ea6ce6a602ea5951f461c0f/ELENA-CONFIG.txt
 https://raw.githubusercontent.com/gbwltg/gbwl/refs/heads/main/m2EsPqwmlc
@@ -539,6 +543,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8aeb732dc1cd
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8bc2b72433afd33e538a69669e41adedbe408ad5/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8bfcd8a5786c73ce0842a9112aaaed1aa2b4457a/githubmirror/new/by_protocol/vless/vless_020.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/8bfcd8a5786c73ce0842a9112aaaed1aa2b4457a/githubmirror/new/by_protocol/vless/vless_023.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/90325c4e0086b0d0fc3e4a60957038273085d473/githubmirror/new/by_protocol/vless/vless_021.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/911b0bbdf049ac4a662a82139d6f362b7cdbb7df/githubmirror/new/by_protocol/vless/vless_022.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/915067219cf984e477c0501e375cf18fddc7e527/githubmirror/new/by_protocol/vless/vless_022.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/9152e44e8e03c4b139cfb4156e133660fb972c0f/githubmirror/new/by_protocol/vless/vless_021.txt
