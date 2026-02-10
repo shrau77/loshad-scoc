@@ -80,6 +80,8 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a144eb1d6a4a83f6408b5f826e4
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a3dea83ddc7f1cde0806f60d1816506b229d4010/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/ab296c7201c40f9c3311206a1a1daf1630c576b9/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/ab9a11d112bb3ca6a64b32d3ea3575f60b49ca38/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b8fca01a1eb6be1b78010f8a3689b996f778d0a4/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b8fca01a1eb6be1b78010f8a3689b996f778d0a4/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/bd7240299affba02cd87881db6e43905018ea110/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c1f6e615c0f26e1be235626ab80c92a3dc7548dd/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c56d6ce34700cd092858052f2d9254a1de253e65/data/sub/channel_subs/v2nodes.txt
@@ -342,6 +344,7 @@ https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a05
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240329.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240330.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/01c447bc57451deee4f96afc86cb311c678610c5/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/042bbcc90b27f7ccf05dd7afe8c8b71b68324483/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/14ce54c58169b52b70d694cd72a9fe682d7ad3da/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/17a3c8553549adee31688eea3cd67d2358134b11/Sub30.txt
@@ -835,6 +838,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/4b816cc008503e70764d210b2711
 https://raw.githubusercontent.com/sakha1370/OpenRay/4eb1cedd23678d76394b44ac3591d755800e274b/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/50e948e3066727f9219d91097b73fd0c1fd21540/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/51649474f2b5a379331aff83bdd4fea5ae757217/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/52abf94daf8f1fc3c30f5c50b6fb9aa26e69ae8f/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/52eda50bd622fd226df1e7d7c8fc2f183993ee8b/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/54c02e318d88c4658646dc2dfecdb2690e9b174e/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/54ddb724023dc59c46be5c1af6387a93674341e0/output/country/RU.txt
