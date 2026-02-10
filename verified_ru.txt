@@ -349,6 +349,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/042bbcc90b27f7ccf05dd7a
 https://raw.githubusercontent.com/barry-far/V2ray-Config/14ce54c58169b52b70d694cd72a9fe682d7ad3da/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/17a3c8553549adee31688eea3cd67d2358134b11/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/240fb3c3aedb55bcda4905a7aa2fc7ed840536b3/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/2c106c7bc9c4aa22f964fe6ac7825cb9509c0c5b/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/2eb359213a67287a3e2c0635c10fa3dfbc41c5dc/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/32f958e682bd8bf716eb85851cd6ea635da6224e/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/34563625ea246965adf57030d064bbb6519680ea/Sub30.txt
@@ -959,6 +960,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/fc14ea3fe6f57bfb83e9386bc201
 https://raw.githubusercontent.com/sakha1370/OpenRay/ff4d17d67fd507ffea42aed5d7ef80fdec2b1547/output/country/RU.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/0582116046deeb181cbfde51f8e9c3c80ebabe9a/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/0b1f1d89114db510cae925246ab7f9c1a2a6b239/working/countries/Venezuela.txt
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/14e9851f5dcd81c92593536d3bb1907cfecc1da2/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/7d69a668bf8346aff69857eaa69de8dfa0238ae3/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/a4ef11ab75f23c1f451456992b7ea0da8e5419d1/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/cccc0a6ee8b11fdd8f6c3cbe13442c947347f62e/working/countries/Venezuela.txt
@@ -1052,6 +1054,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/0e28ed5bf39b1617c4f62fea2ae6f9
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0e28ed5bf39b1617c4f62fea2ae6f9cee826dda2/githubmirror/default/192.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0e28ed5bf39b1617c4f62fea2ae6f9cee826dda2/githubmirror/default/197.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0e28ed5bf39b1617c4f62fea2ae6f9cee826dda2/githubmirror/default/50.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/0e28ed5bf39b1617c4f62fea2ae6f9cee826dda2/githubmirror/default/51.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0e28ed5bf39b1617c4f62fea2ae6f9cee826dda2/githubmirror/default/78.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/0f1457e731ff9dc471a4a2e545c65884dfac4ac1/githubmirror/bypass-unsecure/bypass-unsecure-12.txt
