@@ -171,6 +171,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/a754243236d8556e4ba82420debe766fb
 https://raw.githubusercontent.com/Hdyxgd/amin1/ef26c7b2ad18280e5854007a5ac975ab47cf2e2b/Realit
 https://raw.githubusercontent.com/Hdyxgd/amovjfj/f2c55f5ecf0d337ce79f4733321b669419af28c2/Reality
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
+https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/f973ddc09cc130d9008b6798cce4e383b50e35f2/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/efefc35ff36f80ced1cad2fad07a488f990658ef/sublinks/mix.txt
 https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt
@@ -370,6 +371,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/6e8cf9fab8e0a128a301453
 https://raw.githubusercontent.com/barry-far/V2ray-Config/6eeea58b2b2fbc66794bba60e5d1c15be713e74e/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/854aba21ccb797ee37977b2c0367453e11388385/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/8621a11c717fbb19dfbd101c8c01f6e890da02d9/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/925391efdfdc9b4c683652e9ea8de1599ceb83ad/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/9c423743b1e55f3ef1a3140c93986df3edb703ab/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/a26d92a45393687a0ae3250e76640aa158d9d7b1/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/a829d0590251cc7189bfe7d9bf6b597805e0ef2f/Sub30.txt
