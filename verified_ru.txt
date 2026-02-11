@@ -398,6 +398,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/b4a03786993e233b4bc7bba
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b7991ef572d3952593b7668e5e961ffb4f399c73/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b9c992851ebf9bfad922f774b884aacf6e804f8d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d20fc12041e33211fc48ffe9ac652f262f64acb3/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/d6c1de367dde3e498da5ee62ac764c2afb526eb6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/db221aecd5223f895d42b83b93b32f91c83a1c6c/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/dd7231aaee86279d15bdbdedabd15ead71940673/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/e78c77ed52a13ddcb851f746b0f61bb7e6f85094/Sub30.txt
@@ -865,6 +866,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/436f94e12af6800629987cc03c0d
 https://raw.githubusercontent.com/sakha1370/OpenRay/44104d7674080aeb2a5590b696ca281e7cd22803/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/45c496a73f9b31ed2e9375b1cd0ea96c38ccbb26/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/487e0332ae862a0517e31cc77a179df1ab1bb613/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/4a4763400f6c15f6544eb284fa1807686853a8a8/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/4aeca6b0bc352eb417e55ab7460f874bcf240abc/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/4b816cc008503e70764d210b2711d305a8642bd9/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/4eb1cedd23678d76394b44ac3591d755800e274b/output/country/RU.txt
@@ -1699,14 +1701,18 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e076
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/120.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/121.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/122.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/130.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/132.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/139.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/159.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/161.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/177.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/183.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/186.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/187.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/192.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/197.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/50.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b1190bc9c18a61b24e0c6c4705e07654559a9f11/githubmirror/default/51.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/bypass-unsecure/bypass-unsecure-12.txt
