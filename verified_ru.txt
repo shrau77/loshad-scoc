@@ -420,6 +420,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/b7991ef572d3952593b7668
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b9c992851ebf9bfad922f774b884aacf6e804f8d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d20fc12041e33211fc48ffe9ac652f262f64acb3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d6c1de367dde3e498da5ee62ac764c2afb526eb6/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/d7c45a0399951ab06d26b485d246310b0a49f6c2/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/db221aecd5223f895d42b83b93b32f91c83a1c6c/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/dd7231aaee86279d15bdbdedabd15ead71940673/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/e78c77ed52a13ddcb851f746b0f61bb7e6f85094/Sub30.txt
@@ -826,6 +827,7 @@ https://raw.githubusercontent.com/pog7x/vpn-configs/727180339d23938edef66919d2fd
 https://raw.githubusercontent.com/pog7x/vpn-configs/7d9c46e9c361fe91835b50df368f2d419fb660f6/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/98bd2f9bee5c2ff3b0cab17f4677ee2da69382e4/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/bf38d340d82fbd6e038cb7bbeea463a2b643468b/githubmirror/18.txt
+https://raw.githubusercontent.com/pog7x/vpn-configs/dbe2e22ee0361d56bb6afdc5720949a1e6e63d15/githubmirror/18.txt
 https://raw.githubusercontent.com/runoneall/v2server/79e90325ee815d656d7103845d0f15f6b794dcc1/one.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/0094d93c5a9353defc1a6a44ce3c1e8d0daa3674/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/01d72af29c136feb9ab5bb0ce9ad3a5681fc4da7/output/country/RU.txt
@@ -876,6 +878,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/33b2540e508ceea50eb45574f4c9
 https://raw.githubusercontent.com/sakha1370/OpenRay/351a2710751cecda33fd8e085c5a494eb2935cff/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/378eee18fedd3fd34a3dbd41bfe1dff8e72a978a/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/37a2c825649341d622a73d5ac68421db1df5792e/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/39f233c552ebc499060cb316ccb526b20a8bf26e/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/3a5450e89fad680954152b38922c8da0821e573c/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/3abc3cc07de9d227f6d7b6c9c47375ffb9602936/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/3baaaa671ee3da835cd0b4e907f2c46fd7024d61/output/country/RU.txt
