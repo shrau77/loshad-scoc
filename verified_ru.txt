@@ -384,6 +384,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/5a665278ad51fc00b4ad1b9
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5cde0b30a85e0cbcfeaa0cc7e7f3df072560dea1/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/63ba9d2509de23813e671a135e1069aa34d013eb/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/63bba84e46f14e28d7c2c8c502a4dfac0e70abc4/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/683fee51a2bc833f125c90ea6c48b90b5d735732/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/6daa7631a8a57de4eff545e9c086baa3fc35acb6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/6e8cf9fab8e0a128a301453a6c19a9adc3a09518/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/6eeea58b2b2fbc66794bba60e5d1c15be713e74e/Sub30.txt
@@ -798,6 +799,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/wl.txt
 https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/38bea52f9db127d8512b5d2545a53dd9133a78ce/sub.txt
+https://raw.githubusercontent.com/pog7x/vpn-configs/07f00c95e87c5cf6710e3017d4cf2685ac5cef4d/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/2ba8bda83072354a2efe3fd88cf725c810fc9cd0/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/402b6f19033a5d2f77aefa738b95366e222be8e8/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/697a9ede1195b872fda10f71f5e87e80d2719d9b/githubmirror/18.txt
@@ -916,6 +918,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/86d61359a006480e57803c75a519
 https://raw.githubusercontent.com/sakha1370/OpenRay/883d11280324f621f22e1186ca72d47c5b646e4a/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/8a0a56780ae794be32fc18c99e48848d40ce9749/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/8a4b915a9a0438e3fc73890716145a70f9903a01/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/8cb84a3f072628edd0d628dc803c5bd80fb94a87/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/903b8b8480cdb56c816469b7b725de10f35b5f48/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/90ea6335f1b66db24bc29ae4d60d3b24c89feeed/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/90fa12a6e9576b3e58de8cafe1de805b03941313/output/country/RU.txt
@@ -1037,6 +1040,7 @@ https://raw.githubusercontent.com/vpnineh/config/b021cee7df5eb308b5cb8a85fad3469
 https://raw.githubusercontent.com/vpnineh/config/c372bfd859eb8da92c415859fb139c75c37f191f/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/cdd5f0e9dfec3971746c9bac4b5223e51c94f755/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/e145c34bd2bc7d482356bd48c306f69e0b166a4a/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/e8e0f97a368bbb4c48d5ac530826c7fcb8b37787/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/ee1251c64440e6464fd9f71101b74e3ed4799f99/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh_old
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhjk
