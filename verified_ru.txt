@@ -114,7 +114,6 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/f926b5a18d60cf05c89fdacf2a1
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa69ff569c3d45d002a716b95c349f3fc813af05/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa69ff569c3d45d002a716b95c349f3fc813af05/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fc496efac44bc766943a60c535a9fa6e3d62b66c/data/sub/countries/RU.txt
-https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Country/Russia.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/1f54206f7e377fbae63018321098dc59306f5599/configs/Turkey.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/594fc1cd5b83cd55521eb6d834cc554c70fdc552/configs/Hungary.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/635962b8f234969b6527a38d4b2c775013a15d06/configs/Hungary.txt
@@ -183,7 +182,6 @@ https://raw.githubusercontent.com/Ganjabady/XC/a754243236d8556e4ba82420debe766fb
 https://raw.githubusercontent.com/Hdyxgd/amin1/ef26c7b2ad18280e5854007a5ac975ab47cf2e2b/Realit
 https://raw.githubusercontent.com/Hdyxgd/amovjfj/f2c55f5ecf0d337ce79f4733321b669419af28c2/Reality
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
-https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/f973ddc09cc130d9008b6798cce4e383b50e35f2/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/ad9566455eea618fd4bc53742ca1015202718d5e/githubmirror/27.txt
