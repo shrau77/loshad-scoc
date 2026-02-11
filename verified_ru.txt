@@ -523,7 +523,6 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/f403aa5f1e047e8
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/f5f924852e1abcb9c786fa87bdf939019e858db9/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/f5f924852e1abcb9c786fa87bdf939019e858db9/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/f9292b1b85cb108f358f17a6830f879185aec34d/Vless-Reality-White-Lists-Rus-Mobile-2.txt
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/0678580eccadf83203183db36c1f4818a3ebe666/0.txt
 https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/0678580eccadf83203183db36c1f4818a3ebe666/1.txt
@@ -1062,7 +1061,6 @@ https://raw.githubusercontent.com/vpnineh/config/cdd5f0e9dfec3971746c9bac4b5223e
 https://raw.githubusercontent.com/vpnineh/config/e145c34bd2bc7d482356bd48c306f69e0b166a4a/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/e8e0f97a368bbb4c48d5ac530826c7fcb8b37787/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/ee1251c64440e6464fd9f71101b74e3ed4799f99/sub/datacenters/Cloud.ru.txt
-https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwh_old
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhjk
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhljjjkk
 https://raw.githubusercontent.com/wenxig/dongtai-sub/0c86b4352c15f6ec7712c8afab6fca53b758a792/data/sub.txt
