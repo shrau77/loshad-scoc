@@ -451,6 +451,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/e8297ae4a509a61b54b70f9
 https://raw.githubusercontent.com/barry-far/V2ray-Config/eb75e80b9d367c423675e45373b99bbe1b0fbf21/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f1396950f31a085a7b75afc8ec837e0fcb9e4657/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f23043c84f836762ba6560803e3f5c007007e447/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/f46d2ab71ca330bc7fa64465f9a25c254451369d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f61ffe062a7d58f32bbcf5094f8693e3915b6ed4/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/fe1049f7d01ef9c9a99823e22bfaffc280549676/Sub30.txt
 https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whitelists1-4pda.txt
@@ -1384,6 +1385,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad4
 https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/120.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/121.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/122.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/132.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/139.txt
