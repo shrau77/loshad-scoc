@@ -128,6 +128,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/f8d274fd97d237589fb8312cf84
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/f926b5a18d60cf05c89fdacf2a1d90721bfb9be3/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa69ff569c3d45d002a716b95c349f3fc813af05/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa69ff569c3d45d002a716b95c349f3fc813af05/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa868f11e955d207d982a44f12505f3a4d445c84/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fc496efac44bc766943a60c535a9fa6e3d62b66c/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/1f54206f7e377fbae63018321098dc59306f5599/configs/Turkey.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/594fc1cd5b83cd55521eb6d834cc554c70fdc552/configs/Hungary.txt
@@ -371,6 +372,8 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/e802dacde4bc6d352930f385
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/f7c84289e4595cd1cdd6cdf3ab55592ea2973a14/stats.json
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no17.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no7.txt
 https://raw.githubusercontent.com/VPNclient/VPNclient-app/a66cadae3ae6d1b17117b35687b9cfd4c0588bef/lib/pages/main/main_btn.dart
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
@@ -382,6 +385,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/042bbcc90b27f7ccf05dd7a
 https://raw.githubusercontent.com/barry-far/V2ray-Config/096ab38adc0fb252d72d72d8447bf6fd7a8d2d54/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/0db58ccec0b1450dd2529b140543867b86a4c330/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/13404b1acfeabf228a5e39a1378c2fd56f3254c4/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/13e0b8d9836d9af9c50ff8c3323e33b59f3e84b6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/14777463d148edc08b3ca34eea4098547b6e36f6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/14ce54c58169b52b70d694cd72a9fe682d7ad3da/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/17a3c8553549adee31688eea3cd67d2358134b11/Sub30.txt
@@ -1393,6 +1397,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad4
 https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/196.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/198.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/48.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/46b1e62462692e4b983836e5641ad433d71d674a/githubmirror/default/50.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/bypass-unsecure/bypass-unsecure-10.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/bypass-unsecure/bypass-unsecure-2.txt
