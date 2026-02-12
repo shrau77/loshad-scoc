@@ -49,6 +49,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/2372beb9f82833a1ac1b0fc578e
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/2372beb9f82833a1ac1b0fc578e5d97b2a3efce3/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/273dbf09a5689c53f004b5a7de0e942c03aa597e/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/292325f0c9a497c3b3b6b3160061165c49dd1f38/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/292325f0c9a497c3b3b6b3160061165c49dd1f38/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/2d805b21fb01569bef14bf8fba120a632317d600/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/36603a4436746852df0c215cd5ea5278a602ea88/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/3c2a53e0eac5a2975af0484ae566e840fed5f34a/data/sub/channel_subs/v2nodes.txt
@@ -194,6 +195,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/a754243236d8556e4ba82420debe766fb
 https://raw.githubusercontent.com/Hdyxgd/amin1/ef26c7b2ad18280e5854007a5ac975ab47cf2e2b/Realit
 https://raw.githubusercontent.com/Hdyxgd/amovjfj/f2c55f5ecf0d337ce79f4733321b669419af28c2/Reality
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
+https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/f973ddc09cc130d9008b6798cce4e383b50e35f2/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/ad9566455eea618fd4bc53742ca1015202718d5e/githubmirror/27.txt
@@ -425,6 +427,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/b24ed7c8a4c742cfb41deeb
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b4a03786993e233b4bc7bba42ad35925e65a667e/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b7991ef572d3952593b7668e5e961ffb4f399c73/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b9c992851ebf9bfad922f774b884aacf6e804f8d/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/c0e22bbee3c684b8c170fea65bebfa8126096b1e/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d20fc12041e33211fc48ffe9ac652f262f64acb3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d6c1de367dde3e498da5ee62ac764c2afb526eb6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d7c45a0399951ab06d26b485d246310b0a49f6c2/Sub30.txt
