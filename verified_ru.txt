@@ -46,6 +46,8 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/0a2d10879a4e57952d05f0449fb
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/0a2d10879a4e57952d05f0449fbfd870db0506dd/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/154ac1b102ee98b930dc099870a081ece0d61523/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/154ac1b102ee98b930dc099870a081ece0d61523/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/19ae110686b7b2c110c868e0a4efb6b40aab3904/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/19ae110686b7b2c110c868e0a4efb6b40aab3904/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/1f268a63bc96471c31622713f4dd7eaa23400e35/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/2372beb9f82833a1ac1b0fc578e5d97b2a3efce3/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/2372beb9f82833a1ac1b0fc578e5d97b2a3efce3/data/sub/datacenters/Cloud.ru.txt
@@ -462,6 +464,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/b7991ef572d3952593b7668
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b9c992851ebf9bfad922f774b884aacf6e804f8d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/c0e22bbee3c684b8c170fea65bebfa8126096b1e/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d20fc12041e33211fc48ffe9ac652f262f64acb3/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/d5f38e91f44486012bb90e0321b99589c4ee96ed/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d6c1de367dde3e498da5ee62ac764c2afb526eb6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d7c45a0399951ab06d26b485d246310b0a49f6c2/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d9c749e8c1201490c0f48aed24634350c52b5158/Sub30.txt
@@ -1156,6 +1159,7 @@ https://raw.githubusercontent.com/vpnineh/config/e145c34bd2bc7d482356bd48c306f69
 https://raw.githubusercontent.com/vpnineh/config/e8e0f97a368bbb4c48d5ac530826c7fcb8b37787/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/ee1251c64440e6464fd9f71101b74e3ed4799f99/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/f995c325b4c4d1565ff9e6bd8ef0d7250a88c5ef/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/fcb5257c6d153da484b8cc8fc35d2c38aa40d9bf/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhjk
 https://raw.githubusercontent.com/vsevjik/OBSpiskov/refs/heads/main/wwhljjjkk
 https://raw.githubusercontent.com/wenxig/dongtai-sub/0c86b4352c15f6ec7712c8afab6fca53b758a792/data/sub.txt
