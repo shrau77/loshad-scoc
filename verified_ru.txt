@@ -463,6 +463,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/b1780c6a2ff22af77db602a
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b24ed7c8a4c742cfb41deeb4864902e1d6479e33/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b4a03786993e233b4bc7bba42ad35925e65a667e/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b5ad1d5f70c952e4676ed60c6be9eda02ee974f0/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/b737e5f1d7e002a84c6d9d1c30ced727682df456/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b7991ef572d3952593b7668e5e961ffb4f399c73/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b9c992851ebf9bfad922f774b884aacf6e804f8d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/c0e22bbee3c684b8c170fea65bebfa8126096b1e/Sub30.txt
@@ -1143,6 +1144,7 @@ https://raw.githubusercontent.com/vpnineh/config/5de66b36f7bc4af305e352f88effedb
 https://raw.githubusercontent.com/vpnineh/config/6a4819da1e022f416154fb2ee2735d58a3a034e9/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/6f0d1bf66b8d5db45078981cc6d9efb496026e12/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/77e896bf63a79cca94acf64917db40c6ca218ecb/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/78f0c29de97a68282d981ef490a96ab654992243/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/79c920abea8f8aaeda46dc505cde91ca90983282/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/90653a42b268f37bede55d4dd8d0199aa5fc6787/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/93da4b32ed11b3b939228628d1935910868f320c/sub/datacenters/Cloud.ru.txt
