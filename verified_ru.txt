@@ -425,6 +425,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/63ba9d2509de23813e671a1
 https://raw.githubusercontent.com/barry-far/V2ray-Config/63bba84e46f14e28d7c2c8c502a4dfac0e70abc4/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/683fee51a2bc833f125c90ea6c48b90b5d735732/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/68644256f113465cef41dadfc5d86422a8b1e3f4/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/6ae2d4393ca95d4da920a0ba195453dd67523ecc/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/6daa7631a8a57de4eff545e9c086baa3fc35acb6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/6e8cf9fab8e0a128a301453a6c19a9adc3a09518/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/6eeea58b2b2fbc66794bba60e5d1c15be713e74e/Sub30.txt
@@ -1106,6 +1107,7 @@ https://raw.githubusercontent.com/trikiman/desktop-tutorial/95e067131bad426fcb91
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/cf10eda09b1ecaf338bc9fe7e78234225ad9f2e7/Sub.txt
 https://raw.githubusercontent.com/twinkalex1470-crypto/CatWhiteVPN/refs/heads/main/CaTWhiteVPN.txt
 https://raw.githubusercontent.com/vpnineh/config/06623a44fa5c8afb7132aa00e10198b960ed7214/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/112f70111a8eda7529c8f65f66fb53459331b7c4/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/12f091d8d2bd6ed5e0179e2b9cce60fb82c40266/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/16e73b81031ed97c632b7e45bc93d9cba531473f/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/1a4581128c7db6eff914deee3d79c1c89e4f2a8f/sub/datacenters/Cloud.ru.txt
