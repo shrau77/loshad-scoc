@@ -143,7 +143,6 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa69ff569c3d45d002a716b95c3
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa69ff569c3d45d002a716b95c349f3fc813af05/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fa868f11e955d207d982a44f12505f3a4d445c84/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fc496efac44bc766943a60c535a9fa6e3d62b66c/data/sub/countries/RU.txt
-https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Country/Russia.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/00b621c2fa6d246730ad8f1743713fd946b4da50/configs/Latvia.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/1f54206f7e377fbae63018321098dc59306f5599/configs/Turkey.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/594fc1cd5b83cd55521eb6d834cc554c70fdc552/configs/Hungary.txt
@@ -185,7 +184,6 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/a201f1ceb972e28b852cb986b73
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/wenode.txt
-https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt
 https://raw.githubusercontent.com/Cociboy/V2tjn36d47d/d05697d983e27ef67dd70e580ac5b17452883193/sub.txt
 https://raw.githubusercontent.com/Dan20104/iptv/0f20b0a9286167a40f659dba4e4bc1cdb5bd3b32/vpn.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/7682e3265a41df066b1eeb9f43dd632bf26beb65/Splitted-By-Country/MD.txt
@@ -388,7 +386,6 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/e802dacde4bc6d352930f385
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/f7c84289e4595cd1cdd6cdf3ab55592ea2973a14/stats.json
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no14.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no7.txt
 https://raw.githubusercontent.com/VPNclient/VPNclient-app/a66cadae3ae6d1b17117b35687b9cfd4c0588bef/lib/pages/main/main_btn.dart
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
@@ -1497,7 +1494,6 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe83
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/181.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/182.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/184.txt
-https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/185.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/186.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/191.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/198.txt
