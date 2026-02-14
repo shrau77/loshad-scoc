@@ -100,6 +100,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/8e7b257c36e47a30ca9eadc39ba
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/915bbef0055feb4cfe0a0e6dd24cda0d72faa015/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/97f0cbcb709a069a365e6a65028fcbd5b55f7d52/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/989cedda61830a59cbc69937fd7d29a324b888f4/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/9b658afeaae75a5855be835b776b906e016acdcc/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/9de4798f82bdb13795054598a952fc6e419c0703/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a144eb1d6a4a83f6408b5f826e485f75c456cdea/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a1f987ebf951c444cd24c42c18194ab692ac2b3d/data/sub/countries/RU.txt
@@ -419,6 +420,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/322eb9e056fd9b410d32325
 https://raw.githubusercontent.com/barry-far/V2ray-Config/32f958e682bd8bf716eb85851cd6ea635da6224e/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/34563625ea246965adf57030d064bbb6519680ea/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/356f87c0883683739b4e2c9fad381df2379554e8/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/35c7015be8c8aa0610921feebfabf2b16bc8f3d3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/36f41635e0421f94f3d826adddd85b976ddcdf89/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/36fa6cfb658b37bc0c24ee477542c5963253d952/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/3fd45c5cd03685e972415933d88dd626fb2c5a66/Sub30.txt
@@ -1144,6 +1146,7 @@ https://raw.githubusercontent.com/trikiman/desktop-tutorial/95e067131bad426fcb91
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/cf10eda09b1ecaf338bc9fe7e78234225ad9f2e7/Sub.txt
 https://raw.githubusercontent.com/twinkalex1470-crypto/CatWhiteVPN/refs/heads/main/CaTWhiteVPN.txt
 https://raw.githubusercontent.com/vpnineh/config/06623a44fa5c8afb7132aa00e10198b960ed7214/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/0cb0ae367c81c30b3969c5664ab5681b234708a2/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/112f70111a8eda7529c8f65f66fb53459331b7c4/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/12f091d8d2bd6ed5e0179e2b9cce60fb82c40266/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/16e73b81031ed97c632b7e45bc93d9cba531473f/sub/datacenters/Cloud.ru.txt
