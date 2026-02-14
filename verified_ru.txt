@@ -899,6 +899,7 @@ https://raw.githubusercontent.com/maplelgj/TV/c9264f50a436e5cb67eda56e331f561978
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c7433e0dbbb31c17ad9d8029c5710c5c6dcba5eb/category/Russia.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/wl.txt
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/b5c423721244fa1e8343eb5364c8559ef1ab2224/wl.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/cac0ec04edf63f5d1002d42ba6067128e61a735e/ru.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/cac0ec04edf63f5d1002d42ba6067128e61a735e/wl.txt
 https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/38bea52f9db127d8512b5d2545a53dd9133a78ce/sub.txt
@@ -911,6 +912,7 @@ https://raw.githubusercontent.com/pog7x/vpn-configs/2ba8bda83072354a2efe3fd88cf7
 https://raw.githubusercontent.com/pog7x/vpn-configs/3c766bb090e1eb3afa4520e15cd360a11a0808b9/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/402b6f19033a5d2f77aefa738b95366e222be8e8/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/4ae6e4a8b7a70324f4a4ba11d2678c955af10b74/githubmirror/18.txt
+https://raw.githubusercontent.com/pog7x/vpn-configs/572228184168b3f414dab9a4d32693b8460628be/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/5c80055850cbe7ff785df397fda5e01e630c56f1/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/5d839062c5e82a9d003e35032714b321024a3680/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/697a9ede1195b872fda10f71f5e87e80d2719d9b/githubmirror/18.txt
