@@ -420,6 +420,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/240fb3c3aedb55bcda4905a
 https://raw.githubusercontent.com/barry-far/V2ray-Config/29785d87abb94a98a999d8ccb10ebf6a7e83581a/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/2c106c7bc9c4aa22f964fe6ac7825cb9509c0c5b/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/2eb359213a67287a3e2c0635c10fa3dfbc41c5dc/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/2ecc780b387c771cfd0853ce8899e60147ce2fdb/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/322eb9e056fd9b410d32325e6390205801a9ba73/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/32f958e682bd8bf716eb85851cd6ea635da6224e/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/34563625ea246965adf57030d064bbb6519680ea/Sub30.txt
@@ -898,6 +899,7 @@ https://raw.githubusercontent.com/ndsphonemy/proxy-sub/cac0ec04edf63f5d1002d42ba
 https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/38bea52f9db127d8512b5d2545a53dd9133a78ce/sub.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/07af173dfc35920cdc5d98e63025fb1d3c76e27b/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/07f00c95e87c5cf6710e3017d4cf2685ac5cef4d/githubmirror/18.txt
+https://raw.githubusercontent.com/pog7x/vpn-configs/1757270031418651cb64b361ca85a69ae8686735/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/1a1d78a9131a845cb9caa58b8973f7a11fd7bb5d/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/27216067a9e548c5776ce28c714d309477fc7f10/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/2ba8bda83072354a2efe3fd88cf725c810fc9cd0/githubmirror/18.txt
@@ -1154,6 +1156,7 @@ https://raw.githubusercontent.com/trikiman/desktop-tutorial/95e067131bad426fcb91
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/cf10eda09b1ecaf338bc9fe7e78234225ad9f2e7/Sub.txt
 https://raw.githubusercontent.com/twinkalex1470-crypto/CatWhiteVPN/refs/heads/main/CaTWhiteVPN.txt
 https://raw.githubusercontent.com/vpnineh/config/06623a44fa5c8afb7132aa00e10198b960ed7214/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/0b689a7946a0099085741b08106d8083a713a080/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/0cb0ae367c81c30b3969c5664ab5681b234708a2/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/112f70111a8eda7529c8f65f66fb53459331b7c4/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/12f091d8d2bd6ed5e0179e2b9cce60fb82c40266/sub/datacenters/Cloud.ru.txt
@@ -1816,9 +1819,11 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc6db0d9034d/githubmirror/default/120.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc6db0d9034d/githubmirror/default/121.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc6db0d9034d/githubmirror/default/122.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc6db0d9034d/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc6db0d9034d/githubmirror/default/139.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc6db0d9034d/githubmirror/default/48.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc6db0d9034d/githubmirror/default/50.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc6db0d9034d/githubmirror/default/51.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/7e911671236ba250ed902b4bb66fdc6db0d9034d/githubmirror/default/71.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/bypass-unsecure/bypass-unsecure-10.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
