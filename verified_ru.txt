@@ -220,7 +220,6 @@ https://raw.githubusercontent.com/Hdyxgd/amovjfj/f2c55f5ecf0d337ce79f4733321b669
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a27566d9c187bacdb8058eb/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
-https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/f973ddc09cc130d9008b6798cce4e383b50e35f2/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/ad9566455eea618fd4bc53742ca1015202718d5e/githubmirror/27.txt
@@ -395,9 +394,7 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/e802dacde4bc6d352930f385
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/f7c84289e4595cd1cdd6cdf3ab55592ea2973a14/stats.json
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no18.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no6.txt
 https://raw.githubusercontent.com/VPNclient/VPNclient-app/a66cadae3ae6d1b17117b35687b9cfd4c0588bef/lib/pages/main/main_btn.dart
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240326.txt
@@ -991,7 +988,6 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/44104d7674080aeb2a5590b696ca
 https://raw.githubusercontent.com/sakha1370/OpenRay/45c496a73f9b31ed2e9375b1cd0ea96c38ccbb26/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/487e0332ae862a0517e31cc77a179df1ab1bb613/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/4a4763400f6c15f6544eb284fa1807686853a8a8/output/country/RU.txt
-https://raw.githubusercontent.com/sakha1370/OpenRay/4aeca6b0bc352eb417e55ab7460f874bcf240abc/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/4b816cc008503e70764d210b2711d305a8642bd9/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/4eb1cedd23678d76394b44ac3591d755800e274b/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/50e948e3066727f9219d91097b73fd0c1fd21540/output/country/RU.txt
