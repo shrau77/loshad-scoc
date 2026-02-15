@@ -133,6 +133,8 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c1f6e615c0f26e1be235626ab80
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c35867e96e8fe10b78a93a7fae7f926348fae606/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c35867e96e8fe10b78a93a7fae7f926348fae606/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c56d6ce34700cd092858052f2d9254a1de253e65/data/sub/channel_subs/v2nodes.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c9c957aed26ffae09d0c6bae16286e0c814b30fb/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c9c957aed26ffae09d0c6bae16286e0c814b30fb/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/cc795f27568c9885c6840248a32ac8818ea5412c/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/cdbcd62c544ee663eb9bf795a0b7288d02b53537/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/d2a4d4db2c03f32ed5c2dcb26efd05a73b807871/data/sub/countries/RU.txt
@@ -421,6 +423,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/096ab38adc0fb252d72d72d
 https://raw.githubusercontent.com/barry-far/V2ray-Config/0ba81c9ae22086559a5e6b497f505052b00e6f77/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/0db58ccec0b1450dd2529b140543867b86a4c330/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/0f4986b36b817f97ac26179dba13c7212c3d9bbe/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/1316514f6bab4907cc42bc96a03748619a9a7709/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/13404b1acfeabf228a5e39a1378c2fd56f3254c4/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/137545bb853dd547b03a0772cdee56293bbedc45/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/13e0b8d9836d9af9c50ff8c3323e33b59f3e84b6/Sub30.txt
