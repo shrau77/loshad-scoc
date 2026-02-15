@@ -140,6 +140,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/e1626b28971dc59fa5df0f617b8
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/e1b7d4cc8a28b71ebc60a66f3f915679f1f4d788/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/e47b60278dc950fda41e43b90b1dce891b575407/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/e47b60278dc950fda41e43b90b1dce891b575407/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/e47b60278dc950fda41e43b90b1dce891b575407/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/e8eb5ba5f3e8bfebcaf29794b317b36a8e48c487/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/ea9b30e85e63cd2d4e8b1b6c11c9056e8d26ec65/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/eb31ee2f43dce606f2813436ff7c8baacdbca650/data/sub/countries/RU.txt
@@ -491,6 +492,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/9d7d5ad5622210fb2f55477
 https://raw.githubusercontent.com/barry-far/V2ray-Config/a26d92a45393687a0ae3250e76640aa158d9d7b1/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/a2fb6d5dafd6ceb97bd6c0c4b03cb173f48f1d33/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/a829d0590251cc7189bfe7d9bf6b597805e0ef2f/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/a963a09e8fa3b93ff128ea21a067cad6e22d27a8/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b09e82772ee27bed346fde14665f20e7124353fa/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b143125211f42ff0113608e0ae62e4c7bc9f4f6c/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b1780c6a2ff22af77db602a8efd8bf6bd69e5c45/Sub30.txt
@@ -910,6 +912,8 @@ https://raw.githubusercontent.com/maplelgj/TV/c9264f50a436e5cb67eda56e331f561978
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c7433e0dbbb31c17ad9d8029c5710c5c6dcba5eb/category/Russia.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/wl.txt
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/9c6cf41b624669ec6caf9d8716af0653eec8f43e/ru.txt
+https://raw.githubusercontent.com/ndsphonemy/proxy-sub/9c6cf41b624669ec6caf9d8716af0653eec8f43e/wl.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/b5c423721244fa1e8343eb5364c8559ef1ab2224/ru.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/b5c423721244fa1e8343eb5364c8559ef1ab2224/wl.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/cac0ec04edf63f5d1002d42ba6067128e61a735e/ru.txt
@@ -1883,6 +1887,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/804da39b40c7e88a0758d94cfc49f5
 https://raw.githubusercontent.com/whoahaow/rjsxrd/804da39b40c7e88a0758d94cfc49f5b7e0651cf5/githubmirror/default/118.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/804da39b40c7e88a0758d94cfc49f5b7e0651cf5/githubmirror/default/120.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/804da39b40c7e88a0758d94cfc49f5b7e0651cf5/githubmirror/default/122.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/804da39b40c7e88a0758d94cfc49f5b7e0651cf5/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/804da39b40c7e88a0758d94cfc49f5b7e0651cf5/githubmirror/default/139.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/804da39b40c7e88a0758d94cfc49f5b7e0651cf5/githubmirror/default/159.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/804da39b40c7e88a0758d94cfc49f5b7e0651cf5/githubmirror/default/161.txt
