@@ -104,6 +104,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/88f053a13722b236e809b25ebf8
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/8a6afc6d3fae6f00408d620cbd9532d16998f512/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/8ca896f17477957aa9867f021d4e244f31f5fb14/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/8d28f00a4cca68f56c798e39af969846bc6c7bec/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/8d28f00a4cca68f56c798e39af969846bc6c7bec/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/8e7b257c36e47a30ca9eadc39baf292e8d22060a/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/8e7b257c36e47a30ca9eadc39baf292e8d22060a/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/915bbef0055feb4cfe0a0e6dd24cda0d72faa015/data/sub/countries/RU.txt
@@ -522,6 +523,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/b7991ef572d3952593b7668
 https://raw.githubusercontent.com/barry-far/V2ray-Config/b9c992851ebf9bfad922f774b884aacf6e804f8d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/bde96575bf8c96914d14837645d83f6f760a48d8/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/c0e22bbee3c684b8c170fea65bebfa8126096b1e/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/c1b5eb8903f8a73903e0aff3eb9df408d0fcbe1c/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d20fc12041e33211fc48ffe9ac652f262f64acb3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d5f38e91f44486012bb90e0321b99589c4ee96ed/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d6c1de367dde3e498da5ee62ac764c2afb526eb6/Sub30.txt
@@ -961,6 +963,7 @@ https://raw.githubusercontent.com/pog7x/vpn-configs/5d839062c5e82a9d003e35032714
 https://raw.githubusercontent.com/pog7x/vpn-configs/697a9ede1195b872fda10f71f5e87e80d2719d9b/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/698043478f8d72fe489b901e6bc71a482c996410/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/727180339d23938edef66919d2fdfb0b9a57cc1c/githubmirror/18.txt
+https://raw.githubusercontent.com/pog7x/vpn-configs/7977024f5ed4b1c1de3fcc21d3bb33bd216ce686/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/7d9c46e9c361fe91835b50df368f2d419fb660f6/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/95ac7263c4034a74909a235eb8fecf632b4f2d58/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/98bd2f9bee5c2ff3b0cab17f4677ee2da69382e4/githubmirror/18.txt
@@ -1249,6 +1252,8 @@ https://raw.githubusercontent.com/vpnineh/config/7f7a017733c5e3b8828915c7ed3b93c
 https://raw.githubusercontent.com/vpnineh/config/855e5be2810753b571e8fa57482b22308d354f68/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/855e5be2810753b571e8fa57482b22308d354f68/sub/datacenters/JSC_RTComm.RU.txt
 https://raw.githubusercontent.com/vpnineh/config/86d844d76a1602f124a5d3bb1fc85bad0286bcab/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/89af652183211d787b3ef72e8b6617a7a1185369/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/89af652183211d787b3ef72e8b6617a7a1185369/sub/datacenters/JSC_RTComm.RU.txt
 https://raw.githubusercontent.com/vpnineh/config/90653a42b268f37bede55d4dd8d0199aa5fc6787/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/9269b4b61afd813200ecfc6cd63a77211868ee48/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/93da4b32ed11b3b939228628d1935910868f320c/sub/datacenters/Cloud.ru.txt
