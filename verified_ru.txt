@@ -32,6 +32,7 @@ https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/820cec0826
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/8941ddbf7fa8adfe14a93bebcb2692c072e1860e/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/ba6e3d34b8550e5f42f2ce53397cedc3808d62f6/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/c3e68a5ba0c1492c90e92f35ea55f79ff7f410a0/whitelist.txt
+https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/d3b952174c8a3d31f35a5f36422a66339535d7aa/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/e0695ed6c56e0b62f3402b4a9ffc32d84768f2d3/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/eb5514f8e597209162daf4881e356aebde2135b9/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/f09d3cdddcd4f18f41fcde4e22eef80e86d77ac4/whitelist.txt
@@ -532,6 +533,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/f23043c84f836762ba65608
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f46d2ab71ca330bc7fa64465f9a25c254451369d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f61ffe062a7d58f32bbcf5094f8693e3915b6ed4/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f6d4da8a212168e1446f5f7e2da5c8606de69e65/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/f9d52e1708b9f287b5339982958906b611c8e963/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/fc1fd7657d3d8c4acf615aa53fcb4a99cf7d4921/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/fe1049f7d01ef9c9a99823e22bfaffc280549676/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/fe9c1feb447e12104330f18408693200e33ffb20/Sub30.txt
@@ -1223,6 +1225,7 @@ https://raw.githubusercontent.com/vpnineh/config/77e896bf63a79cca94acf64917db40c
 https://raw.githubusercontent.com/vpnineh/config/78f0c29de97a68282d981ef490a96ab654992243/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/79c920abea8f8aaeda46dc505cde91ca90983282/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/7f7a017733c5e3b8828915c7ed3b93cb7d0e91e0/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/86d844d76a1602f124a5d3bb1fc85bad0286bcab/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/90653a42b268f37bede55d4dd8d0199aa5fc6787/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/9269b4b61afd813200ecfc6cd63a77211868ee48/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/93da4b32ed11b3b939228628d1935910868f320c/sub/datacenters/Cloud.ru.txt
@@ -1787,7 +1790,9 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138
 https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138c676ea4ce6/githubmirror/default/182.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138c676ea4ce6/githubmirror/default/184.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138c676ea4ce6/githubmirror/default/185.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138c676ea4ce6/githubmirror/default/186.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138c676ea4ce6/githubmirror/default/42.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138c676ea4ce6/githubmirror/default/48.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138c676ea4ce6/githubmirror/default/51.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138c676ea4ce6/githubmirror/default/73.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/788b72b02f1cc1957865f8c2a3c138c676ea4ce6/githubmirror/default/74.txt
