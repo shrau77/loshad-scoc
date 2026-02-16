@@ -461,6 +461,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/356f87c0883683739b4e2c9
 https://raw.githubusercontent.com/barry-far/V2ray-Config/35c7015be8c8aa0610921feebfabf2b16bc8f3d3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/36f41635e0421f94f3d826adddd85b976ddcdf89/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/36fa6cfb658b37bc0c24ee477542c5963253d952/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/3c6c827b43a37abfe985c7fe1d6638a10d648290/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/3e65d380c6262678e744d305759a4dba2c7f96ee/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/3fd45c5cd03685e972415933d88dd626fb2c5a66/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/4045eccb3aeabc7c6059cf4cb0549e4582bea831/Sub30.txt
@@ -1142,6 +1143,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/a33f0fd1bece7c4649247ea1955e
 https://raw.githubusercontent.com/sakha1370/OpenRay/a51136166a25050ef3d7f55311555a301f1d9a25/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/a5c1a74db795b5b8826037cf592d4818098ab0d9/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/a5f5eb39bba05dde249e25751407bd5c4c3c011f/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/a6b82284bcdf4de6ca029661086e8c6c7a07d8c3/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/a8a992160f2e0c195f4389737faee654d941e0db/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/a9c27abd64c99cef5933edbdc5fe447991b2bf6d/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/abdf84a97e10b50177066e97eece8ad1dbf3f17f/output/country/RU.txt
@@ -1584,11 +1586,13 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f70
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/110.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/118.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/120.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/121.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/122.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/132.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/139.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/155.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/157.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/159.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/161.txt
