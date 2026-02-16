@@ -12,6 +12,7 @@ https://github.com/Urbanica/vpn-sub/raw/main/sub.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-CIDR-RU-checked.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-SNI-RU-all.txt
 https://github.com/mhitarana509-svg/Phantom-vpn/raw/main/Phantom%20vppn
+https://github.com/oaoa4676-alt/vpn-klysh/raw/main/klushi
 https://github.com/oaoa4676-alt/vpn-klysh/raw/main/white-list
 https://github.com/pwjf4rxfkf-wq/vpn-subs/raw/main/subs.txt
 https://github.com/qwwqe18-cmyk/VPNRUOBNOVILKA/raw/main/ru_top.txt
@@ -475,6 +476,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/4af411903ec70686bcba6fd
 https://raw.githubusercontent.com/barry-far/V2ray-Config/4d2cfc78e0ca50ebfde3a8ee21d6e3bc85e3835c/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/4d2fadae1af18c73b3df6700412c691aa7b570f8/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/57c74549ebb663cbe11cfec0a025730dddee511a/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/588846c015e9aa422c5b86a2ee87b16a115bdfc3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/58c85686ce89029cf60dbbb6ceac75285058b6f3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/59fe6fe5263a0b77928de26c6776addb617f7ae6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5a665278ad51fc00b4ad1b9a876f340345f6e9f1/Sub30.txt
@@ -1137,6 +1139,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/9f0f93c5be90cffbc6158f2708df
 https://raw.githubusercontent.com/sakha1370/OpenRay/9f5a8f782befe9b83fb362d3672450e6d934a40e/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/9f6ccb787f4f09f54ff1a7e2c9c0905ce12bad33/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/9fc998d0cdba34d81a5a1d6cab12fb3d28b63853/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/a12e8f7f6abe0a841c3311918515d6a14cadbebb/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/a25aa4ebdf6d9cf6346ffa9a94cca2b58fb6270e/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/a2ae819dbbc3c36b4b47dbc5ab55f29a1ae3d2b8/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/a33f0fd1bece7c4649247ea1955e1818855e3673/output/country/RU.txt
@@ -1603,10 +1606,12 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f70
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/182.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/183.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/184.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/185.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/186.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/196.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/48.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/50.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/2ef101f054d432c375a55eebfc5f707f96300efd/githubmirror/default/51.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/3f98309d8e15c00ee515945b148ed3efd99f16ef/githubmirror/bypass-unsecure/bypass-unsecure-10.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/3f98309d8e15c00ee515945b148ed3efd99f16ef/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/3f98309d8e15c00ee515945b148ed3efd99f16ef/githubmirror/bypass-unsecure/bypass-unsecure-12.txt
