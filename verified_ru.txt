@@ -455,6 +455,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/183ab77f0e4271b91d9a36f
 https://raw.githubusercontent.com/barry-far/V2ray-Config/18c28aee26658b4eaef8e7a0c530e72fe4fa272f/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/1c1e46a641b4ad59922336d0fc4ef86d4eec420b/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/1dc2e60aec60df3bec95b6bb9a4710790182127d/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/2253410723362f67eb5daee4ea73657d917969e6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/240fb3c3aedb55bcda4905a7aa2fc7ed840536b3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/24600ec2470afa68ccf46e7a23882a53cc284af0/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/287dc8ea3d598114052d72a1b2681206993dba2a/Sub30.txt
