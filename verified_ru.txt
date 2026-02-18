@@ -22,6 +22,7 @@ https://github.com/universal-hd/HydranetVPN/raw/main/111ServHydranetVPN.txt
 https://github.com/whatplayer9/vpn-subs/raw/main/subs.json
 https://github.com/zeltest10-debug/vpn-sub/raw/main/eu.txt
 https://github.com/zieng2/wl/raw/main/vless.txt
+https://raw.githubusercontent.com/10ium/dedup-configs/ce860befea5895e704b6e8426616610a9a62489e/output_configs/Russia.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/0acb677e3a228d2a6f24365d9ceceae6de337c2b/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/13dd0153c306586f9802e9a9ab96a6798edd5310/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/221311a009ab524bcca6bd9c60b83aafda0740b3/whitelist.txt
@@ -1844,6 +1845,10 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe83
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/184.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/186.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/198.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass-unsecure/bypass-unsecure-14.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass-unsecure/bypass-unsecure-4.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass-unsecure/bypass-unsecure-5.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass-unsecure/bypass-unsecure-7.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-14.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-2.txt
@@ -1855,10 +1860,16 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998ae
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/118.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/120.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/122.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/130.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/132.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/139.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/159.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/161.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/165.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/166.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/177.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/183.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/185.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/186.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/187.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/197.txt
