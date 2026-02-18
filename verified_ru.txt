@@ -261,7 +261,6 @@ https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/ae1642214820c5372e30f5a
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/c237f77330e6f20033287986cfd5ab3e32650189/configs/russia_whitelist.txt
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/e8fa866559c0c0098cc5dc0c0bb7d79da90bfe50/configs/russia_whitelist.txt
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/eb19917ca31a6de0449c686a418ddad06d734db7/configs/russia_whitelist.txt
-https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs
 https://raw.githubusercontent.com/Ganjabady/XC/a754243236d8556e4ba82420debe766fb27c39d8/subscriptions/regions/PL.txt
 https://raw.githubusercontent.com/Hdyxgd/amin1/ef26c7b2ad18280e5854007a5ac975ab47cf2e2b/Realit
 https://raw.githubusercontent.com/Hdyxgd/amovjfj/f2c55f5ecf0d337ce79f4733321b669419af28c2/Reality
@@ -698,7 +697,6 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/b6b826ac07448b5
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/ba6ea69eab4efcb633977e55432c1dabf4c27a29/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/ba6ea69eab4efcb633977e55432c1dabf4c27a29/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/bc7a4e24423048ff86d3141be441a1c531f2beee/Vless-Reality-White-Lists-Rus-Mobile-2.txt
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/bf433686f2f21b8affd1bbe9b7712232907e5730/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/bf433686f2f21b8affd1bbe9b7712232907e5730/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/c0179e16bfd721b5d5bf5861d8d79087c2ac2784/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/c0179e16bfd721b5d5bf5861d8d79087c2ac2784/Vless-Reality-White-Lists-Rus-Mobile.txt
@@ -2280,7 +2278,6 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/804da39b40c7e88a0758d94cfc49f5
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/bypass-unsecure/bypass-unsecure-10.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/bypass-unsecure/bypass-unsecure-12.txt
-https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/bypass-unsecure/bypass-unsecure-13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/bypass-unsecure/bypass-unsecure-2.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/bypass-unsecure/bypass-unsecure-3.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/bypass-unsecure/bypass-unsecure-4.txt
@@ -2517,7 +2514,6 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074c
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/111.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/118.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/120.txt
-https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/122.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b7ad434722f9c77bbc149bc95d074cfb7b2ebe24/githubmirror/default/48.txt
@@ -2534,7 +2530,6 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/b99856121664c69e366cea010e75ab
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b99856121664c69e366cea010e75abc2f7ed74fc/githubmirror/bypass-unsecure/bypass-unsecure-5.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b99856121664c69e366cea010e75abc2f7ed74fc/githubmirror/bypass-unsecure/bypass-unsecure-6.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b99856121664c69e366cea010e75abc2f7ed74fc/githubmirror/bypass-unsecure/bypass-unsecure-8.txt
-https://raw.githubusercontent.com/whoahaow/rjsxrd/b99856121664c69e366cea010e75abc2f7ed74fc/githubmirror/bypass/bypass-10.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b99856121664c69e366cea010e75abc2f7ed74fc/githubmirror/bypass/bypass-12.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b99856121664c69e366cea010e75abc2f7ed74fc/githubmirror/bypass/bypass-13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b99856121664c69e366cea010e75abc2f7ed74fc/githubmirror/bypass/bypass-2.txt
@@ -2689,7 +2684,6 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/d2769bd6167c6790d29caf2072a24c
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d2769bd6167c6790d29caf2072a24ca4476ccf44/githubmirror/bypass-unsecure/bypass-unsecure-6.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d2769bd6167c6790d29caf2072a24ca4476ccf44/githubmirror/bypass-unsecure/bypass-unsecure-8.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d2769bd6167c6790d29caf2072a24ca4476ccf44/githubmirror/bypass-unsecure/bypass-unsecure-9.txt
-https://raw.githubusercontent.com/whoahaow/rjsxrd/d2769bd6167c6790d29caf2072a24ca4476ccf44/githubmirror/bypass/bypass-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d2769bd6167c6790d29caf2072a24ca4476ccf44/githubmirror/bypass/bypass-12.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d2769bd6167c6790d29caf2072a24ca4476ccf44/githubmirror/bypass/bypass-13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d2769bd6167c6790d29caf2072a24ca4476ccf44/githubmirror/bypass/bypass-2.txt
@@ -2738,7 +2732,6 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/d94791a2ffb1f158a0c5b541f509c3
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d94791a2ffb1f158a0c5b541f509c3413a25f1e8/githubmirror/default/13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d94791a2ffb1f158a0c5b541f509c3413a25f1e8/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d94791a2ffb1f158a0c5b541f509c3413a25f1e8/githubmirror/default/132.txt
-https://raw.githubusercontent.com/whoahaow/rjsxrd/d94791a2ffb1f158a0c5b541f509c3413a25f1e8/githubmirror/default/139.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d94791a2ffb1f158a0c5b541f509c3413a25f1e8/githubmirror/default/159.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d94791a2ffb1f158a0c5b541f509c3413a25f1e8/githubmirror/default/161.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d94791a2ffb1f158a0c5b541f509c3413a25f1e8/githubmirror/default/165.txt
@@ -2877,7 +2870,6 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/f0ec985970ed9901ce112d4ee01059
 https://raw.githubusercontent.com/whoahaow/rjsxrd/f0ec985970ed9901ce112d4ee010590cf6f69d56/githubmirror/bypass-unsecure/bypass-unsecure-3.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/f0ec985970ed9901ce112d4ee010590cf6f69d56/githubmirror/bypass-unsecure/bypass-unsecure-5.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/f0ec985970ed9901ce112d4ee010590cf6f69d56/githubmirror/bypass-unsecure/bypass-unsecure-8.txt
-https://raw.githubusercontent.com/whoahaow/rjsxrd/f0ec985970ed9901ce112d4ee010590cf6f69d56/githubmirror/bypass-unsecure/bypass-unsecure-9.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/f0ec985970ed9901ce112d4ee010590cf6f69d56/githubmirror/bypass/bypass-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/f0ec985970ed9901ce112d4ee010590cf6f69d56/githubmirror/bypass/bypass-12.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/f0ec985970ed9901ce112d4ee010590cf6f69d56/githubmirror/bypass/bypass-4.txt
