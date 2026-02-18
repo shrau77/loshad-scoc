@@ -9,7 +9,6 @@ https://github.com/Mukhin7/MukhinVPN/raw/main/MukhinVPN.txt
 https://github.com/Semenhach1/vpnserver/raw/main/test
 https://github.com/SilentGhostCodes/TestWhiteListVpn/raw/main/config.txt
 https://github.com/Sprorororo/Sava-VPN-Premium/raw/main/Sava.txt
-https://github.com/Urbanica/vpn-sub/raw/main/sub.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-CIDR-RU-checked.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-SNI-RU-all.txt
 https://github.com/mhitarana509-svg/Phantom-vpn/raw/main/Phantom%20vppn
