@@ -626,6 +626,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/eb565e03582e59b46d4174c
 https://raw.githubusercontent.com/barry-far/V2ray-Config/eb75e80b9d367c423675e45373b99bbe1b0fbf21/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f0f28f771ec6952a3ffb41abd8d1f229a7b45fad/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f1396950f31a085a7b75afc8ec837e0fcb9e4657/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/f1720838012d88a5380dcb088cbf90b497db96b5/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f23043c84f836762ba6560803e3f5c007007e447/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f46d2ab71ca330bc7fa64465f9a25c254451369d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/f61ffe062a7d58f32bbcf5094f8693e3915b6ed4/Sub30.txt
@@ -1189,6 +1190,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/80f01a44ea7c1547d0a55e314576
 https://raw.githubusercontent.com/sakha1370/OpenRay/81143c723a8269aaceb330a5a5ec18ef74c66960/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/8205ac27ad587d1ccf59939b1b77da2eef1879f0/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/827b4536bf60fd3a6331f1521b0e824ad4d45deb/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/83c4b4675c087390efdc0d27c449b66dd33f72c6/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/85643d2ff5df133f9c13a574c0e2ce6021ee9f59/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/86d61359a006480e57803c75a519da4152576ca7/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/883d11280324f621f22e1186ca72d47c5b646e4a/output/country/RU.txt
@@ -1358,6 +1360,7 @@ https://raw.githubusercontent.com/vpnineh/config/1a9eb1157f543a18241bfc97dc01385
 https://raw.githubusercontent.com/vpnineh/config/1c5cf42c8df9b2aa56ce01f12e9d472c393781e3/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/1d9d5a5df6ecc1f8f8adcc9b979f296527fdf8dc/sub/datacenters/JSC_RTComm.RU.txt
 https://raw.githubusercontent.com/vpnineh/config/1e7b22396001f7cc6273f30856060ef562577fd1/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/1e84bbded1354615363504ea625f12b2ed9b970c/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/1ebaf30107b61df51413588ea8c49ddb9255a03a/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/1fa92e92edd27590a056584ea95bc6b71795a59f/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/216082856d883293cf6f7c03a11e906f56eb95c1/sub/datacenters/Cloud.ru.txt
