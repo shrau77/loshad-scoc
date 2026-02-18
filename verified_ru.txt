@@ -13,6 +13,7 @@ https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-SNI-RU-all.txt
 https://github.com/mhitarana509-svg/Phantom-vpn/raw/main/Phantom%20vppn
 https://github.com/oaoa4676-alt/vpn-klysh/raw/main/klushi
 https://github.com/oaoa4676-alt/vpn-klysh/raw/main/white-list
+https://github.com/pwjf4rxfkf-wq/vpn-subs/raw/main/subs.txt
 https://github.com/qwwqe18-cmyk/VPNRUOBNOVILKA/raw/main/ru_top.txt
 https://github.com/roriruri9370/Whitelist-bypass/raw/main/Whitelist
 https://github.com/svpjohji/VPN/raw/main/NECHAEV_VPN
@@ -272,6 +273,7 @@ https://raw.githubusercontent.com/Hdyxgd/amovjfj/f2c55f5ecf0d337ce79f4733321b669
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a27566d9c187bacdb8058eb/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
+https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/2d3d47afa7eda165c630b5ad83842268e70fe2ef/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/ad9566455eea618fd4bc53742ca1015202718d5e/githubmirror/27.txt
@@ -449,6 +451,8 @@ https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs_no2.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs_no5.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no1.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no2.txt
 https://raw.githubusercontent.com/VPNclient/VPNclient-app/a66cadae3ae6d1b17117b35687b9cfd4c0588bef/lib/pages/main/main_btn.dart
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/refs/heads/main/ShadowSocks2021.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
@@ -552,6 +556,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/854aba21ccb797ee37977b2
 https://raw.githubusercontent.com/barry-far/V2ray-Config/8621a11c717fbb19dfbd101c8c01f6e890da02d9/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/87954b98c10337c5c3fc7c70c41642d2efb0cd85/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/88620d9dd304dfbef612b679d23a97a41a7b29c3/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/8a86aaab23ef4b4ad6c2d95232be7b86ac5613bd/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/8aacac86b0558bb026cbbc42f2c9c22a002121f3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/8bf96e6925ac0ef287c31bf1bd167bc481c285d8/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/8d29f8590109efb7d27ddcee785ed6664112bc97/Sub30.txt
@@ -2403,6 +2408,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ff
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/122.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/132.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/139.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/155.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/159.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/161.txt
@@ -2410,6 +2416,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ff
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/166.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/177.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/180.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/181.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/183.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/184.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/a8ba2c66216bb349979a901de906ffad663857c5/githubmirror/default/185.txt
