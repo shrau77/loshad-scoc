@@ -4,7 +4,6 @@ https://gist.githubusercontent.com/Gamesaix/0ff0282c8e1298bd282432146db0e997/raw
 https://github.com/AirLinkVPN/AirLinkVPN.github.io/raw/main/1.txt
 https://github.com/Artem0790YT/vpninternet/raw/main/vpn.txt
 https://github.com/LimeHi/LimeVPN/raw/main/LimeVPN.txt
-https://github.com/Maskkost93/kizyak-vpn-4.0/raw/main/KIZYAK%20VPN%204.1%20MANGO%20EDITION.txt
 https://github.com/Mukhin7/MukhinVPN/raw/main/MukhinVPN.txt
 https://github.com/Semenhach1/vpnserver/raw/main/test
 https://github.com/SilentGhostCodes/TestWhiteListVpn/raw/main/config.txt
@@ -446,7 +445,6 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/e802dacde4bc6d352930f385
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/f7c84289e4595cd1cdd6cdf3ab55592ea2973a14/stats.json
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
-https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs_no8.txt
 https://raw.githubusercontent.com/VPNclient/VPNclient-app/a66cadae3ae6d1b17117b35687b9cfd4c0588bef/lib/pages/main/main_btn.dart
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/refs/heads/main/ShadowSocks2021.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
