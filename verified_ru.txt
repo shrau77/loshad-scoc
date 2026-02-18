@@ -58,6 +58,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/19ae110686b7b2c110c868e0a4e
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/19ae110686b7b2c110c868e0a4efb6b40aab3904/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/1eb87daaabec0c22351adf156fab1ad2fb6ca664/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/1f268a63bc96471c31622713f4dd7eaa23400e35/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/218fe3f7e49d3e97389dc4309972337a1a8d723b/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/2372beb9f82833a1ac1b0fc578e5d97b2a3efce3/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/2372beb9f82833a1ac1b0fc578e5d97b2a3efce3/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/268c0e8282f7157ac806bc6211edb399b896d7ee/data/sub/channel_subs/v2nodes.txt
@@ -536,6 +537,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/87954b98c10337c5c3fc7c7
 https://raw.githubusercontent.com/barry-far/V2ray-Config/88620d9dd304dfbef612b679d23a97a41a7b29c3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/8aacac86b0558bb026cbbc42f2c9c22a002121f3/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/8bf96e6925ac0ef287c31bf1bd167bc481c285d8/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/8d29f8590109efb7d27ddcee785ed6664112bc97/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/8f2c12b6440a324441315ed2dd8c968b21ac5eb1/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/925391efdfdc9b4c683652e9ea8de1599ceb83ad/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/9b3b3f1962bae2015ed36fb2bf112d86c6cb39ed/Sub30.txt
@@ -1113,6 +1115,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/51649474f2b5a379331aff83bdd4
 https://raw.githubusercontent.com/sakha1370/OpenRay/517340ed2051809adc01da383881ccee144e5e6d/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/52abf94daf8f1fc3c30f5c50b6fb9aa26e69ae8f/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/52eda50bd622fd226df1e7d7c8fc2f183993ee8b/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/530ae94d401c00eddc5719f0e73f699a0804f032/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/54c02e318d88c4658646dc2dfecdb2690e9b174e/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/54ddb724023dc59c46be5c1af6387a93674341e0/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/552b7a03e9777a3cdcc198d7ed46e30313f38047/output/country/RU.txt
@@ -1298,6 +1301,7 @@ https://raw.githubusercontent.com/vpnineh/config/0b689a7946a0099085741b08106d808
 https://raw.githubusercontent.com/vpnineh/config/0b7d12212274e1d35022b9a5d9f6f3c3182f5e05/sub/datacenters/JSC_RTComm.RU.txt
 https://raw.githubusercontent.com/vpnineh/config/0cb0ae367c81c30b3969c5664ab5681b234708a2/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/0decac6c255ecdd09da74d54a1b6f52ad98ba4ba/sub/datacenters/JSC_RTComm.RU.txt
+https://raw.githubusercontent.com/vpnineh/config/0eec794920afd3fc3ec35f113731307749e6697f/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/0f26864388c482cf9eb130ca3a72a28ab3a5038d/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/112f70111a8eda7529c8f65f66fb53459331b7c4/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/12f091d8d2bd6ed5e0179e2b9cce60fb82c40266/sub/datacenters/Cloud.ru.txt
@@ -1840,6 +1844,25 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe83
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/184.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/186.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4c62e2f134ccf2fc5ed88b869abe8337e588c8a4/githubmirror/default/198.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-13.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-14.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-2.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-4.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-5.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-7.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/bypass/bypass-8.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/110.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/118.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/120.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/122.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/159.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/161.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/166.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/177.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/186.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/187.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/197.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5800764c4d5e8179ae9794df3998aefe3ba0543a/githubmirror/default/51.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/595e33faca1be728dfc63ebcb044a9967e863c1e/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/595e33faca1be728dfc63ebcb044a9967e863c1e/githubmirror/bypass-unsecure/bypass-unsecure-12.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/595e33faca1be728dfc63ebcb044a9967e863c1e/githubmirror/bypass-unsecure/bypass-unsecure-13.txt
