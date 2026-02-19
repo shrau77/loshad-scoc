@@ -21,10 +21,23 @@ logging.basicConfig(
 logger = logging.getLogger("VPNScout")
 
 # API Keys
-# Прокидывай токены через запятую: "token1,token2,token3"
-# Также поддерживается GITHUB_TOKEN из GitHub Actions
+# Поддерживаемые форматы ввода:
+#   - Через запятую: "token1,token2,token3"
+#   - Через пробел: "token1 token2 token3"
+#   - Через новую строку: "token1\ntoken2\ntoken3"
+#   - Через точку с запятой: "token1;token2;token3"
+# Также подхватывается GITHUB_TOKEN из GitHub Actions
 _raw_tokens = os.getenv("GTA_TOKEN", "") or os.getenv("GITHUB_TOKEN", "")
-GITHUB_TOKENS = [t.strip() for t in _raw_tokens.split(",") if t.strip()]
+
+# Универсальный парсер - разбиваем по любому разделителю
+GITHUB_TOKENS = []
+if _raw_tokens:
+    # Заменяем все возможные разделители на запятую
+    for sep in ['\n', '\r', ';', ' ', '\t']:
+        _raw_tokens = _raw_tokens.replace(sep, ',')
+    # Парсим и чистим
+    GITHUB_TOKENS = [t.strip() for t in _raw_tokens.split(',') if t.strip()]
+
 HF_TOKEN = os.getenv("HF_TOKEN")
 
 # Headers & API
@@ -633,10 +646,15 @@ def smart_merge_and_save(filename, new_urls):
 # --- MAIN ---
 
 async def main():
+    # Детальный лог токенов
     if GITHUB_TOKENS:
         logger.info(f"🔑 Найдено токенов: {len(GITHUB_TOKENS)}")
+        for i, t in enumerate(GITHUB_TOKENS, 1):
+            logger.info(f"   Token #{i}: ...{t[-6:]} (len={len(t)})")
     else:
         logger.warning("⚠️ Токены не найдены! Работаем без авторизации (медленно)")
+        logger.info(f"   GTA_TOKEN raw length: {len(os.getenv('GTA_TOKEN', ''))}")
+        logger.info(f"   GITHUB_TOKEN raw length: {len(os.getenv('GITHUB_TOKEN', ''))}")
     
     async with aiohttp.ClientSession() as session:
         queue = asyncio.Queue()
