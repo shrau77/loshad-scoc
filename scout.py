@@ -282,12 +282,20 @@ async def search_github_safe(session):
                         if items: logger.info(f"   [{resp.status}] Query '{query[:30]}...': +{len(items)} файлов")
                         page += 1
                         await asyncio.sleep(2)
-                    elif resp.status == 403 or resp.status == 429:
+                     elif resp.status == 403 or resp.status == 429:
                         reset_time = resp.headers.get("X-RateLimit-Reset")
                         wait_time = 60
                         if reset_time: wait_time = max(10, int(reset_time) - int(time.time()))
-                        if token_used: token_status[token_used]['reset_time'] = int(time.time()) + wait_time
-                        logger.warning(f"🛑 GitHub Rate Limit. Cooling down for {wait_time}s...")
+                        
+                        # Если бан больше 3 минут (180 сек) — нахер его, пропускаем запрос
+                        if wait_time > 180:
+                             logger.error(f"🚫 Hard Ban detected ({wait_time}s). Skipping query to avoid hanging...")
+                             break # Просто выходим из цикла запроса, идем к следующему дорку
+                        
+                        if token_used:
+                            token_status[token_used]['reset_time'] = int(time.time()) + wait_time
+                            
+                        logger.warning(f"🛑 Rate Limit. Cooling down for {wait_time}s...")
                         await asyncio.sleep(wait_time + 5)
                         break
                     else: break
