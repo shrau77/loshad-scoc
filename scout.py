@@ -22,7 +22,9 @@ logger = logging.getLogger("VPNScout")
 
 # API Keys
 # Прокидывай токены через запятую: "token1,token2,token3"
-GITHUB_TOKENS = [t.strip() for t in os.getenv("GTA_TOKEN", "").split(",") if t.strip()]
+# Также поддерживается GITHUB_TOKEN из GitHub Actions
+_raw_tokens = os.getenv("GTA_TOKEN", "") or os.getenv("GITHUB_TOKEN", "")
+GITHUB_TOKENS = [t.strip() for t in _raw_tokens.split(",") if t.strip()]
 HF_TOKEN = os.getenv("HF_TOKEN")
 
 # Headers & API
@@ -35,9 +37,9 @@ AI_LIMIT = 3
 MAX_RETRIES = 3
 
 # GitHub Anti-Ban Settings
-# GitHub Search API ~30 req/min. Чтобы не словить часовой бан, идем медленно.
+# GitHub Search API ~30 req/min с токеном, ~10 req/min без токена
 GITHUB_SEMAPHORE = asyncio.Semaphore(1)
-GITHUB_DELAY = 3  # Задержка 3 секунды между запросами (безопасный режим)
+GITHUB_DELAY = 3 if GITHUB_TOKENS else 7  # 3s с токеном, 7s без (безопасный режим)
 
 # User Agents
 USER_AGENTS = [
@@ -305,7 +307,8 @@ def convert_to_raw(url):
 
 async def search_github_safe(session):
     found = set()
-    logger.info(f"🔍 [GitHub] Safe Mode: 1 req/{GITHUB_DELAY}s. Tokens: {len(GITHUB_TOKENS)}")
+    mode = "Token" if GITHUB_TOKENS else "Public"
+    logger.info(f"🔍 [GitHub] {mode} Mode: 1 req/{GITHUB_DELAY}s. Tokens: {len(GITHUB_TOKENS)}")
     
     for query in SEARCH_QUERIES:
         page = 1
@@ -341,7 +344,8 @@ async def search_github_safe(session):
                                 found.add((convert_to_raw(item['html_url']), f"dork: {query[:20]}..."))
                             
                             if items:
-                                logger.info(f"   ✅ [...{token_used[-4:]}] '{query[:25]}': +{len(items)}")
+                                token_display = token_used[-4:] if token_used else "anon"
+                                logger.info(f"   ✅ [...{token_display}] '{query[:25]}': +{len(items)}")
                             
                             page += 1
                             # Semaphore отпустится сам
@@ -352,11 +356,17 @@ async def search_github_safe(session):
                             if reset_time:
                                 wait_time = max(10, int(reset_time) - int(time.time()))
                             
-                            # Ставим токен в бан
-                            token_status[token_used] = {'reset_time': int(time.time()) + wait_time}
-                            logger.warning(f"🚫 Токен ...{token_used[-4:]} в бане на {int(wait_time/60)} мин. Смена...")
+                            # Ставим токен в бан (только если токен был)
+                            if token_used:
+                                token_status[token_used] = {'reset_time': int(time.time()) + wait_time}
+                                logger.warning(f"🚫 Токен ...{token_used[-4:]} в бане на {int(wait_time/60)} мин. Смена...")
+                            else:
+                                # Без токена — ждём перед повтором (GitHub даёт ~10 req/min публично)
+                                wait_time = 70  # Ждём чуть больше минуты
+                                logger.warning(f"🚫 Rate limit (без токена). Ждём {wait_time} сек...")
+                                await asyncio.sleep(wait_time)
                             
-                            # НЕ выходим, НЕ спим (семафор уже отпущен).
+                            # НЕ выходим (семафор уже отпущен).
                             # Цикл перезапустится и возьмет другой токен.
                             continue
                         else:
@@ -623,6 +633,11 @@ def smart_merge_and_save(filename, new_urls):
 # --- MAIN ---
 
 async def main():
+    if GITHUB_TOKENS:
+        logger.info(f"🔑 Найдено токенов: {len(GITHUB_TOKENS)}")
+    else:
+        logger.warning("⚠️ Токены не найдены! Работаем без авторизации (медленно)")
+    
     async with aiohttp.ClientSession() as session:
         queue = asyncio.Queue()
         ai_sem = asyncio.Semaphore(AI_LIMIT)
