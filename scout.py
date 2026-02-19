@@ -21,6 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger("VPNScout")
 
 # API Keys
+# Прокидывай токены через запятую: "token1,token2,token3"
 GITHUB_TOKENS = [t.strip() for t in os.getenv("GTA_TOKEN", "").split(",") if t.strip()]
 HF_TOKEN = os.getenv("HF_TOKEN")
 
@@ -32,6 +33,11 @@ CONCURRENCY_LIMIT = 40
 RECURSION_DEPTH = 1
 AI_LIMIT = 3
 MAX_RETRIES = 3
+
+# GitHub Anti-Ban Settings
+# GitHub Search API ~30 req/min. Чтобы не словить часовой бан, идем медленно.
+GITHUB_SEMAPHORE = asyncio.Semaphore(1)
+GITHUB_DELAY = 3  # Задержка 3 секунды между запросами (безопасный режим)
 
 # User Agents
 USER_AGENTS = [
@@ -157,15 +163,13 @@ BAD_DOMAINS = [
 ARABIC_REGEX = re.compile(r'[\u0600-\u06FF]')
 
 # 3. Guide Keywords (Интеллектуальная фильтрация)
-# Группа 1: Стоп-слова, указывающие именно на ИНСТРУКЦИИ (блокируем жестко)
 GUIDE_KEYWORDS_HARD = [
     'tutorial', 'how to', 'guide', 'install', 'instruction', 'manual',
     'readme', 'step 1', 'step 2', 'шаг', 'настройка', 'setting',
     'как настроить', 'инструкция', 'руководство', 'скачать приложение',
     'установка', 'запуск', 'обзор', 'review'
 ]
-# Группа 2: Слова-маркеры контента (НЕ блокируем, просто учитываем при анализе)
-# Донаты, цены, каналы - это нормально для публичных сабов.
+
 CONTENT_KEYWORDS_SOFT = [
     'donate', 'patreon', 'boosty', 'купить', 'цена', 'руб', 'доллар',
     't.me/', 'telegram', 'channel', 'подпишись', 'price', 'buy'
@@ -212,21 +216,38 @@ def get_random_header():
     return {"User-Agent": random.choice(USER_AGENTS)}
 
 def get_best_github_header():
+    """
+    Возвращает кортеж (headers, token) если есть доступный токен.
+    Возвращает (None, wait_time) если ВСЕ токены в бане.
+    """
     if not GITHUB_TOKENS:
         return {}, None
-    
+
     current_time = int(time.time())
-    available_tokens = []
-    
+    best_token = None
+    min_reset_time = float('inf')
+
     for token in GITHUB_TOKENS:
+        # Инициализация токена
         if token not in token_status:
             token_status[token] = {'reset_time': 0}
-        if current_time > token_status[token]['reset_time']:
-            available_tokens.append(token)
-    
-    chosen = available_tokens[0] if available_tokens else GITHUB_TOKENS[0]
-    headers = {"Authorization": f"token {chosen}", "Accept": "application/vnd.github.v3+json"}
-    return headers, chosen
+
+        # Если токен жив — берем его сразу
+        if current_time >= token_status[token]['reset_time']:
+            headers = {
+                "Authorization": f"token {token}",
+                "Accept": "application/vnd.github.v3+json"
+            }
+            return headers, token
+        
+        # Иначе запоминаем, когда он освободится
+        if token_status[token]['reset_time'] < min_reset_time:
+            min_reset_time = token_status[token]['reset_time']
+            best_token = token
+
+    # Если мы тут — живых токенов нет. Считаем сколько ждать.
+    wait_time = max(1, min_reset_time - current_time)
+    return None, wait_time
 
 def get_md5_head(content):
     head = content[:500].encode('utf-8', errors='ignore')
@@ -284,67 +305,97 @@ def convert_to_raw(url):
 
 async def search_github_safe(session):
     found = set()
-    logger.info(f"🔍 [GitHub] Запуск поиска по {len(SEARCH_QUERIES)} запросам (Full Meat)...")
+    logger.info(f"🔍 [GitHub] Safe Mode: 1 req/{GITHUB_DELAY}s. Tokens: {len(GITHUB_TOKENS)}")
     
-    for i, query in enumerate(SEARCH_QUERIES):
+    for query in SEARCH_QUERIES:
         page = 1
         while page <= 1:
+            # 1. Получаем токен
+            headers, result = get_best_github_header()
+
+            # Если вернулся None — значит ВСЕ токены в бане
+            if headers is None:
+                wait_time = result
+                logger.warning(f"🛑 Все токены в бане. Ждем {int(wait_time)} сек...")
+                await asyncio.sleep(wait_time + 5)
+                continue # Пробуем снова достать токен
+
+            token_used = result
+            
             encoded_query = urllib.parse.quote(query)
             url = (
                 f"https://api.github.com/search/code?q={encoded_query}"
                 f"&sort=indexed&order=desc&per_page=30&page={page}"
             )
-            headers, token_used = get_best_github_header()
             
             try:
-                async with session.get(url, headers=headers) as resp:
-                    if resp.status == 200:
-                        data = await resp.json()
-                        items = data.get("items", [])
-                        for item in items:
-                            found.add((convert_to_raw(item['html_url']), f"dork: {query[:20]}..."))
-                        if items:
-                            logger.info(f"   [{resp.status}] Query '{query[:30]}...': +{len(items)} файлов")
-                        page += 1
-                        await asyncio.sleep(2)
+                # 2. Глобальная блокировка (Semaphore) + Задержка
+                async with GITHUB_SEMAPHORE:
+                    await asyncio.sleep(GITHUB_DELAY)
+                    async with session.get(url, headers=headers, timeout=15) as resp:
                         
-                    elif resp.status == 403 or resp.status == 429:
-                        reset_time = resp.headers.get("X-RateLimit-Reset")
-                        wait_time = 60
-                        if reset_time:
-                            wait_time = max(10, int(reset_time) - int(time.time()))
-                        
-                        if token_used:
-                            token_status[token_used]['reset_time'] = int(time.time()) + wait_time
-                        
-                        logger.warning(f"🛑 GitHub Rate Limit. Cooling down for {wait_time}s...")
-                        await asyncio.sleep(wait_time + 5)
-                        break
-                    else:
-                        break
-            except Exception:
+                        if resp.status == 200:
+                            data = await resp.json()
+                            items = data.get("items", [])
+                            for item in items:
+                                found.add((convert_to_raw(item['html_url']), f"dork: {query[:20]}..."))
+                            
+                            if items:
+                                logger.info(f"   ✅ [...{token_used[-4:]}] '{query[:25]}': +{len(items)}")
+                            
+                            page += 1
+                            # Semaphore отпустится сам
+
+                        elif resp.status == 403 or resp.status == 429:
+                            reset_time = resp.headers.get("X-RateLimit-Reset")
+                            wait_time = 3600 # Дефолт час
+                            if reset_time:
+                                wait_time = max(10, int(reset_time) - int(time.time()))
+                            
+                            # Ставим токен в бан
+                            token_status[token_used] = {'reset_time': int(time.time()) + wait_time}
+                            logger.warning(f"🚫 Токен ...{token_used[-4:]} в бане на {int(wait_time/60)} мин. Смена...")
+                            
+                            # НЕ выходим, НЕ спим (семафор уже отпущен).
+                            # Цикл перезапустится и возьмет другой токен.
+                            continue
+                        else:
+                            # Другие ошибки (422, 404 и т.д.)
+                            break
+
+            except Exception as e:
+                logger.error(f"Request error: {e}")
+                # При ошибке сети прерываем этот запрос
                 break
+                
     return list(found)
 
 async def search_gists(session):
     found = set()
     logger.info("🔍 [Gist] Сканирование ленты...")
-    try:
-        url = "https://api.github.com/gists/public?per_page=60"
-        headers, _ = get_best_github_header()
-        async with session.get(url, headers=headers) as resp:
-            if resp.status == 200:
-                gists = await resp.json()
-                keywords = ["vless", "reality", "sub", "free", "nodes", "v2ray", "whitelist", "bypass"]
-                for gist in gists:
-                    files = gist.get("files", {})
-                    desc = (gist.get("description") or "").lower()
-                    if any(k in desc for k in keywords) or any(k in str(files).lower() for k in keywords):
-                        for fname, fcal in files.items():
-                            if fcal.get("raw_url"):
-                                found.add((fcal["raw_url"], "source: gist"))
-    except Exception:
-        pass
+    # Гисты тоже редко, но банят. Используем тот же семафор для безопасности.
+    async with GITHUB_SEMAPHORE:
+        await asyncio.sleep(GITHUB_DELAY)
+        try:
+            url = "https://api.github.com/gists/public?per_page=60"
+            # Берем любой токен, если есть, иначе без него
+            headers, _ = get_best_github_header()
+            if headers is None: 
+                headers = {} # Если токенов нет совсем
+
+            async with session.get(url, headers=headers, timeout=15) as resp:
+                if resp.status == 200:
+                    gists = await resp.json()
+                    keywords = ["vless", "reality", "sub", "free", "nodes", "v2ray", "whitelist", "bypass"]
+                    for gist in gists:
+                        files = gist.get("files", {})
+                        desc = (gist.get("description") or "").lower()
+                        if any(k in desc for k in keywords) or any(k in str(files).lower() for k in keywords):
+                            for fname, fcal in files.items():
+                                if fcal.get("raw_url"):
+                                    found.add((fcal["raw_url"], "source: gist"))
+        except Exception:
+            pass
     return list(found)
 
 # --- AI ANALYSIS ---
@@ -426,12 +477,10 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     if any(d in content for d in BAD_DOMAINS):
         return "trash", 0, "Bad Domain"
 
-    # 5. Guide Heuristic (INTELLIGENT)
+    # 5. Guide Heuristic
     content_lower = content.lower()
     hard_guide_hits = sum(1 for word in GUIDE_KEYWORDS_HARD if word in content_lower)
     
-    # Если похоже на инструкцию И НЕТ ключевых слов от конфигов (vless, reality), то в мусор.
-    # Но если есть vless/reality, то пропускаем, даже если там есть слова "настройка" (это может быть подписка с комментами).
     if hard_guide_hits >= 2 and "vless://" not in content and "reality" not in content:
         return "trash", 0, "Pure Guide"
 
@@ -488,7 +537,7 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     if white_hits > 0 or "Russia" in content or "ru_" in content:
         is_ru = True
     
-    # AI Check (if not sure)
+    # AI Check
     verdict = "unknown"
     if not is_ru:
         async with ai_semaphore:
@@ -510,7 +559,6 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
             if any(x in link for x in ['/sub?', '/api/', 'download', 'get.php']):
                 hidden_subs.append(link)
     
-    # Return logic: Pass S3 links found in content to variations for recursive check
     return "clean", valid_count, (tag, variations + hidden_subs + subs)
 
 # --- WORKER ---
@@ -529,12 +577,10 @@ async def worker(queue, session, ai_sem):
                 stats["clean_ru"] += count
                 logger.info(f"✅ [RU] Found {count} nodes: {url}")
             else:
-                # Global/Unknown - кидаем в потенциал
                 RESULTS_BUFFER_POTENTIAL.append(url)
                 stats["clean_global"] += count
                 logger.info(f"⚠️ [POTENTIAL] Found {count} nodes: {url}")
 
-            # Recursion
             if variations:
                 for v_url in variations:
                     if clean_url(v_url) not in VISITED_URLS:
