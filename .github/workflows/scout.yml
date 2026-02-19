@@ -39,6 +39,7 @@ jobs:
     - name: Run Scout Logic
       id: scout_step
       env:
+        GTA_TOKEN: ${{ secrets.GTA_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
       run: |
