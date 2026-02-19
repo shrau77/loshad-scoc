@@ -123,8 +123,10 @@ SEARCH_QUERIES = [
 # --- DATA LISTS ---
 
 # 1. S3 Domains & Patterns
-S3_DOMAINS = ["storage.yandexcloud.net", "vkcloud-storage.ru", "gpucloud.ru", "object.pscloud.io", 
-              "hb.bizmrg.com", "s3.timeweb.com", "digitaloceanspaces.com", "backblazeb2.com", "amazonaws.com"]
+S3_DOMAINS = [
+    "storage.yandexcloud.net", "vkcloud-storage.ru", "gpucloud.ru", "object.pscloud.io",
+    "hb.bizmrg.com", "s3.timeweb.com", "digitaloceanspaces.com", "backblazeb2.com", "amazonaws.com"
+]
 
 # Регулярки для извлечения ссылок на облака из текста
 S3_DOMAIN_PATTERNS = [
@@ -138,7 +140,7 @@ S3_DOMAIN_PATTERNS = [
 ]
 
 S3_COMMON_FILES = [
-    "configs.txt", "v2ray.txt", "xray.txt", "reality.txt", 
+    "configs.txt", "v2ray.txt", "xray.txt", "reality.txt",
     "whitelist.txt", "wl.txt", "white.txt", "russia.txt",
     "bypass.txt", "antifilter.txt", "antizapret.txt", "ru_nodes.txt",
     "free.txt", "proxy.txt", "socks.txt", "shadowsocks.txt",
@@ -148,7 +150,10 @@ S3_COMMON_FILES = [
 ]
 
 # 2. Hard Block
-BAD_DOMAINS = ['.ir', 'zula.ir', 'mci.ir', 'arvancloud', 'derp', 'mobinnet', 'shatel', '.cn', '.pk', '.af', '.sy', '.sa']
+BAD_DOMAINS = [
+    '.ir', 'zula.ir', 'mci.ir', 'arvancloud', 'derp', 'mobinnet', 'shatel',
+    '.cn', '.pk', '.af', '.sy', '.sa'
+]
 ARABIC_REGEX = re.compile(r'[\u0600-\u06FF]')
 
 # 3. Guide Keywords (Интеллектуальная фильтрация)
@@ -156,7 +161,7 @@ ARABIC_REGEX = re.compile(r'[\u0600-\u06FF]')
 GUIDE_KEYWORDS_HARD = [
     'tutorial', 'how to', 'guide', 'install', 'instruction', 'manual',
     'readme', 'step 1', 'step 2', 'шаг', 'настройка', 'setting',
-    'как настроить', 'инструкция', 'руководство', 'скачать приложение', 
+    'как настроить', 'инструкция', 'руководство', 'скачать приложение',
     'установка', 'запуск', 'обзор', 'review'
 ]
 # Группа 2: Слова-маркеры контента (НЕ блокируем, просто учитываем при анализе)
@@ -171,7 +176,7 @@ BLACK_SNI = [
     'google.com', 'youtube.com', 'facebook.com', 'instagram.com', 'twitter.com',
     'cloudflare.com', 'amazon.com', 'microsoft.com', 'oracle.com', 'apple.com',
     'fuck.rkn', 'iran', 'cloud', 'doubleclick', 'adservice', 'analytics',
-    'pornhub', 'xvideos', 'bet', 'casino', 'yahoo.com', 'azure.com', 
+    'pornhub', 'xvideos', 'bet', 'casino', 'yahoo.com', 'azure.com',
     'worker', 'pages.dev', 'herokuapp', 'workers.dev', 'localhost', '127.0.0.1'
 ]
 
@@ -207,13 +212,18 @@ def get_random_header():
     return {"User-Agent": random.choice(USER_AGENTS)}
 
 def get_best_github_header():
-    if not GITHUB_TOKENS: return {}, None
+    if not GITHUB_TOKENS:
+        return {}, None
+    
     current_time = int(time.time())
     available_tokens = []
+    
     for token in GITHUB_TOKENS:
-        if token not in token_status: token_status[token] = {'reset_time': 0}
+        if token not in token_status:
+            token_status[token] = {'reset_time': 0}
         if current_time > token_status[token]['reset_time']:
             available_tokens.append(token)
+    
     chosen = available_tokens[0] if available_tokens else GITHUB_TOKENS[0]
     headers = {"Authorization": f"token {chosen}", "Accept": "application/vnd.github.v3+json"}
     return headers, chosen
@@ -226,10 +236,14 @@ def extract_vless_fingerprint(vless_link):
     try:
         pattern = r'vless://(?P<uuid>[a-zA-Z0-9\-]+)@.*?(?:\?|&)(?:pbk|publickey)=(?P<pbk>[a-zA-Z0-9%\-\_]+)'
         match = re.search(pattern, vless_link, re.IGNORECASE)
-        if match: return f"{match.group('uuid')}:{match.group('pbk')}"
+        if match:
+            return f"{match.group('uuid')}:{match.group('pbk')}"
+        
         match_simple = re.search(r'vless://(?P<uuid>[a-zA-Z0-9\-]+)@(?P<host>[^:]+)', vless_link)
-        if match_simple: return f"{match_simple.group('uuid')}:{match_simple.group('host')}"
-    except: pass
+        if match_simple:
+            return f"{match_simple.group('uuid')}:{match_simple.group('host')}"
+    except:
+        pass
     return None
 
 def generate_variations(url):
@@ -241,10 +255,13 @@ def generate_variations(url):
         ext = match.group(2)
         prefix = url[:match.start(1)]
         start, end = 1, 50
-        if base_num > 50: end = base_num + 10
+        if base_num > 50:
+            end = base_num + 10
         for i in range(start, end + 1):
-            if i == base_num: continue
+            if i == base_num:
+                continue
             variations.add(f"{prefix}{i}.{ext}")
+            
     # S3 Brute
     if any(d in url for d in S3_DOMAINS):
         parts = url.split('/')
@@ -255,10 +272,12 @@ def generate_variations(url):
     return list(variations)
 
 def convert_to_raw(url):
-    if "raw.githubusercontent.com" in url or "gist.githubusercontent.com" in url: return url
+    if "raw.githubusercontent.com" in url or "gist.githubusercontent.com" in url:
+        return url
     if "github.com" in url and "/blob/" in url:
         return url.replace("github.com", "raw.githubusercontent.com").replace("/blob/", "/")
-    if "gist.github.com" in url: return url + "/raw"
+    if "gist.github.com" in url:
+        return url + "/raw"
     return url
 
 # --- SEARCH ENGINES ---
@@ -266,12 +285,17 @@ def convert_to_raw(url):
 async def search_github_safe(session):
     found = set()
     logger.info(f"🔍 [GitHub] Запуск поиска по {len(SEARCH_QUERIES)} запросам (Full Meat)...")
+    
     for i, query in enumerate(SEARCH_QUERIES):
         page = 1
         while page <= 1:
             encoded_query = urllib.parse.quote(query)
-            url = f"https://api.github.com/search/code?q={encoded_query}&sort=indexed&order=desc&per_page=30&page={page}"
+            url = (
+                f"https://api.github.com/search/code?q={encoded_query}"
+                f"&sort=indexed&order=desc&per_page=30&page={page}"
+            )
             headers, token_used = get_best_github_header()
+            
             try:
                 async with session.get(url, headers=headers) as resp:
                     if resp.status == 200:
@@ -279,27 +303,27 @@ async def search_github_safe(session):
                         items = data.get("items", [])
                         for item in items:
                             found.add((convert_to_raw(item['html_url']), f"dork: {query[:20]}..."))
-                        if items: logger.info(f"   [{resp.status}] Query '{query[:30]}...': +{len(items)} файлов")
+                        if items:
+                            logger.info(f"   [{resp.status}] Query '{query[:30]}...': +{len(items)} файлов")
                         page += 1
                         await asyncio.sleep(2)
-                     elif resp.status == 403 or resp.status == 429:
+                        
+                    elif resp.status == 403 or resp.status == 429:
                         reset_time = resp.headers.get("X-RateLimit-Reset")
                         wait_time = 60
-                        if reset_time: wait_time = max(10, int(reset_time) - int(time.time()))
-                        
-                        # Если бан больше 3 минут (180 сек) — нахер его, пропускаем запрос
-                        if wait_time > 180:
-                             logger.error(f"🚫 Hard Ban detected ({wait_time}s). Skipping query to avoid hanging...")
-                             break # Просто выходим из цикла запроса, идем к следующему дорку
+                        if reset_time:
+                            wait_time = max(10, int(reset_time) - int(time.time()))
                         
                         if token_used:
                             token_status[token_used]['reset_time'] = int(time.time()) + wait_time
-                            
-                        logger.warning(f"🛑 Rate Limit. Cooling down for {wait_time}s...")
+                        
+                        logger.warning(f"🛑 GitHub Rate Limit. Cooling down for {wait_time}s...")
                         await asyncio.sleep(wait_time + 5)
                         break
-                    else: break
-            except Exception: break
+                    else:
+                        break
+            except Exception:
+                break
     return list(found)
 
 async def search_gists(session):
@@ -317,51 +341,71 @@ async def search_gists(session):
                     desc = (gist.get("description") or "").lower()
                     if any(k in desc for k in keywords) or any(k in str(files).lower() for k in keywords):
                         for fname, fcal in files.items():
-                            if fcal.get("raw_url"): found.add((fcal["raw_url"], "source: gist"))
-    except Exception: pass
+                            if fcal.get("raw_url"):
+                                found.add((fcal["raw_url"], "source: gist"))
+    except Exception:
+        pass
     return list(found)
 
 # --- AI ANALYSIS ---
 
 async def ask_huggingface_async(session, snippet):
-    if not HF_TOKEN: return "unknown", "No Token"
+    if not HF_TOKEN:
+        return "unknown", "No Token"
+    
     prompt = f"""Analyze this text. Is it a 'Guide/Tutorial', 'Spam', 'RU VPN Config', or 'Global VPN Config'?
 Look for Russian SNI (gosuslugi, yandex, etc) or Russian text.
 If it contains donation links but has configs, it is a Config, not spam.
 Format: "Verdict: [RU/Global/Spam/Guide] Reason: [reason]"
 Snippet: {snippet[:700]}"""
+    
     try:
         headers = {"Authorization": f"Bearer {HF_TOKEN}"}
-        payload = {"inputs": prompt, "parameters": {"max_new_tokens": 25, "return_full_text": False}}
+        payload = {
+            "inputs": prompt,
+            "parameters": {"max_new_tokens": 25, "return_full_text": False}
+        }
+        
         async with session.post(HF_API_URL, headers=headers, json=payload, timeout=8) as resp:
             if resp.status == 200:
                 res = await resp.json()
                 text = res[0]['generated_text'].lower() if isinstance(res, list) else ""
-                if "guide" in text or "tutorial" in text: return "guide", "AI detected guide"
-                if "spam" in text: return "spam", "AI detected spam"
-                if "ru" in text: return "ru", "AI detected RU context"
-                if "global" in text: return "global", "AI says Global"
+                
+                if "guide" in text or "tutorial" in text:
+                    return "guide", "AI detected guide"
+                if "spam" in text:
+                    return "spam", "AI detected spam"
+                if "ru" in text:
+                    return "ru", "AI detected RU context"
+                if "global" in text:
+                    return "global", "AI says Global"
+                
                 return "unknown", text
-    except: pass
+    except:
+        pass
     return "unknown", "Error"
 
 # --- CORE LOGIC ---
 
 async def fetch_and_analyze(session, url, depth, ai_semaphore):
     url_clean = clean_url(url)
-    if url_clean in VISITED_URLS: return "duplicate", 0, None
+    if url_clean in VISITED_URLS:
+        return "duplicate", 0, None
     VISITED_URLS.add(url_clean)
 
     try:
         headers = get_random_header()
         async with session.get(url, headers=headers, timeout=10) as resp:
-            if resp.status != 200: return "dead", 0, None
+            if resp.status != 200:
+                return "dead", 0, None
             content = await resp.text(errors='ignore')
-    except: return "error", 0, None
+    except:
+        return "error", 0, None
 
     # 1. Dedup
     content_hash = get_md5_head(content)
-    if content_hash in CONTENT_HASHES: return "duplicate", 0, None
+    if content_hash in CONTENT_HASHES:
+        return "duplicate", 0, None
     CONTENT_HASHES.add(content_hash)
 
     # 2. Multiline fix
@@ -371,12 +415,16 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     if "vless://" not in content and len(content) > 50:
         try:
             decoded = base64.b64decode(content).decode('utf-8', errors='ignore')
-            if "vless://" in decoded: content = decoded
-        except: pass
+            if "vless://" in decoded:
+                content = decoded
+        except:
+            pass
 
     # 4. Hard Block (Arabic/Iran)
-    if ARABIC_REGEX.search(content): return "trash", 0, "Arabic"
-    if any(d in content for d in BAD_DOMAINS): return "trash", 0, "Bad Domain"
+    if ARABIC_REGEX.search(content):
+        return "trash", 0, "Arabic"
+    if any(d in content for d in BAD_DOMAINS):
+        return "trash", 0, "Bad Domain"
 
     # 5. Guide Heuristic (INTELLIGENT)
     content_lower = content.lower()
@@ -385,7 +433,7 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     # Если похоже на инструкцию И НЕТ ключевых слов от конфигов (vless, reality), то в мусор.
     # Но если есть vless/reality, то пропускаем, даже если там есть слова "настройка" (это может быть подписка с комментами).
     if hard_guide_hits >= 2 and "vless://" not in content and "reality" not in content:
-         return "trash", 0, "Pure Guide"
+        return "trash", 0, "Pure Guide"
 
     # 6. Matryoshka & S3 Extraction
     links_raw = re.findall(r'(https?://[^\s<>"]+)', content)
@@ -395,10 +443,12 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     for pattern in S3_DOMAIN_PATTERNS:
         s3_matches = re.findall(pattern, content)
         for s3_url in s3_matches:
-            if s3_url not in subs: subs.append(s3_url)
+            if s3_url not in subs:
+                subs.append(s3_url)
 
     if len(subs) >= 3 and "vless://" not in content:
-        if depth < RECURSION_DEPTH: return "aggregator", 0, subs
+        if depth < RECURSION_DEPTH:
+            return "aggregator", 0, subs
         return "trash", 0, "Max recursion"
 
     # 7. VLESS Parsing
@@ -407,36 +457,48 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     white_hits = 0
     
     for link in vless_links:
-        if "security=reality" not in link and "type=grpc" not in link: continue
-        if any(b in link for b in BLACK_SNI): continue
-        if any(p in link for p in ['uuid', 'server', 'your-uuid', 'example.com']): continue
+        if "security=reality" not in link and "type=grpc" not in link:
+            continue
+        if any(b in link for b in BLACK_SNI):
+            continue
+        if any(p in link for p in ['uuid', 'server', 'your-uuid', 'example.com']):
+            continue
+            
         uuid_match = re.search(r'(?P<uuid>[a-f0-9\-]{32,36})@', link, re.I)
         if uuid_match:
             uuid = uuid_match.group('uuid').replace('-', '')
-            if len(uuid) != 32: continue 
-            if len(set(uuid)) < 5: continue 
+            if len(uuid) != 32:
+                continue 
+            if len(set(uuid)) < 5:
+                continue 
         
-        if any(w in link for w in WHITE_SNI): white_hits += 1
+        if any(w in link for w in WHITE_SNI):
+            white_hits += 1
         
         fp = extract_vless_fingerprint(link)
         if fp and fp not in SEEN_FINGERPRINTS:
             SEEN_FINGERPRINTS.add(fp)
             valid_count += 1
 
-    if valid_count == 0: return "trash", 0, "No valid VLESS"
+    if valid_count == 0:
+        return "trash", 0, "No valid VLESS"
 
     # 8. Classification
     is_ru = False
-    if white_hits > 0 or "Russia" in content or "ru_" in content: is_ru = True
+    if white_hits > 0 or "Russia" in content or "ru_" in content:
+        is_ru = True
     
     # AI Check (if not sure)
     verdict = "unknown"
     if not is_ru:
         async with ai_semaphore:
             verdict, reason = await ask_huggingface_async(session, content)
-            if verdict == "ru": is_ru = True
-            elif verdict == "guide": return "trash", 0, "AI-Guide"
-            elif verdict == "spam": return "trash", 0, "AI-Spam"
+            if verdict == "ru":
+                is_ru = True
+            elif verdict == "guide":
+                return "trash", 0, "AI-Guide"
+            elif verdict == "spam":
+                return "trash", 0, "AI-Spam"
 
     tag = "RU" if is_ru else "GLOBAL"
     
@@ -445,7 +507,8 @@ async def fetch_and_analyze(session, url, depth, ai_semaphore):
     hidden_subs = []
     if valid_count > 0:
         for link in links_raw:
-            if any(x in link for x in ['/sub?', '/api/', 'download', 'get.php']): hidden_subs.append(link)
+            if any(x in link for x in ['/sub?', '/api/', 'download', 'get.php']):
+                hidden_subs.append(link)
     
     # Return logic: Pass S3 links found in content to variations for recursive check
     return "clean", valid_count, (tag, variations + hidden_subs + subs)
@@ -483,8 +546,10 @@ async def worker(queue, session, ai_sem):
                 if clean_url(sub_url) not in VISITED_URLS:
                     await queue.put((sub_url, "source: recursion", depth + 1))
                     
-        elif status == "trash": stats["trash"] += 1
-        elif status == "error": stats["errors"] += 1
+        elif status == "trash":
+            stats["trash"] += 1
+        elif status == "error":
+            stats["errors"] += 1
             
         queue.task_done()
 
@@ -495,12 +560,18 @@ def smart_merge_and_save(filename, new_urls):
     if os.path.exists(filename):
         with open(filename, "r", encoding="utf-8") as f:
             for line in f:
-                if line.strip(): existing.add(line.strip())
+                if line.strip():
+                    existing.add(line.strip())
+                    
     initial_count = len(existing)
-    for url in new_urls: existing.add(url)
+    for url in new_urls:
+        existing.add(url)
     added_count = len(existing) - initial_count
+    
     with open(filename, "w", encoding="utf-8") as f:
-        for url in sorted(list(existing)): f.write(url + "\n")
+        for url in sorted(list(existing)):
+            f.write(url + "\n")
+            
     return added_count, len(existing)
 
 # --- MAIN ---
@@ -522,9 +593,13 @@ async def main():
             return
 
         # Process
-        workers = [asyncio.create_task(worker(queue, session, ai_sem)) for _ in range(CONCURRENCY_LIMIT)]
+        workers = [
+            asyncio.create_task(worker(queue, session, ai_sem))
+            for _ in range(CONCURRENCY_LIMIT)
+        ]
         await queue.join()
-        for w in workers: w.cancel()
+        for w in workers:
+            w.cancel()
 
     # Save
     if RESULTS_BUFFER_RU:
@@ -536,14 +611,16 @@ async def main():
         logger.info(f"🗂️ [MIXED] Saved {added_p} unverified sources. Total: {total_p}")
 
     # Stats
-    logger.info("="*40)
+    logger.info("=" * 40)
     logger.info("📊 SESSION STATISTICS:")
     logger.info(f"  ✅ RU Nodes:    {stats['clean_ru']}")
     logger.info(f"  ⚠️  Potential:   {stats['clean_global']}")
     logger.info(f"  🗑️  Trash:       {stats['trash']}")
     logger.info(f"  🔗 Aggregators:  {stats['aggregators']}")
-    logger.info("="*40)
+    logger.info("=" * 40)
 
 if __name__ == "__main__":
-    try: asyncio.run(main())
-    except KeyboardInterrupt: pass 
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        pass 
