@@ -456,7 +456,9 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/e802dacde4bc6d352930f385
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/f7c84289e4595cd1cdd6cdf3ab55592ea2973a14/stats.json
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no14.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no6.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no7.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no9.txt
 https://raw.githubusercontent.com/VPNclient/VPNclient-app/a66cadae3ae6d1b17117b35687b9cfd4c0588bef/lib/pages/main/main_btn.dart
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/refs/heads/main/ShadowSocks2021.txt
@@ -1178,6 +1180,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/6c26f1d42497d26a10afffd70ca6
 https://raw.githubusercontent.com/sakha1370/OpenRay/6ce5134181b39c0c5c7d3089663c07f146690975/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/6fc7be6c114146f36effeb1b1cc0d5f4f77557d4/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/70d64f2aa373cfb06be6b5ca5ce4340af50f9f11/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/7130ad78045882364a5839d6a018552305c5c6df/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/71cd58b684fa116af8e252faefae094f534416f9/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/73f7a56208ff6267fb4dab1d6221227415bebdf1/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/73fb2acae30f009f83facc0307f4fc9809bdd99c/output/country/RU.txt
@@ -1801,6 +1804,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/309dc8d65fb1df5df7921d48d28648
 https://raw.githubusercontent.com/whoahaow/rjsxrd/309dc8d65fb1df5df7921d48d28648c98462f3f8/githubmirror/default/166.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/309dc8d65fb1df5df7921d48d28648c98462f3f8/githubmirror/default/177.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/309dc8d65fb1df5df7921d48d28648c98462f3f8/githubmirror/default/180.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/309dc8d65fb1df5df7921d48d28648c98462f3f8/githubmirror/default/183.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/309dc8d65fb1df5df7921d48d28648c98462f3f8/githubmirror/default/184.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/309dc8d65fb1df5df7921d48d28648c98462f3f8/githubmirror/default/185.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/309dc8d65fb1df5df7921d48d28648c98462f3f8/githubmirror/default/187.txt
