@@ -21,7 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger("VPNScout")
 
 # API Keys
-GITHUB_TOKENS = [t.strip() for t in os.getenv("GITHUB_TOKEN", "").split(",") if t.strip()]
+GITHUB_TOKENS = [t.strip() for t in os.getenv("GTA_TOKEN", "").split(",") if t.strip()]
 HF_TOKEN = os.getenv("HF_TOKEN")
 
 # Headers & API
