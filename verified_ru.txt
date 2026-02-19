@@ -456,7 +456,11 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/e802dacde4bc6d352930f385
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/f7c84289e4595cd1cdd6cdf3ab55592ea2973a14/stats.json
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no1.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no11.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no12.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no14.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no6.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no7.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no9.txt
@@ -609,6 +613,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/c0e22bbee3c684b8c170fea
 https://raw.githubusercontent.com/barry-far/V2ray-Config/c1b5eb8903f8a73903e0aff3eb9df408d0fcbe1c/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/c2d9c4edff222f0e167024dc91fa0c71ee53971f/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/c35b4140b8f4d95b4921eedebc05d3002d476238/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/c4647c6a0e9d7e110f9fa54790973327dd21dfa1/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/cee1d7a2e1ca3c7dc623cfba65c14b5adfb241c6/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d08c82971056ed790ddd1e2242a8a19c30863526/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/d20fc12041e33211fc48ffe9ac652f262f64acb3/Sub30.txt
@@ -1216,6 +1221,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/90fa12a6e9576b3e58de8cafe1de
 https://raw.githubusercontent.com/sakha1370/OpenRay/975688da3670d2814d6d4aa40fa691b880e666ce/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/991ff4101e1e245e97d5a61a7aae0d531ba6990f/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/99844398c9a5b0458e6c3aa03d162d71c24f76bd/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/99f3a350528a3bd4c1bf2155af19040f0c0d822f/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/9ad8c31e1c579b7ecfa3ce1d44251dd97e478235/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/9b47a0ca2a022f58f290461b2bc7a0f69f64901c/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/9d5aa5f087cafbd7fd706d1a991a354c9076252a/output/country/RU.txt
