@@ -4,6 +4,7 @@ https://github.com/Milkes06st/Vpn-Key-access/raw/main/list.txt
 https://github.com/zieng2/wl/raw/main/vless.txt
 https://raw.githubusercontent.com/Asyny-big/vpnys-bot/654fdf648596a0921f81acddb741c926bd021f1c/fast-servers.json
 https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/6f78fe13bfcf122790a79ca2edd4d14850356c5a/Tested_Servers/Channels/gh_v2rayng.txt
+https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/57c7aa1431d9f22ec0a5e1fa638b3e47231a81f1/subscriptions/regions/IS.txt
@@ -13,8 +14,10 @@ https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d4
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/GooDHous/goodhous.github.io/54ed18f8a2cf53a6efa14eab2ed51fd4f53e6581/data/keys.json
+https://raw.githubusercontent.com/JerryLiu369/free_tizi/9f3a71dfcc48ff3d9b1777dbe916fd0a4ba19f43/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/cc7d8c13680978eea1a17fbf6055b3c28a1f122d/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2e047ecfe53233f055e001530d38f9cf371da47a/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/38acedd007a5fcf2c8ef411ca394fe43193ccd35/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/6d840910a1e1d4dca43726383cdc667868d74d05/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/74a265688e0636570be7d4d91327155fc1069024/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/e01d1058a8cced2ef3dd848417046b7665644e58/vmess.txt
@@ -24,13 +27,17 @@ https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/MekaSeka/skills-github-pages/fc1e2fdc8866d878dafc85f63b1273c3b05845fa/vless.txt
 https://raw.githubusercontent.com/OpexDevelop/opexvpn/d0311f3ecb798d021570829f26212f06c3243e16/db.json
 https://raw.githubusercontent.com/PacketCipher/TVC/9bb2be1749d121742174909d25955ea452b0c874/subscriptions/xray/normal/reality
+https://raw.githubusercontent.com/SamanValipour1/My-v2ray-configs/main/MySub.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/430cfd5efe1d0007b51cf3ab5decf354f71ff5bd/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/50dcce48b9e1aa98e5b6ac7a2367c51971e4d482/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/56f357805eb48b2aaf26a2545a12474d69f9aa7d/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c2c70c9c7b60d0fb9f05ef42c0cf57a0efacd25c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/e33c23876b1bd19228e7305fd271b039a7db6801/Countries/Italy.txt
 https://raw.githubusercontent.com/YukiKras/wiki/2168c82dbfaf13df0ebce32fb9258f99a351bb33/ssh-tunnels.md
+https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 https://raw.githubusercontent.com/d1mdev/adblock/760047b10820206c5785c4d07b5aad0b397f63a2/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/ed37362f2a951e50567e2ade8997bb27c2aabbab/vless.txt
+https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85
 https://raw.githubusercontent.com/gbwltg/gbwl/main/m2EsPqwmlc
 https://raw.githubusercontent.com/gbwltg/gbwl/refs/heads/main/m2EsPqwmlc
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
@@ -43,6 +50,7 @@ https://raw.githubusercontent.com/mick303/ysbag/704e1d2bc0993d788ec68d0d9e1c8918
 https://raw.githubusercontent.com/msasanmh/DNSveil/9353b2be95784f8a10e48563f7f859be46bc4578/DNSveil/MainWindow.xaml.cs
 https://raw.githubusercontent.com/nociex/SubSyncForge/5b3df292521aae78ef5fe9d3f09acb35cbb5c585/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/833f227affe9c198a8e53e0f3cd8bb35651127ae/data/cache/pianyi_cache.json
+https://raw.githubusercontent.com/nociex/SubSyncForge/fea7719f043b7f2c33a6fb3fdbeafdffa9049e90/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/remnawave/panel/f9ae7d5b16ae15c573ffb9571cec4ed5029b2df0/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/shirazipooya/link/88127971bf0b0ae73423371467e9f953ba6c132d/Reality.txt
 https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/3a41a0dbb5ecc8d2dc6fb40561ce80288abcaf16/data/sub/channel_subs/freevv2rayng.txt
