@@ -711,7 +711,6 @@ https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f1141212
 https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f11412128ffbb3f/sers/2.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/obhod1.txt
-https://raw.githubusercontent.com/huha-create/Sulim-vpn/4cdd24db4823074750f996390ba8ff0aa677d4c6/README.md
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/072e0d5f30ed152d4181bd4940d234436ee602c3/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0b671b3771e7260a897406b48990974e885defeb/WHITE-SNI-RU-all.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0fa38a6c69c547b9a34fe2eb9547c9b8dca89791/Vless-Reality-White-Lists-Rus-Mobile-2.txt
