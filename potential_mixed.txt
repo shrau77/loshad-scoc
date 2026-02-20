@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/2e047ecfe53233f055e00
 https://raw.githubusercontent.com/Kolandone/v2raycollector/38acedd007a5fcf2c8ef411ca394fe43193ccd35/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/5143f1c351e5ea3a0bfa03b422c88360794c8030/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/6d840910a1e1d4dca43726383cdc667868d74d05/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/7171404b677fecd501a42e4d447154f5ecb37786/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/74a265688e0636570be7d4d91327155fc1069024/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/750898a725a22121c09448ada5410101375c2c4a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/845385cc6a8a90482b9a81edf7ef004731446b8e/vmess.txt
@@ -51,6 +52,7 @@ https://raw.githubusercontent.com/MekaSeka/skills-github-pages/fc1e2fdc8866d878d
 https://raw.githubusercontent.com/OpexDevelop/opexvpn/d0311f3ecb798d021570829f26212f06c3243e16/db.json
 https://raw.githubusercontent.com/PacketCipher/TVC/9bb2be1749d121742174909d25955ea452b0c874/subscriptions/xray/normal/reality
 https://raw.githubusercontent.com/SamanValipour1/My-v2ray-configs/main/MySub.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/192484353cec1cc1f39202021dea4c4f9a910a2e/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/283311a792fde6a7299433018f49552376dd10bb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/430cfd5efe1d0007b51cf3ab5decf354f71ff5bd/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/50dcce48b9e1aa98e5b6ac7a2367c51971e4d482/Countries/Italy.txt
