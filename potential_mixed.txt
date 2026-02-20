@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/57c7aa1431d9f22ec0a5e1fa638b3e472
 https://raw.githubusercontent.com/Ganjabady/XC/57c7aa1431d9f22ec0a5e1fa638b3e47231a81f1/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/62514251aa072e085275066485cad36ce91b52ed/subscriptions/regions/AR.txt
 https://raw.githubusercontent.com/Ganjabady/XC/62514251aa072e085275066485cad36ce91b52ed/subscriptions/regions/IS.txt
+https://raw.githubusercontent.com/Ganjabady/XC/62514251aa072e085275066485cad36ce91b52ed/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/62514251aa072e085275066485cad36ce91b52ed/subscriptions/regions/TH.txt
 https://raw.githubusercontent.com/Ganjabady/XC/62514251aa072e085275066485cad36ce91b52ed/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/85cc487967573ceb0f9c2685cfd56d0e6c6b5892/subscriptions/regions/AR.txt
@@ -33,6 +34,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/74a265688e0636570be7d
 https://raw.githubusercontent.com/Kolandone/v2raycollector/750898a725a22121c09448ada5410101375c2c4a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/845385cc6a8a90482b9a81edf7ef004731446b8e/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/c1ba3dcc6c7fb902744af5e7882f408dddc4c41c/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/c653b5097f05f345114a48664a04b923bc0d24b2/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/d2cf818a66bed7a31d52a77bc97d185d330f31f6/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/e01d1058a8cced2ef3dd848417046b7665644e58/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/fbb072af0b2d82eb7f8641cb2b0a3c71896558c8/vmess.txt
@@ -46,6 +48,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/283311a792fde6a729943
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/430cfd5efe1d0007b51cf3ab5decf354f71ff5bd/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/50dcce48b9e1aa98e5b6ac7a2367c51971e4d482/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/56f357805eb48b2aaf26a2545a12474d69f9aa7d/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/8c21903e78fa63372cc685cd4eeba40e70a1bf5b/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/8c5d8e9b5674a6980ab5c953006c209b443a22a3/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c2c70c9c7b60d0fb9f05ef42c0cf57a0efacd25c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/e33c23876b1bd19228e7305fd271b039a7db6801/Countries/Italy.txt
@@ -61,6 +64,7 @@ https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
 https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/0678580eccadf83203183db36c1f4818a3ebe666/2.txt
 https://raw.githubusercontent.com/kojjii/vv/18de1fc8411cfb74d0ba5f72c0870110b6ce0c17/sub%F0%9F%9A%80
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/04926569e801ddf993ea222eae8ffd668584d0ba/post_20251028_125023.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d91848f1e546ad1a802eee66040b61421a12d17c/post_20251028_125023.txt
 https://raw.githubusercontent.com/mahdireignswwe/romanreignsmahdiwwe/ab500a71cc0a48f800a0baf4e50fc2013cf5f30f/1.Telegram.Mahdi-fast-@Roman_wwe.2024.com.json
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
 https://raw.githubusercontent.com/mick303/ysbag/704e1d2bc0993d788ec68d0d9e1c891814587044/singbox/kulaosub.json
@@ -78,4 +82,7 @@ https://raw.githubusercontent.com/wang-zewen/sub_link/a99c1923edaca9f5706813c16d
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/default/73.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/default/74.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/default/75.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/b434268e43e9d898b4c00604a9b3f6e3c73e8a78/githubmirror/bypass/bypass-19.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/b434268e43e9d898b4c00604a9b3f6e3c73e8a78/githubmirror/default/76.txt
+https://raw.githubusercontent.com/xintrea/mytetra_syncro/4731e0e96a3bc3a87b701cfcb588ef51708650a4/base/1705912840sygx6w9dm0/text.html
 https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray
