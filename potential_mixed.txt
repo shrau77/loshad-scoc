@@ -4,6 +4,7 @@ https://github.com/Milkes06st/Vpn-Key-access/raw/main/list.txt
 https://github.com/zieng2/wl/raw/main/vless.txt
 https://raw.githubusercontent.com/Asyny-big/vpnys-bot/654fdf648596a0921f81acddb741c926bd021f1c/fast-servers.json
 https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/6f78fe13bfcf122790a79ca2edd4d14850356c5a/Tested_Servers/Channels/gh_v2rayng.txt
+https://raw.githubusercontent.com/Ganjabady/XC/57c7aa1431d9f22ec0a5e1fa638b3e47231a81f1/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/57c7aa1431d9f22ec0a5e1fa638b3e47231a81f1/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/57c7aa1431d9f22ec0a5e1fa638b3e47231a81f1/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/AR.txt
@@ -14,11 +15,14 @@ https://raw.githubusercontent.com/JerryLiu369/free_tizi/cc7d8c13680978eea1a17fbf
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2e047ecfe53233f055e001530d38f9cf371da47a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/6d840910a1e1d4dca43726383cdc667868d74d05/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/74a265688e0636570be7d4d91327155fc1069024/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/fbb072af0b2d82eb7f8641cb2b0a3c71896558c8/vmess.txt
 https://raw.githubusercontent.com/LimeHi/LimeVPN/main/LimeVPN.txt
+https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/MekaSeka/skills-github-pages/fc1e2fdc8866d878dafc85f63b1273c3b05845fa/vless.txt
 https://raw.githubusercontent.com/OpexDevelop/opexvpn/d0311f3ecb798d021570829f26212f06c3243e16/db.json
 https://raw.githubusercontent.com/PacketCipher/TVC/9bb2be1749d121742174909d25955ea452b0c874/subscriptions/xray/normal/reality
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/430cfd5efe1d0007b51cf3ab5decf354f71ff5bd/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/50dcce48b9e1aa98e5b6ac7a2367c51971e4d482/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c2c70c9c7b60d0fb9f05ef42c0cf57a0efacd25c/Countries/Italy.txt
 https://raw.githubusercontent.com/YukiKras/wiki/2168c82dbfaf13df0ebce32fb9258f99a351bb33/ssh-tunnels.md
 https://raw.githubusercontent.com/d1mdev/adblock/760047b10820206c5785c4d07b5aad0b397f63a2/vless.txt

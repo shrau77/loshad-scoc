@@ -263,6 +263,7 @@ https://raw.githubusercontent.com/Dan20104/iptv/0f20b0a9286167a40f659dba4e4bc1cd
 https://raw.githubusercontent.com/Danialsamadi/v2go/63977f4ad931a0d9d1d7701fffa2946cdd928d1f/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/7682e3265a41df066b1eeb9f43dd632bf26beb65/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/9a9e7e7eb91c06e6c49ed22fde494c17d1277b65/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/e8e61d0d8dbbc93466818c1a39d206ebf66db588/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Data-Name-ID/rkn/c808b80fae3baa27f757afd8fe8136f678dd2831/vless_lite.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/7d11c104c59dd13d31d1c06838bff3ddaeff380d/splitted-by-country/Poland.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/d59e8b164de2b4877b6a884afefe3402a77321c3/splitted-by-country/United_Kingdom.txt
@@ -322,6 +323,12 @@ https://raw.githubusercontent.com/SER38Off/happ-subscription/457c428754836e639b4
 https://raw.githubusercontent.com/SER38Off/happ-subscription/457c428754836e639b4b327494702b614f9d4d45/white-sub11.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/457c428754836e639b4b327494702b614f9d4d45/white-sub5.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/457c428754836e639b4b327494702b614f9d4d45/white-sub6.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/5a8cfd463ec13c4c684f81a3e258fef6400cdd8c/Game.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/5a8cfd463ec13c4c684f81a3e258fef6400cdd8c/new-white.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/5a8cfd463ec13c4c684f81a3e258fef6400cdd8c/sub.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/5a8cfd463ec13c4c684f81a3e258fef6400cdd8c/sub10.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/5a8cfd463ec13c4c684f81a3e258fef6400cdd8c/sub3.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/5a8cfd463ec13c4c684f81a3e258fef6400cdd8c/sub4.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/9d04e6e801a52563bb0437ddf1f8287a4264b83c/White-lists-sub.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/9d04e6e801a52563bb0437ddf1f8287a4264b83c/sub.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/9d04e6e801a52563bb0437ddf1f8287a4264b83c/sub10.txt
@@ -503,6 +510,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/1789daec5565ac87072ed05
 https://raw.githubusercontent.com/barry-far/V2ray-Config/17a3c8553549adee31688eea3cd67d2358134b11/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/183ab77f0e4271b91d9a36f39470a7d3b26c7c47/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/18c28aee26658b4eaef8e7a0c530e72fe4fa272f/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/1bf8e5000098dd28c36bb7ebe0df3e8c1c29795d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/1c1e46a641b4ad59922336d0fc4ef86d4eec420b/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/1dc2e60aec60df3bec95b6bb9a4710790182127d/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/1e7a75c689fcf56b231367d0e0da737a551702f7/Sub30.txt
@@ -1377,6 +1385,7 @@ https://raw.githubusercontent.com/shabane/kamaji/cfb8dcf6523776d2c9ec38048485111
 https://raw.githubusercontent.com/shabane/kamaji/d85dcbc92a9e3cba9c1ed8ea0847394b9e5389fe/hub/RU.txt
 https://raw.githubusercontent.com/sinavm/SVM/1911692a6cb88879878d6eb8b3693afa613b8d07/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/e1f64bca11ffa0277035f4d0201c6771d663e40e/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/e3cfb3abf498e631bdc07ca391ad0f51d2f80207/reports/invalid.txt
 https://raw.githubusercontent.com/suprohub/novaprox/6f3b2af36657ded25e7d0b73b02c1bf7c200af1f/sub/vless.txt
 https://raw.githubusercontent.com/tanhatarinam/server/5638127c4f3e21d2a4f906be578a481d6c04e5cd/NEO.text
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/main/WhiteKeys
@@ -2204,6 +2213,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/6c33220e8c0cd9573a3c2c745220f8
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6c33220e8c0cd9573a3c2c745220f81e2422e1b0/githubmirror/default/198.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6c33220e8c0cd9573a3c2c745220f81e2422e1b0/githubmirror/default/48.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6c33220e8c0cd9573a3c2c745220f81e2422e1b0/githubmirror/default/51.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/bypass-unsecure/bypass-unsecure-8.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/bypass/bypass-8.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/default/110.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/default/118.txt
