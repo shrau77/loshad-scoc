@@ -258,6 +258,7 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/710b81e5a29b4d92d005d24cd82
 https://raw.githubusercontent.com/Barabama/FreeNodes/8c1fa437ee8e903dbf4b931d6b246da842be533d/nodes/wenode.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/a201f1ceb972e28b852cb986b73b83ea93c0ae93/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/a201f1ceb972e28b852cb986b73b83ea93c0ae93/nodes/wenode.txt
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/v2rayshare.txt
@@ -594,6 +595,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/59fe6fe5263a0b77928de26
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5a2b6c1b30a57efd873e81048237263310db2eeb/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5a665278ad51fc00b4ad1b9a876f340345f6e9f1/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5b0fdf41e24cc5597ae4e175bea4a73a286f5e78/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/5ca2ad17fae59877a7072f968fca2ef43dcb43bc/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5cde0b30a85e0cbcfeaa0cc7e7f3df072560dea1/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5e82fab6553651bb50b3745e3a422f33af9b4c8b/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/5f53db24c82de6cf80121cf38615c5ada233893c/Sub30.txt
@@ -1107,6 +1109,7 @@ https://raw.githubusercontent.com/koteey/Ms.Kerosin-VPN/refs/heads/main/proxies.
 https://raw.githubusercontent.com/liketolivefree/kobabi/1850f3c93483844a9502362d8af1cbc7fbd068cc/sub.txt
 https://raw.githubusercontent.com/maplelgj/TV/c9264f50a436e5cb67eda56e331f5619783c08ed/VV
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c7433e0dbbb31c17ad9d8029c5710c5c6dcba5eb/category/Russia.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/efe52a24cb71a0fbf341c803d169564cc96e8c1c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/wl.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/9c6cf41b624669ec6caf9d8716af0653eec8f43e/ru.txt
