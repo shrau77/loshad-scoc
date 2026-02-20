@@ -278,6 +278,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/b1aeb01e6386214bf6d01a07c68a
 https://raw.githubusercontent.com/Danialsamadi/v2go/e8e61d0d8dbbc93466818c1a39d206ebf66db588/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/e94766a5c2fac935237c890efd1016f9a7c4f3a5/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/ed6012b7a01d0695b31475f12514d642276b6bcb/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/f95004870945fab4f8e5b0f57e88c0051b8b7053/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Data-Name-ID/rkn/c808b80fae3baa27f757afd8fe8136f678dd2831/output.txt
 https://raw.githubusercontent.com/Data-Name-ID/rkn/c808b80fae3baa27f757afd8fe8136f678dd2831/vless_lite.txt
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
@@ -515,6 +516,7 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/e802dacde4bc6d352930f385
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/f7c84289e4595cd1cdd6cdf3ab55592ea2973a14/stats.json
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6afb3a03857ef62c955446/Config_by_country/server_LV.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs_no10.txt
 https://raw.githubusercontent.com/VPNclient/VPNclient-app/a66cadae3ae6d1b17117b35687b9cfd4c0588bef/lib/pages/main/main_btn.dart
 https://raw.githubusercontent.com/YasserDivaR/pr0xy/refs/heads/main/ShadowSocks2021.txt
 https://raw.githubusercontent.com/a97083435/Autoproxy/a0cf17eb782656c3499f557a0565a9f023148f02/sub/2403/240325.txt
@@ -539,6 +541,7 @@ https://raw.githubusercontent.com/barry-far/V2ray-Config/0ecea53fc386f91ddf5e30c
 https://raw.githubusercontent.com/barry-far/V2ray-Config/0f4986b36b817f97ac26179dba13c7212c3d9bbe/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/1316514f6bab4907cc42bc96a03748619a9a7709/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/13404b1acfeabf228a5e39a1378c2fd56f3254c4/Sub30.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Config/136073508327bdbc091cd7d31d48831771fbea73/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/137545bb853dd547b03a0772cdee56293bbedc45/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/13e05be5e1e77baa9bfbc1348ff452fe15b277b2/Sub30.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Config/13e0b8d9836d9af9c50ff8c3323e33b59f3e84b6/Sub30.txt
@@ -1112,6 +1115,7 @@ https://raw.githubusercontent.com/koteey/Ms.Kerosin-VPN/main/proxies.txt
 https://raw.githubusercontent.com/koteey/Ms.Kerosin-VPN/refs/heads/main/proxies.txt
 https://raw.githubusercontent.com/liketolivefree/kobabi/1850f3c93483844a9502362d8af1cbc7fbd068cc/sub.txt
 https://raw.githubusercontent.com/maplelgj/TV/c9264f50a436e5cb67eda56e331f5619783c08ed/VV
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/7c9958861307563cb0b0cb30ac380149da967558/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c7433e0dbbb31c17ad9d8029c5710c5c6dcba5eb/category/Russia.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/efe52a24cb71a0fbf341c803d169564cc96e8c1c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
