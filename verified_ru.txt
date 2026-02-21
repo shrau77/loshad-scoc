@@ -284,7 +284,6 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/ed6012b7a01d0695b31475f12514
 https://raw.githubusercontent.com/Danialsamadi/v2go/f95004870945fab4f8e5b0f57e88c0051b8b7053/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Data-Name-ID/rkn/c808b80fae3baa27f757afd8fe8136f678dd2831/output.txt
 https://raw.githubusercontent.com/Data-Name-ID/rkn/c808b80fae3baa27f757afd8fe8136f678dd2831/vless_lite.txt
-https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/7d11c104c59dd13d31d1c06838bff3ddaeff380d/splitted-by-country/Poland.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/d59e8b164de2b4877b6a884afefe3402a77321c3/splitted-by-country/United_Kingdom.txt
@@ -321,7 +320,6 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
-https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/2d3d47afa7eda165c630b5ad83842268e70fe2ef/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/ad9566455eea618fd4bc53742ca1015202718d5e/githubmirror/27.txt
@@ -771,7 +769,6 @@ https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f1141212
 https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f11412128ffbb3f/sers/2.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/obhod1.txt
-https://raw.githubusercontent.com/huha-create/Sulim-vpn/815106a0000d65f1f331ddf785562719355c07b0/README.md
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/072e0d5f30ed152d4181bd4940d234436ee602c3/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0b671b3771e7260a897406b48990974e885defeb/WHITE-SNI-RU-all.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0fa38a6c69c547b9a34fe2eb9547c9b8dca89791/Vless-Reality-White-Lists-Rus-Mobile-2.txt
