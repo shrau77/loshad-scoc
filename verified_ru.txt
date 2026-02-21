@@ -355,6 +355,7 @@ https://raw.githubusercontent.com/OZRED/vless/d9ae1485cbda510667e6cc613eb90c5a41
 https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested-2025-07-24T13-39-52Z.json
 https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested-2025-07-26T00-32-09Z.json
 https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested_2025-07-31T16-52-03-985Z.json
+https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested_2025-07-31T18-59-06-808Z.json
 https://raw.githubusercontent.com/SER38Off/happ-subscription/457c428754836e639b4b327494702b614f9d4d45/Game.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/457c428754836e639b4b327494702b614f9d4d45/White-lists-sub.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/457c428754836e639b4b327494702b614f9d4d45/new-white.txt
@@ -789,6 +790,7 @@ https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/d3b3ede6b21
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/df64902e6902b9c628b247b24c044203a98a9fe2/detailed/vless/501.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/e861f223cd42bd5ce1520ac2f533328d159eb866/detailed/vless/501.txt
 https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f11412128ffbb3f/412gdg/live_vless.txt
+https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f11412128ffbb3f/gvcv/vdc.txt
 https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f11412128ffbb3f/sers/2.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/obhod1.txt
@@ -2607,6 +2609,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/default/120.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/default/122.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8b0459e18e5f22d929be44898b0f1c7e3cdf667a/githubmirror/default/13.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/bypass-unsecure/bypass-unsecure-13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/bypass-unsecure/bypass-unsecure-3.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/bypass/bypass-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/bypass/bypass-12.txt
@@ -3366,5 +3369,6 @@ https://raw.githubusercontent.com/zieng2/wl/e2edc77d7afb9ebb6811b6f4e7461b75a730
 https://raw.githubusercontent.com/zieng2/wl/fddc6b5747a9b0d75bab0a08d89c5b5dce06ef24/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/fe2fab9389b15932c336334714e047701a0a3363/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt
+https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://storage.yandexcloud.net/cid-vpn/whitelist.txt
 https://subs.root.sx/hdff1

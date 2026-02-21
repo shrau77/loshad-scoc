@@ -38,6 +38,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/85cc487967573ceb0f9c2685cfd56d0e6
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/AR.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/UZ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/d97625f4b67466a47e7f6626aa512424df98076a/subscriptions/regions/AR.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d97625f4b67466a47e7f6626aa512424df98076a/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/GooDHous/goodhous.github.io/54ed18f8a2cf53a6efa14eab2ed51fd4f53e6581/data/keys.json
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/270979440107585f4aa712aa50a9a82ca7a89c64/subscriptions/v2ray1.txt
