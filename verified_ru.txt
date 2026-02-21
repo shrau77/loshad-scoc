@@ -347,6 +347,7 @@ https://raw.githubusercontent.com/MohsenReyhani/vless-subscriptions/a4bf5e9a0111
 https://raw.githubusercontent.com/OZRED/vless/3043deacfeef862e43bd8c4051a77df68babf2e1/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/37c0673188c19844f19877978266b48b9659a4ea/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/aa7805093daaf85f7cc82a31b449fb14347e963f/wubbalubbadubdub
+https://raw.githubusercontent.com/OZRED/vless/ad0d19490d086867b51d0991144385d01465ad1a/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/b66e3ae909956464aa9b2b9bad33d0ed87733405/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/d9ae1485cbda510667e6cc613eb90c5a419d879e/wubbalubbadubdub
 https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested-2025-07-24T13-39-52Z.json

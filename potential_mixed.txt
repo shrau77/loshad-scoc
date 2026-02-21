@@ -87,6 +87,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/43e04408e154f96db1fb1
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/50dcce48b9e1aa98e5b6ac7a2367c51971e4d482/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/56f357805eb48b2aaf26a2545a12474d69f9aa7d/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/57e68620465be04fb2caff5b1b057388f25992a3/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/6bdf3a105b2554e1b370159d4e0bb10de2617ea6/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/70227a5892abc756f2128c596fc889bcb3bbf45a/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/74b185cf40bd7e155edc9f4e3e5efb0b49131ca1/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/838264ce8eec455c5b87a3dd3a6395d2730122f9/Countries/Italy.txt
@@ -115,6 +116,7 @@ https://raw.githubusercontent.com/d1mdev/adblock/3117f3e7e7a9dc85bd7eaa3acb15a97
 https://raw.githubusercontent.com/d1mdev/adblock/760047b10820206c5785c4d07b5aad0b397f63a2/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/ed37362f2a951e50567e2ade8997bb27c2aabbab/vless.txt
 https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85
+https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray订阅
 https://raw.githubusercontent.com/gbwltg/gbwl/main/m2EsPqwmlc
 https://raw.githubusercontent.com/gbwltg/gbwl/refs/heads/main/m2EsPqwmlc
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
