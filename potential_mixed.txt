@@ -8,6 +8,8 @@ https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/6f78fe13bfcf12
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/UZ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/IS.txt
+https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/TH.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/UZ.txt
@@ -47,6 +49,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/7e6ba1f33574ff327d8ad
 https://raw.githubusercontent.com/Kolandone/v2raycollector/830edbc306234abd08296c0383ca4b5a1335f4be/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/845385cc6a8a90482b9a81edf7ef004731446b8e/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/8c55129398e86fe049735d029e17c6aec4d5672c/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/af34430147e072f2af6ab59bd2232685ef88bb5b/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/c1ba3dcc6c7fb902744af5e7882f408dddc4c41c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/c653b5097f05f345114a48664a04b923bc0d24b2/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/cecd3f68f9e7d911ab0cd0421dc1be0f1f862e50/vmess.txt
@@ -62,6 +65,7 @@ https://raw.githubusercontent.com/SamanValipour1/My-v2ray-configs/main/MySub.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/192484353cec1cc1f39202021dea4c4f9a910a2e/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/283311a792fde6a7299433018f49552376dd10bb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/32504319acaab6968ee44e8a6f12d6aa9360a2b9/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/40278acb99fb27b0039418578034430daa027c92/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/430cfd5efe1d0007b51cf3ab5decf354f71ff5bd/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/43e04408e154f96db1fb144b43845c332c6eaef2/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/50dcce48b9e1aa98e5b6ac7a2367c51971e4d482/Countries/Italy.txt
@@ -87,6 +91,7 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2r
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no9.txt
 https://raw.githubusercontent.com/YukiKras/wiki/2168c82dbfaf13df0ebce32fb9258f99a351bb33/ssh-tunnels.md
 https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+https://raw.githubusercontent.com/d1mdev/adblock/3117f3e7e7a9dc85bd7eaa3acb15a97f6685d4ce/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/760047b10820206c5785c4d07b5aad0b397f63a2/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/ed37362f2a951e50567e2ade8997bb27c2aabbab/vless.txt
 https://raw.githubusercontent.com/dalazhi/v2ray/main/v2ray%E8%AE%A2%E9%98%85
@@ -106,7 +111,9 @@ https://raw.githubusercontent.com/nociex/SubSyncForge/1c7e322be6e35017f9e6507645
 https://raw.githubusercontent.com/nociex/SubSyncForge/5b3df292521aae78ef5fe9d3f09acb35cbb5c585/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/833f227affe9c198a8e53e0f3cd8bb35651127ae/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/895967cd03a736c1ec77378eae2a81b23d2729bb/data/cache/pianyi_cache.json
+https://raw.githubusercontent.com/nociex/SubSyncForge/ccb09e3eef68ea9cd7ff3640c4c745798a108eac/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/fea7719f043b7f2c33a6fb3fdbeafdffa9049e90/data/cache/pianyi_cache.json
+https://raw.githubusercontent.com/remnawave/panel/b4656f3b4457fc10d85c60f27b1eb5129feec80b/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/remnawave/panel/f9ae7d5b16ae15c573ffb9571cec4ed5029b2df0/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/shirazipooya/link/88127971bf0b0ae73423371467e9f953ba6c132d/Reality.txt
 https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/3a41a0dbb5ecc8d2dc6fb40561ce80288abcaf16/data/sub/channel_subs/freevv2rayng.txt
