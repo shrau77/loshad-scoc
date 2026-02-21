@@ -805,6 +805,7 @@ https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f1141212
 https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f11412128ffbb3f/sers/2.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/obhod1.txt
+https://raw.githubusercontent.com/huha-create/Sulim-vpn/815106a0000d65f1f331ddf785562719355c07b0/README.md
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/072e0d5f30ed152d4181bd4940d234436ee602c3/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0b671b3771e7260a897406b48990974e885defeb/WHITE-SNI-RU-all.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0fa38a6c69c547b9a34fe2eb9547c9b8dca89791/Vless-Reality-White-Lists-Rus-Mobile-2.txt
@@ -3370,6 +3371,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/f4e0a17ae1f81864b007c13eb57378
 https://raw.githubusercontent.com/xcom024/vless/refs/heads/main/list.txt
 https://raw.githubusercontent.com/xiyingruyi/Stash-rules/01e0e0c91317c98fc5631df93f416e10a63101ab/nodes.txt
 https://raw.githubusercontent.com/zhouzr/nodes/fe2a662edcfb010c64792151bc4b7bb1739b3b72/nodes.txt
+https://raw.githubusercontent.com/zieng2/wl/0d75c71983cecd5213dd9f3c2c7c51f396e530dc/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/1bb0e4fc5ea9e86a64d3df647523fb26ce9d9b7e/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/25f86bbb238c9b4a40a2cab064b124193a902cc9/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/32a87922653412379f60a30e60d855f08cbf6523/vless_lite.txt
