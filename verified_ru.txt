@@ -83,6 +83,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/3c2a53e0eac5a2975af0484ae56
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/3f211dd761cd6f737a6f67ace0ed9873dc4408c4/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/43eb1b8061373d36d3bf76ca6e89090027a9c38f/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/44830a6c486f40f6b8a15e6f1e25425df392bcf5/data/sub/datacenters/LLC_eurodonbas.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/46d9ccef0b95e2facd1e4530536d1f479c45da5b/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/4740e72233effbb3c130f838a6eae6fcc1703853/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/4740e72233effbb3c130f838a6eae6fcc1703853/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/4a0474f6f451bcd05025b294fe863360237f93af/data/sub/countries/RU.txt
@@ -318,6 +319,7 @@ https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/eb19917ca31a6de0449c686
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/main/configs
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/HU.txt
+https://raw.githubusercontent.com/Ganjabady/XC/1d1957ea4065d0a558e450f44de45527c9164179/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/1da68005c3d2ec738b7af7617a8e98ea493a826a/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/HU.txt
