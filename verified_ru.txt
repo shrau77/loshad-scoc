@@ -1,5 +1,6 @@
 https://bp.wl.free.nf/confs/selected.txt
 https://bp.wl.free.nf/confs/wl.txt
+https://gist.githubusercontent.com/Arthur9000/a165dc69aa1d02af40030ba1dfa8d331/raw/f266efb5cf1da1ee8f13cf8d922f05f9b99e83c7/mysub.txt
 https://gist.githubusercontent.com/Gamesaix/0ff0282c8e1298bd282432146db0e997/raw/c334935f34f626307b79a794d3f18fe1584e7d74/United%2520States
 https://github.com/AirLinkVPN/AirLinkVPN.github.io/raw/main/1.txt
 https://github.com/Artem0790YT/vpninternet/raw/main/vpn.txt
@@ -289,6 +290,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/dd2b86690bfe230c03bea18430e2
 https://raw.githubusercontent.com/Danialsamadi/v2go/df07d49d7663677fe60d9edd1f97c1f5e36c6e93/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/e8e61d0d8dbbc93466818c1a39d206ebf66db588/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/e94766a5c2fac935237c890efd1016f9a7c4f3a5/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/eca192d8e31e5739013e8518d22eec8424cb713d/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/ed6012b7a01d0695b31475f12514d642276b6bcb/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/edd3da85bba13a143301df68d55808322f0c570e/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/f95004870945fab4f8e5b0f57e88c0051b8b7053/Splitted-By-Country/MD.txt
@@ -1482,6 +1484,7 @@ https://raw.githubusercontent.com/sinavm/SVM/05d17581f7b11f160d7044a65f3dfebf891
 https://raw.githubusercontent.com/sinavm/SVM/1911692a6cb88879878d6eb8b3693afa613b8d07/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/5a3728b7c3bf92ad8798b83f3318589145ebc0b3/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/5a5efae1e18344bffe811d8e5435d3f351b41b75/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/6563658345d54734e1cd275432127f0e91de5602/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/7c216bcdb2af7e73a5a0686997b866b786e1b0a2/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/87e30bca45fbad625e8637743cc8dfab198fd590/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/a678ff0cb23f4e35316b25eded9ac5035041532f/reports/invalid.txt
