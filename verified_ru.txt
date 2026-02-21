@@ -270,6 +270,7 @@ https://raw.githubusercontent.com/Cociboy/V2tjn36d47d/d05697d983e27ef67dd70e580a
 https://raw.githubusercontent.com/Dan20104/iptv/0f20b0a9286167a40f659dba4e4bc1cdb5bd3b32/vpn.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/06e117dc5065dfb900f5f684940b07de78ef28a8/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/080b6f4ccd7ff172cd50980de8a6b489d36d19c2/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/100ec68f9f6e3f8eb9f5ee33b5e79dcab6cf9788/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/1a9d016646726036dd1fd571f5e7e36ad09f0db9/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/1f0b53e1d10145638c74faf032e25589bd2f700a/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/4960f0a2156dc7cd90c2be90bd82ea85229d58f8/Splitted-By-Country/MD.txt
@@ -309,6 +310,7 @@ https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/eb19917ca31a6de0449c686
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/main/configs
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/HU.txt
+https://raw.githubusercontent.com/Ganjabady/XC/1da68005c3d2ec738b7af7617a8e98ea493a826a/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/HU.txt
@@ -1137,6 +1139,7 @@ https://raw.githubusercontent.com/ndsphonemy/proxy-sub/b5c423721244fa1e8343eb536
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/cac0ec04edf63f5d1002d42ba6067128e61a735e/ru.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/cac0ec04edf63f5d1002d42ba6067128e61a735e/wl.txt
 https://raw.githubusercontent.com/nehaevbogdan16-svg/Citadel-vpn-sub/38bea52f9db127d8512b5d2545a53dd9133a78ce/sub.txt
+https://raw.githubusercontent.com/nurgamedovrustam-web/1/cc6c1fb1c6c892f2358a7d0862dc5d0df29b4cc3/index.html
 https://raw.githubusercontent.com/pog7x/vpn-configs/07af173dfc35920cdc5d98e63025fb1d3c76e27b/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/07f00c95e87c5cf6710e3017d4cf2685ac5cef4d/githubmirror/18.txt
 https://raw.githubusercontent.com/pog7x/vpn-configs/1757270031418651cb64b361ca85a69ae8686735/githubmirror/18.txt
@@ -3316,6 +3319,7 @@ https://raw.githubusercontent.com/zieng2/wl/a9435df582c03c151d3f83303add271f82cf
 https://raw.githubusercontent.com/zieng2/wl/ade75852a8d495f06cced03133378ea95f7b777d/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/b947d141a143b0f6afe4658b2a496e4861ded9ea/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/bbe2a19d03ec4dd63d381a44741e0d0e0195833d/vless_lite.txt
+https://raw.githubusercontent.com/zieng2/wl/d075580f28ba6212277d76be69298ef8493606b1/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/d1b63a3fadec53528d6321894eb9d4b5b004f45f/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/d7869c5ea59517f6becf2b9655ecff3565578ebb/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/e2edc77d7afb9ebb6811b6f4e7461b75a7307345/vless_lite.txt

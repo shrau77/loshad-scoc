@@ -8,6 +8,9 @@ https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/6f78fe13bfcf12
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/UZ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/1da68005c3d2ec738b7af7617a8e98ea493a826a/subscriptions/regions/AR.txt
+https://raw.githubusercontent.com/Ganjabady/XC/1da68005c3d2ec738b7af7617a8e98ea493a826a/subscriptions/regions/IS.txt
+https://raw.githubusercontent.com/Ganjabady/XC/1da68005c3d2ec738b7af7617a8e98ea493a826a/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/IS.txt
@@ -56,6 +59,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/830edbc306234abd08296
 https://raw.githubusercontent.com/Kolandone/v2raycollector/845385cc6a8a90482b9a81edf7ef004731446b8e/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/8c55129398e86fe049735d029e17c6aec4d5672c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/af34430147e072f2af6ab59bd2232685ef88bb5b/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/b364fa0b41c6ec0fb77eed1b348c00191db3f6cc/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/c1ba3dcc6c7fb902744af5e7882f408dddc4c41c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/c653b5097f05f345114a48664a04b923bc0d24b2/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/cc47376f53bad2985bac4b6a5e0924c79fb78f77/vmess.txt
