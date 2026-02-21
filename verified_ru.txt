@@ -288,6 +288,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/ba3af3884daa3845cc16a9983231
 https://raw.githubusercontent.com/Danialsamadi/v2go/dd2b86690bfe230c03bea18430e2c8eb0be35787/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/df07d49d7663677fe60d9edd1f97c1f5e36c6e93/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/df6f43a90643ef7e3679c46447c1469c9795263b/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/e355e52dda913288ce9a86e56999da52aeab53bc/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/e8e61d0d8dbbc93466818c1a39d206ebf66db588/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/e94766a5c2fac935237c890efd1016f9a7c4f3a5/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/eca192d8e31e5739013e8518d22eec8424cb713d/Splitted-By-Country/MD.txt
@@ -297,6 +298,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/f95004870945fab4f8e5b0f57e88
 https://raw.githubusercontent.com/Danialsamadi/v2go/feab8aee607626807d5abd8df1568f6893f68019/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Data-Name-ID/rkn/c808b80fae3baa27f757afd8fe8136f678dd2831/output.txt
 https://raw.githubusercontent.com/Data-Name-ID/rkn/c808b80fae3baa27f757afd8fe8136f678dd2831/vless_lite.txt
+https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/2
 https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/7d11c104c59dd13d31d1c06838bff3ddaeff380d/splitted-by-country/Poland.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/d59e8b164de2b4877b6a884afefe3402a77321c3/splitted-by-country/United_Kingdom.txt
@@ -338,6 +340,7 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
+https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/2d3d47afa7eda165c630b5ad83842268e70fe2ef/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/ad9566455eea618fd4bc53742ca1015202718d5e/githubmirror/27.txt
@@ -1495,6 +1498,7 @@ https://raw.githubusercontent.com/sinavm/SVM/e35a51c303250cecb11548923cbe77389bb
 https://raw.githubusercontent.com/sinavm/SVM/e3cfb3abf498e631bdc07ca391ad0f51d2f80207/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/ecc094b762212c3c982640aa0863bf77a7cfe212/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/eef6dff38daf201d88797b7b640d5a05aa9f5d98/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/fee63522a8b8607fc7a7dafd7fa734a02cb59fa5/reports/invalid.txt
 https://raw.githubusercontent.com/suprohub/novaprox/6f3b2af36657ded25e7d0b73b02c1bf7c200af1f/sub/vless.txt
 https://raw.githubusercontent.com/tanhatarinam/server/5638127c4f3e21d2a4f906be578a481d6c04e5cd/NEO.text
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/main/WhiteKeys
@@ -2646,6 +2650,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/default/132.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/default/139.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/default/151.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/default/157.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/default/159.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/8d627fcd7ada3d57148ee9faa08eae76076b732c/githubmirror/default/161.txt
@@ -3388,6 +3393,7 @@ https://raw.githubusercontent.com/zieng2/wl/8b2a3b3e78d737bf6459e5cca0c6c9523728
 https://raw.githubusercontent.com/zieng2/wl/8b61ae48c2b70a0a5854f295ba4e495fa0eb5e18/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/8dac0e5c4dc81c1d8865b7ffabfcdd02747a07c2/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/9fb45afdb1b9f607c3ff801db18b4d15746853c4/vless_lite.txt
+https://raw.githubusercontent.com/zieng2/wl/a0d81de0d4e750c54adb4fa39236295209e61840/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/a9435df582c03c151d3f83303add271f82cf1b61/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/ade75852a8d495f06cced03133378ea95f7b777d/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/b947d141a143b0f6afe4658b2a496e4861ded9ea/vless_lite.txt
