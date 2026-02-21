@@ -14,6 +14,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c87
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/TH.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/IS.txt
+https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/TH.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/57c7aa1431d9f22ec0a5e1fa638b3e47231a81f1/subscriptions/regions/IS.txt
@@ -83,6 +84,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/70227a5892abc756f2128
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/74b185cf40bd7e155edc9f4e3e5efb0b49131ca1/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/8c21903e78fa63372cc685cd4eeba40e70a1bf5b/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/8c5d8e9b5674a6980ab5c953006c209b443a22a3/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/96da354054e947920014183035f7d5e4ca5e9a20/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99c6c20d90bf67acdabe19bb810827b77c5eff11/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c2c70c9c7b60d0fb9f05ef42c0cf57a0efacd25c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c6ffd107837244c613f717ac9693839da3d8998e/Countries/Italy.txt
