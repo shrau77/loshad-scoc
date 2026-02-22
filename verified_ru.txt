@@ -19,7 +19,6 @@ https://github.com/svpjohji/VPN/raw/main/NECHAEV_VPN
 https://github.com/universal-hd/HydranetVPN/raw/main/111ServHydranetVPN.txt
 https://github.com/whatplayer9/vpn-subs/raw/main/subs.json
 https://github.com/zieng2/wl/raw/main/vless.txt
-https://github.com/zieng2/wl/raw/main/vless_universal.txt
 https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/2180ed60ed5a1d6bf23558899bfc35f70a4a9c11/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/675a2a32cced09714efb9e418d7985831eba0597/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/ce860befea5895e704b6e8426616610a9a62489e/output_configs/Russia.txt
@@ -342,7 +341,6 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
-https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/2d3d47afa7eda165c630b5ad83842268e70fe2ef/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/ad9566455eea618fd4bc53742ca1015202718d5e/githubmirror/27.txt
@@ -807,7 +805,6 @@ https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f1141212
 https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f11412128ffbb3f/sers/2.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/obhod1.txt
-https://raw.githubusercontent.com/huha-create/Sulim-vpn/815106a0000d65f1f331ddf785562719355c07b0/README.md
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/072e0d5f30ed152d4181bd4940d234436ee602c3/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0b671b3771e7260a897406b48990974e885defeb/WHITE-SNI-RU-all.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0fa38a6c69c547b9a34fe2eb9547c9b8dca89791/Vless-Reality-White-Lists-Rus-Mobile-2.txt
@@ -3410,6 +3407,5 @@ https://raw.githubusercontent.com/zieng2/wl/e2edc77d7afb9ebb6811b6f4e7461b75a730
 https://raw.githubusercontent.com/zieng2/wl/fddc6b5747a9b0d75bab0a08d89c5b5dce06ef24/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/fe2fab9389b15932c336334714e047701a0a3363/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt
-https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt
 https://storage.yandexcloud.net/cid-vpn/whitelist.txt
 https://subs.root.sx/hdff1
