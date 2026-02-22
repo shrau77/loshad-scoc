@@ -261,6 +261,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c2ccd72382e9b35010
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c7d829b870dfe6eb683669088f645356f3edbb61/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c91e0e21477a3ed517dd3e8d6827e56ea3ecf809/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c96093aca46da0b8401ca46c9bc417638e81c79e/githubmirror/8.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/e53cf60cd35a8f93c49dba9cef203878e7dbc0dc/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/ed7ccfa5348e6acf48e483dd6a3887f3a941281f/githubmirror/13.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/0c897062ab80a23edc116e7eabe623311cdd36ec/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/0c897062ab80a23edc116e7eabe623311cdd36ec/nodes/wenode.txt
@@ -363,6 +364,7 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
+https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/84902744e36545454a50d7303d3552506ac44653/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/3acfed839e57d00a71705fa06508e7b8cf8e9753/githubmirror/27.txt
@@ -845,6 +847,7 @@ https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f1141212
 https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f11412128ffbb3f/sers/2.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/obhod1.txt
+https://raw.githubusercontent.com/huha-create/Sulim-vpn/6a047cb9c60bddba0ca6b1f5bfcf5609d0616b2d/README.md
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/072e0d5f30ed152d4181bd4940d234436ee602c3/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0b671b3771e7260a897406b48990974e885defeb/WHITE-SNI-RU-all.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0fa38a6c69c547b9a34fe2eb9547c9b8dca89791/Vless-Reality-White-Lists-Rus-Mobile-2.txt
@@ -1541,6 +1544,7 @@ https://raw.githubusercontent.com/shabane/kamaji/569905ff12f6fcfcb685e81007c3e29
 https://raw.githubusercontent.com/shabane/kamaji/6205a179d122d014e71765342767e8f84ef7d9de/hub/RU.txt
 https://raw.githubusercontent.com/shabane/kamaji/cfb8dcf6523776d2c9ec38048485111f1ea72259/hub/RU.txt
 https://raw.githubusercontent.com/shabane/kamaji/d85dcbc92a9e3cba9c1ed8ea0847394b9e5389fe/hub/RU.txt
+https://raw.githubusercontent.com/sinavm/SVM/00754034cff8f53789fb6729dd004db74eeb7bc1/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/05d17581f7b11f160d7044a65f3dfebf8917a671/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/15c9fe728834db69864ceef4292a32559eb053d4/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/1911692a6cb88879878d6eb8b3693afa613b8d07/reports/invalid.txt
@@ -3546,6 +3550,7 @@ https://raw.githubusercontent.com/zieng2/wl/4cfc8697280bcbf932cd37fbbbf38b016bf6
 https://raw.githubusercontent.com/zieng2/wl/4e95405c203373178dcc0f20da62b0a62e2be651/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/4ed21442842af6bfcaf7d3d991bf1e0305fe9b19/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/62fe6e7841d4f5593b9c676f2ccca39faed4788d/vless_lite.txt
+https://raw.githubusercontent.com/zieng2/wl/63e4a6ba523e335413cd58e5af13b7674f3a02ff/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/64a7299cd553c0b66e91f2ea62094883baedd6a9/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/69196631b6b45ebf7aa3ce4cfee29820318154f5/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/71833dcad1c5c1a97830ae5387d40f395f426145/vless_lite.txt
