@@ -2,6 +2,7 @@ https://gist.githubusercontent.com/Gamesaix/0ff0282c8e1298bd282432146db0e997/raw
 https://github.com/LimeHi/LimeVPN/raw/main/LimeVPN.txt
 https://github.com/Milkes06st/Vpn-Key-access/raw/main/list.txt
 https://github.com/zieng2/wl/raw/main/vless.txt
+https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Country/Russia.txt
 https://raw.githubusercontent.com/Asyny-big/vpnys-bot/654fdf648596a0921f81acddb741c926bd021f1c/fast-servers.json
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-country/Russia.txt
 https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/6f78fe13bfcf122790a79ca2edd4d14850356c5a/Tested_Servers/Channels/gh_v2rayng.txt
@@ -109,6 +110,7 @@ https://raw.githubusercontent.com/MekaSeka/skills-github-pages/fc1e2fdc8866d878d
 https://raw.githubusercontent.com/OpexDevelop/opexvpn/d0311f3ecb798d021570829f26212f06c3243e16/db.json
 https://raw.githubusercontent.com/PacketCipher/TVC/9bb2be1749d121742174909d25955ea452b0c874/subscriptions/xray/normal/reality
 https://raw.githubusercontent.com/SamanValipour1/My-v2ray-configs/main/MySub.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/099612c6b76f0c58e7c343d98cbfa99cfb2621df/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/192484353cec1cc1f39202021dea4c4f9a910a2e/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/283311a792fde6a7299433018f49552376dd10bb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/32504319acaab6968ee44e8a6f12d6aa9360a2b9/Countries/Italy.txt
@@ -146,6 +148,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/f07d6e1ff67beb0cf7008
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/f4e14b650d7d99898ec47a0f568736d61c12e988/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/f531bee20c1dc55cae37f6e6e6a00cf9c509f5d8/Countries/Italy.txt
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/9ed882a7947b9e713cac3ebe636b27ddefc49288/Config_by_country/server_IT.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs_no10.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs_no16.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no1.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no10.txt
