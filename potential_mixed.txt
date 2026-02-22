@@ -15,6 +15,8 @@ https://raw.githubusercontent.com/Ganjabady/XC/1da68005c3d2ec738b7af7617a8e98ea4
 https://raw.githubusercontent.com/Ganjabady/XC/1da68005c3d2ec738b7af7617a8e98ea493a826a/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/UZ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/2ece6578fbb92b24779d5a515cd2009a4c1ba295/subscriptions/regions/IS.txt
+https://raw.githubusercontent.com/Ganjabady/XC/2ece6578fbb92b24779d5a515cd2009a4c1ba295/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/TH.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/UZ.txt
@@ -86,6 +88,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/b1cf8a50b505f67c299ad
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b364fa0b41c6ec0fb77eed1b348c00191db3f6cc/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b42fee7ed746b40c3f089a2fe5f2d698e3d9e6c7/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/c1ba3dcc6c7fb902744af5e7882f408dddc4c41c/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/c2e2b18a2121b15babede4edd047804925972f3b/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/c653b5097f05f345114a48664a04b923bc0d24b2/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/cc47376f53bad2985bac4b6a5e0924c79fb78f77/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/cecd3f68f9e7d911ab0cd0421dc1be0f1f862e50/vmess.txt
