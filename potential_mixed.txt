@@ -60,6 +60,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/0598690f7ae9f83a9fa3c
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0ea1f31341b379225bc857539f950e3d6bb58434/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/22fd336ef7dc5c195bb77ff506e583ff4c813e03/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/23669f177ce749c9c7a58a7e2c6e3e52f971d7d3/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/283dd8f0d3deeb0a91bf1ba11fe0e91e188ba94c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/285bb80bb75ae92b26cf77a02cf61df09ecb5000/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2b7c2e6ce6ee11b27e69d4619b4eeb4d37b2265c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2d2e6383bcea221abf11d8ef83c9a2a5c9d89020/vmess.txt
@@ -127,6 +128,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/8c21903e78fa63372cc68
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/8c5d8e9b5674a6980ab5c953006c209b443a22a3/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/96da354054e947920014183035f7d5e4ca5e9a20/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9986ea74174049451239081d67671be937298196/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99b9fce0e21798556f30f55adbba043f9957a5bf/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99c6c20d90bf67acdabe19bb810827b77c5eff11/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9e7c829b85b0869837d8c1fa8e508e9a7cf686fb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/aa5fd9757f9db76e2d91a89bfb163e45f092f651/Countries/Italy.txt
@@ -144,6 +146,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/f4e14b650d7d99898ec47
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/f531bee20c1dc55cae37f6e6e6a00cf9c509f5d8/Countries/Italy.txt
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/9ed882a7947b9e713cac3ebe636b27ddefc49288/Config_by_country/server_IT.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/main/v2ray_configs_no16.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no1.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no10.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no13.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no14.txt
