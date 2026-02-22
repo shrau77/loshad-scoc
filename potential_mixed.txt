@@ -65,6 +65,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/0b5c48b61df399e814d76
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0ea1f31341b379225bc857539f950e3d6bb58434/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/22fd336ef7dc5c195bb77ff506e583ff4c813e03/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/23669f177ce749c9c7a58a7e2c6e3e52f971d7d3/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/2727ee416522b383820025570e479d803c5331d8/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/283dd8f0d3deeb0a91bf1ba11fe0e91e188ba94c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/285bb80bb75ae92b26cf77a02cf61df09ecb5000/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2b7c2e6ce6ee11b27e69d4619b4eeb4d37b2265c/vmess.txt
@@ -124,6 +125,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/099612c6b76f0c58e7c34
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/166d52709b272920832270b53a3682ae6c545cac/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/192484353cec1cc1f39202021dea4c4f9a910a2e/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/283311a792fde6a7299433018f49552376dd10bb/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/2c154ccc802e0f9aa82d11c087dd785c97a3e23c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/32504319acaab6968ee44e8a6f12d6aa9360a2b9/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/3e4b86cc5490365278160a63de47b8ee7bf7ce33/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/3fe1aad16fd3ff441517c8c85eb5b4adef3735de/Countries/Italy.txt
@@ -175,6 +177,7 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2r
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no19.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no2.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no20.txt
+https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no8.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no9.txt
 https://raw.githubusercontent.com/YukiKras/wiki/2168c82dbfaf13df0ebce32fb9258f99a351bb33/ssh-tunnels.md
 https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
