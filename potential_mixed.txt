@@ -58,6 +58,7 @@ https://raw.githubusercontent.com/JerryLiu369/free_tizi/cc7d8c13680978eea1a17fbf
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0233c91c4d0b0a290dbd718de6e0cd53cefc62c1/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0598690f7ae9f83a9fa3cc5c818190663329bf54/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0ea1f31341b379225bc857539f950e3d6bb58434/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/22fd336ef7dc5c195bb77ff506e583ff4c813e03/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/23669f177ce749c9c7a58a7e2c6e3e52f971d7d3/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/285bb80bb75ae92b26cf77a02cf61df09ecb5000/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2b7c2e6ce6ee11b27e69d4619b4eeb4d37b2265c/vmess.txt
@@ -206,6 +207,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/b434268e43e9d898b4c00604a9b3f6
 https://raw.githubusercontent.com/whoahaow/rjsxrd/b434268e43e9d898b4c00604a9b3f6e3c73e8a78/githubmirror/default/76.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b2c9beeae22/githubmirror/bypass/bypass-19.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b2c9beeae22/githubmirror/default/138.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b2c9beeae22/githubmirror/default/70.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b2c9beeae22/githubmirror/default/79.txt
 https://raw.githubusercontent.com/xintrea/mytetra_syncro/4731e0e96a3bc3a87b701cfcb588ef51708650a4/base/1705912840sygx6w9dm0/text.html
 https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray
