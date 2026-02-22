@@ -100,6 +100,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/cecd3f68f9e7d911ab0cd
 https://raw.githubusercontent.com/Kolandone/v2raycollector/d2cf818a66bed7a31d52a77bc97d185d330f31f6/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/d66e3dcfa941341c94bcbc849f591bf3b129baad/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/e01d1058a8cced2ef3dd848417046b7665644e58/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/e3a2574420f692b3f257f7bca6c9ab2688143c33/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/e68503b4431886ae6cd6eafc5d1bc558540afa27/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/f30102718b9263eb53b63e0d353cba83f98be3e2/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/fbb072af0b2d82eb7f8641cb2b0a3c71896558c8/vmess.txt
@@ -112,6 +113,7 @@ https://raw.githubusercontent.com/OpexDevelop/opexvpn/d0311f3ecb798d021570829f26
 https://raw.githubusercontent.com/PacketCipher/TVC/9bb2be1749d121742174909d25955ea452b0c874/subscriptions/xray/normal/reality
 https://raw.githubusercontent.com/SamanValipour1/My-v2ray-configs/main/MySub.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/099612c6b76f0c58e7c343d98cbfa99cfb2621df/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/166d52709b272920832270b53a3682ae6c545cac/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/192484353cec1cc1f39202021dea4c4f9a910a2e/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/283311a792fde6a7299433018f49552376dd10bb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/32504319acaab6968ee44e8a6f12d6aa9360a2b9/Countries/Italy.txt
