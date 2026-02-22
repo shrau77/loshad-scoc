@@ -861,6 +861,7 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/9953f1542755466
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/9ad1eb1f6fd6d6e8cca3ba5f8542c10673274152/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/9ad1eb1f6fd6d6e8cca3ba5f8542c10673274152/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/9c54b8666bc4992349dff814731e352e37b9a761/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/a301ed8e66ac96c779365d2cf5148c1a661a23a6/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/af91b2f5cf6a0639cc2eebabf5e9781361bd5e9c/WHITE-SNI-RU-all.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/b31f3bca96da0333cd9ff6990c0935a89e88bae9/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/b31f3bca96da0333cd9ff6990c0935a89e88bae9/Vless-Reality-White-Lists-Rus-Mobile.txt
