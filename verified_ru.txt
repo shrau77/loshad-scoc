@@ -352,6 +352,7 @@ https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/2d3d47afa7eda165c630b
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/ad9566455eea618fd4bc53742ca1015202718d5e/githubmirror/27.txt
+https://raw.githubusercontent.com/KiryaScript/white-lists/c850c488bc86ef8775c92b8d91776b3316064aec/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/d4c7215dd2bcf380ee5520d1a00d7c6aebba0f5b/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/de738cdd28b8e2e7262d9fdbb66c6a0d25863ace/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/refs/heads/main/githubmirror/26.txt
@@ -889,6 +890,7 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/f5f924852e1abcb
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/f5f924852e1abcb9c786fa87bdf939019e858db9/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/f9292b1b85cb108f358f17a6830f879185aec34d/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+https://raw.githubusercontent.com/imaksy007/imaksy/8bee9764d8e0d18fc558c02bbf13b3b1bd204f58/imaksy.txt
 https://raw.githubusercontent.com/imaksy007/imaksy/ccf08407b4ddfbdc4b8b78d829065973337aee5c/imaksy.txt
 https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/0678580eccadf83203183db36c1f4818a3ebe666/0.txt
 https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/0678580eccadf83203183db36c1f4818a3ebe666/1.txt
@@ -1499,6 +1501,7 @@ https://raw.githubusercontent.com/shabane/kamaji/d85dcbc92a9e3cba9c1ed8ea0847394
 https://raw.githubusercontent.com/sinavm/SVM/05d17581f7b11f160d7044a65f3dfebf8917a671/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/15c9fe728834db69864ceef4292a32559eb053d4/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/1911692a6cb88879878d6eb8b3693afa613b8d07/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/36eba349f60ed596ca213755769cee70aa5b6f88/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/40d05fe0f99b74135ef5270fe90fef63039771c5/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/5a3728b7c3bf92ad8798b83f3318589145ebc0b3/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/5a5efae1e18344bffe811d8e5435d3f351b41b75/reports/invalid.txt
