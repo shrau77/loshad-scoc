@@ -126,6 +126,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/7987e5e3e8c83452a08c16247e8
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/7d014dfc7eaf89fa3403a2e7e6a1e5f4fe1726b8/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/7d9211800f9e1ee68b4db7ac363e152e828a0255/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/7d9211800f9e1ee68b4db7ac363e152e828a0255/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/80396ce9de41f9b1cd1a1e2acc6b906e4f1665f6/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/81c10821bfe59146d50332887d16edf5382ea564/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/84ced4ce4cde4b948aec728d219453f496f0bf51/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/866f8c6f7b580cf397e261c4d2b2347bf48cecac/data/sub/countries/RU.txt
@@ -252,6 +253,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/5c2aea3948966f833b
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/620da2a96795b27af0e462965c56c357b4168543/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/70ee6a2dcd88015889b809a84abc7c53c1adb713/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/76ddc2bdf77a7030fb0efd6224171718e547906d/githubmirror/13.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/878cc4080eedf7366fa3acdc8c50e8b47b4ee759/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/890523f9066d1eedcc960559c3c298f59bfcbc65/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/b4f82cbad4005c65a24062f4fdb067c762359995/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/b56380194c5e7c0541ac0080821a707d942b31c4/githubmirror/13.txt
@@ -351,6 +353,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/829bdcf78ba11b94a9b7ab56428f71dfa
 https://raw.githubusercontent.com/Ganjabady/XC/85cc487967573ceb0f9c2685cfd56d0e6c6b5892/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/8b2471e354711b217e2c50b842845f4a137aafe0/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/a754243236d8556e4ba82420debe766fb27c39d8/subscriptions/regions/PL.txt
+https://raw.githubusercontent.com/Ganjabady/XC/b1d6147824fcddc084d9c892e9b9408d1449a6da/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/b953e3e83ef3c72c44dac0437b66e154792b7c83/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d97625f4b67466a47e7f6626aa512424df98076a/subscriptions/regions/HU.txt
@@ -1258,6 +1261,7 @@ https://raw.githubusercontent.com/runoneall/v2server/79e90325ee815d656d7103845d0
 https://raw.githubusercontent.com/sakha1370/OpenRay/0094d93c5a9353defc1a6a44ce3c1e8d0daa3674/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/01d72af29c136feb9ab5bb0ce9ad3a5681fc4da7/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/04130f20f1b074e10789e137c5a538d46500d76e/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/04c42220078d72bf989032a6d1baf4759164fd2e/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/06422cb8b26da56318591c9376a394e3ddd97037/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/06f024d70a25275437046f7a3ff2a0e92dff392b/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/083aff69d748737722991942276ed7582bdc9e94/output/country/RU.txt
@@ -3563,6 +3567,7 @@ https://raw.githubusercontent.com/zieng2/wl/a9435df582c03c151d3f83303add271f82cf
 https://raw.githubusercontent.com/zieng2/wl/ade75852a8d495f06cced03133378ea95f7b777d/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/adeb6dd94a98ce54046f58e4ff52c6a3a3482207/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/b947d141a143b0f6afe4658b2a496e4861ded9ea/vless_lite.txt
+https://raw.githubusercontent.com/zieng2/wl/b9cd79c2392c357b4036588a96027be151a6237c/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/bbe2a19d03ec4dd63d381a44741e0d0e0195833d/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/c0f656c468e1661dde4b40e4d08104f49e841d47/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/d075580f28ba6212277d76be69298ef8493606b1/vless_lite.txt
