@@ -276,6 +276,7 @@ https://raw.githubusercontent.com/Cociboy/V2tjn36d47d/d05697d983e27ef67dd70e580a
 https://raw.githubusercontent.com/Dan20104/iptv/0f20b0a9286167a40f659dba4e4bc1cdb5bd3b32/vpn.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/06e117dc5065dfb900f5f684940b07de78ef28a8/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/080b6f4ccd7ff172cd50980de8a6b489d36d19c2/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/0892a3a6fde682d3f15b80ee89ca020b98dba44f/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/100ec68f9f6e3f8eb9f5ee33b5e79dcab6cf9788/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/1a9d016646726036dd1fd571f5e7e36ad09f0db9/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/1f0b53e1d10145638c74faf032e25589bd2f700a/Splitted-By-Country/MD.txt
@@ -358,6 +359,7 @@ https://raw.githubusercontent.com/KiryaScript/white-lists/c850c488bc86ef8775c92b
 https://raw.githubusercontent.com/KiryaScript/white-lists/d4c7215dd2bcf380ee5520d1a00d7c6aebba0f5b/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/de738cdd28b8e2e7262d9fdbb66c6a0d25863ace/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/refs/heads/main/githubmirror/26.txt
+https://raw.githubusercontent.com/KiryaScript/white-lists/refs/heads/main/githubmirror/27.txt
 https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/efefc35ff36f80ced1cad2fad07a488f990658ef/sublinks/mix.txt
 https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/17ed671c335b11aaf1cca1162cfb3d34bfa343e1/LomConfig/filtered_export.json
@@ -1506,6 +1508,7 @@ https://raw.githubusercontent.com/sinavm/SVM/15c9fe728834db69864ceef4292a32559eb
 https://raw.githubusercontent.com/sinavm/SVM/1911692a6cb88879878d6eb8b3693afa613b8d07/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/36eba349f60ed596ca213755769cee70aa5b6f88/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/40d05fe0f99b74135ef5270fe90fef63039771c5/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/49a308d5c04044ba874238b0cd601b3f1f207703/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/5a3728b7c3bf92ad8798b83f3318589145ebc0b3/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/5a5efae1e18344bffe811d8e5435d3f351b41b75/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/6563658345d54734e1cd275432127f0e91de5602/reports/invalid.txt
@@ -3434,6 +3437,7 @@ https://raw.githubusercontent.com/zieng2/wl/0d75c71983cecd5213dd9f3c2c7c51f396e5
 https://raw.githubusercontent.com/zieng2/wl/1bb0e4fc5ea9e86a64d3df647523fb26ce9d9b7e/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/253657db561de30deb44f775538de0fa620213cf/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/25f86bbb238c9b4a40a2cab064b124193a902cc9/vless_lite.txt
+https://raw.githubusercontent.com/zieng2/wl/2b134360fd9f826320d309624782d47aa41bdc12/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/32a87922653412379f60a30e60d855f08cbf6523/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/35c5bfd48989ad70e48705846e31d8e251aab854/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/3d5085089df1908e031bd0a65722e5d451322547/vless_lite.txt
