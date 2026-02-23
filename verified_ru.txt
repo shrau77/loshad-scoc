@@ -12,7 +12,6 @@ https://github.com/Urbanica/vpn-sub/raw/main/sub.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-CIDR-RU-checked.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-SNI-RU-all.txt
 https://github.com/mhitarana509-svg/Phantom-vpn/raw/main/Phantom%20vppn
-https://github.com/oaoa4676-alt/vpn-klysh/raw/main/klushi
 https://github.com/oaoa4676-alt/vpn-klysh/raw/main/white-list
 https://github.com/qwwqe18-cmyk/VPNRUOBNOVILKA/raw/main/ru_top.txt
 https://github.com/roriruri9370/Whitelist-bypass/raw/main/Whitelist
@@ -393,7 +392,6 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
-https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/84902744e36545454a50d7303d3552506ac44653/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/3acfed839e57d00a71705fa06508e7b8cf8e9753/githubmirror/27.txt
@@ -3634,7 +3632,6 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/f4e0a17ae1f81864b007c13eb57378
 https://raw.githubusercontent.com/whoahaow/rjsxrd/f4e0a17ae1f81864b007c13eb57378dfd90a18c5/githubmirror/default/132.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/f4e0a17ae1f81864b007c13eb57378dfd90a18c5/githubmirror/default/48.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/f4e0a17ae1f81864b007c13eb57378dfd90a18c5/githubmirror/default/50.txt
-https://raw.githubusercontent.com/xcom024/vless/refs/heads/main/list.txt
 https://raw.githubusercontent.com/xiyingruyi/Stash-rules/01e0e0c91317c98fc5631df93f416e10a63101ab/nodes.txt
 https://raw.githubusercontent.com/y9felix/s/57df56502a4b4879c0bdc0d2dd7e8b39c5f9b95d/r
 https://raw.githubusercontent.com/zebelkhan245/Mori/6b41df633357be5debf0dacc4a253e2b1b3c82c7/elite.json
