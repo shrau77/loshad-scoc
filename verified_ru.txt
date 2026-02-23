@@ -248,6 +248,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/050dfd2dbc8bf84656
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/087a2053921d6a54908edc56f1d5c3521003c446/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/0c1da57bb54772420d5afc66bb97e0a60eb0c197/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/0f411834de615f21de1807256e189205b55616fb/githubmirror/8.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/1838a78403877eb049db230d8871bf2ce1f914c2/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/1b0253f8dc884fc11ac375db6c07a5d32ae382bd/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/21fd0470a9c7ce1f0007135ae9fb3b449a0dc2bb/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/29f61baa896e7b6ca9abfe1bd18356dabcb47d6d/githubmirror/13.txt
@@ -384,6 +385,7 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
+https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/84902744e36545454a50d7303d3552506ac44653/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/3acfed839e57d00a71705fa06508e7b8cf8e9753/githubmirror/27.txt
@@ -410,6 +412,7 @@ https://raw.githubusercontent.com/OZRED/vless/47b806f4ea3b3102b2dc1b2b5d773de91d
 https://raw.githubusercontent.com/OZRED/vless/aa7805093daaf85f7cc82a31b449fb14347e963f/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/ad0d19490d086867b51d0991144385d01465ad1a/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/b66e3ae909956464aa9b2b9bad33d0ed87733405/wubbalubbadubdub
+https://raw.githubusercontent.com/OZRED/vless/d005f7fac96b43bd963e3c548eaa4d08df19a7a8/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/d9ae1485cbda510667e6cc613eb90c5a419d879e/wubbalubbadubdub
 https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested-2025-07-24T13-39-52Z.json
 https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested-2025-07-26T00-32-09Z.json
@@ -865,6 +868,7 @@ https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f1141212
 https://raw.githubusercontent.com/holpon/bdbcb/1c36cb98675f29bbb192b70d5f11412128ffbb3f/sers/2.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/bunny.txt
 https://raw.githubusercontent.com/hrdstxnlore/fckvless/refs/heads/main/obhod1.txt
+https://raw.githubusercontent.com/huha-create/Sulim-vpn/1d0f5adc9dd0f00e1682343e629dad5d63744634/README.md
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/072e0d5f30ed152d4181bd4940d234436ee602c3/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0b671b3771e7260a897406b48990974e885defeb/WHITE-SNI-RU-all.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/0be73455a300ce9ee743dfa93c5cf2c81315d74b/Vless-Reality-White-Lists-Rus-Mobile-2.txt
