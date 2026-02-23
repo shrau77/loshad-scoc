@@ -55,7 +55,10 @@ https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d4
 https://raw.githubusercontent.com/Ganjabady/XC/d97625f4b67466a47e7f6626aa512424df98076a/subscriptions/regions/AR.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d97625f4b67466a47e7f6626aa512424df98076a/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d97625f4b67466a47e7f6626aa512424df98076a/subscriptions/regions/UZ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/dee9b20cac68f340d3290bf6eeb4975a2fd5c940/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/GooDHous/goodhous.github.io/54ed18f8a2cf53a6efa14eab2ed51fd4f53e6581/data/keys.json
+https://raw.githubusercontent.com/JerryLiu369/free_tizi/1af683b157399fa0236ea67a9d1fe037d5ccd023/subscriptions/v2ray1.txt
+https://raw.githubusercontent.com/JerryLiu369/free_tizi/1af683b157399fa0236ea67a9d1fe037d5ccd023/subscriptions/v2ray3.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/270979440107585f4aa712aa50a9a82ca7a89c64/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/78b185200f26aa2634b797a93c4ea547ae15e1b2/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/9222901daef39a4c9612453ebb893280673e926b/subscriptions/v2ray1.txt
@@ -105,6 +108,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/830edbc306234abd08296
 https://raw.githubusercontent.com/Kolandone/v2raycollector/845385cc6a8a90482b9a81edf7ef004731446b8e/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/8c55129398e86fe049735d029e17c6aec4d5672c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/97e58a8d71a50cdfb8ff5c9e5a16a6e56fa28d76/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/9ae894a104e2b2fff0bd51ae679d15238f3fb89d/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/9caae8ee7f49040c1ff8b39b3d502371e61e5f47/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/9e0d9886bd036b0c41a95f03a5e279920ca7e6b4/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/a0ca554c56ce9cc8139a79508f4e2249ebad7f29/vmess.txt
@@ -139,6 +143,7 @@ https://raw.githubusercontent.com/MekaSeka/skills-github-pages/fc1e2fdc8866d878d
 https://raw.githubusercontent.com/OpexDevelop/opexvpn/d0311f3ecb798d021570829f26212f06c3243e16/db.json
 https://raw.githubusercontent.com/PacketCipher/TVC/9bb2be1749d121742174909d25955ea452b0c874/subscriptions/xray/normal/reality
 https://raw.githubusercontent.com/SamanValipour1/My-v2ray-configs/main/MySub.txt
+https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/BlackList.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/099612c6b76f0c58e7c343d98cbfa99cfb2621df/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/166d52709b272920832270b53a3682ae6c545cac/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/192484353cec1cc1f39202021dea4c4f9a910a2e/Countries/Italy.txt
@@ -170,6 +175,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99b9fce0e21798556f30f
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99c6c20d90bf67acdabe19bb810827b77c5eff11/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9e7c829b85b0869837d8c1fa8e508e9a7cf686fb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/aa5fd9757f9db76e2d91a89bfb163e45f092f651/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ae1aecf8879f76a80cf6951e4e5bdb1c48082048/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b549a6996564c5ff0728101feaac8939147f571f/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c2c70c9c7b60d0fb9f05ef42c0cf57a0efacd25c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c6ffd107837244c613f717ac9693839da3d8998e/Countries/Italy.txt
@@ -250,6 +256,7 @@ https://raw.githubusercontent.com/remnawave/panel/e885803422bb2754dbe4b4a21c976f
 https://raw.githubusercontent.com/remnawave/panel/f9ae7d5b16ae15c573ffb9571cec4ed5029b2df0/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/shabane/kamaji/0a8f2543ad0410ccb76c953eb9a2650f1c871a93/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/0b72fc7fd3ac6cd3acb02b884168026c45ddf782/hub/tested/IN.txt
+https://raw.githubusercontent.com/shabane/kamaji/44b767e9e5e79c71c3cc8ac45060aa82e55c9e10/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/9cf9a02333078d34156e2ff9331ff18f7238092f/hub/tested/IN.txt
 https://raw.githubusercontent.com/shirazipooya/link/88127971bf0b0ae73423371467e9f953ba6c132d/Reality.txt
 https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/3a41a0dbb5ecc8d2dc6fb40561ce80288abcaf16/data/sub/channel_subs/freevv2rayng.txt
