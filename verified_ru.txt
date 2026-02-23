@@ -101,6 +101,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/53a48eed7b2afec76207b97af0c
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/5529fed9336184e94223c0f9244278412547585f/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/56b2325fa8c2950c860eaf222f3990d2289f24f3/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/577813f8916c519efe4c23f71fd6a4d47dd9daca/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/5f5a7b88ba18182182d570391720845529090698/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/60172f9c88fb1daaced3247667884cd6980a2ef9/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/60172f9c88fb1daaced3247667884cd6980a2ef9/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/61fbdbe07d582b5697bc13a45d9bd304ffeeb281/data/sub/datacenters/LLC_eurodonbas.txt
@@ -361,6 +362,7 @@ https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/e8fa866559c0c0098cc5dc0
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/eb19917ca31a6de0449c686a418ddad06d734db7/configs/russia_whitelist.txt
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/main/configs
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs
+https://raw.githubusercontent.com/Ganjabady/XC/05ee01ca449a669c03537ac7ae4945e72f6d6dc2/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/11b3312c6646e7bb49e65a3a98c56b79b0233689/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/17cae967a8f62621eb552890af19f15eb630112e/subscriptions/regions/HU.txt
@@ -391,6 +393,7 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
+https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/84902744e36545454a50d7303d3552506ac44653/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/3acfed839e57d00a71705fa06508e7b8cf8e9753/githubmirror/27.txt
@@ -1613,6 +1616,7 @@ https://raw.githubusercontent.com/sinavm/SVM/eef6dff38daf201d88797b7b640d5a05aa9
 https://raw.githubusercontent.com/sinavm/SVM/fee63522a8b8607fc7a7dafd7fa734a02cb59fa5/reports/invalid.txt
 https://raw.githubusercontent.com/suprohub/novaprox/6f3b2af36657ded25e7d0b73b02c1bf7c200af1f/sub/vless.txt
 https://raw.githubusercontent.com/tanhatarinam/server/5638127c4f3e21d2a4f906be578a481d6c04e5cd/NEO.text
+https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/64a111196d10342513d84b31d9f28b99520e0e87/WhiteKeys
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/main/WhiteKeys
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/197bc7f9f07450ef71537966cadb14b2eee97e60/Sub.txt

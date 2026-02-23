@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Spli
 https://raw.githubusercontent.com/Asyny-big/vpnys-bot/654fdf648596a0921f81acddb741c926bd021f1c/fast-servers.json
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-country/Russia.txt
 https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/6f78fe13bfcf122790a79ca2edd4d14850356c5a/Tested_Servers/Channels/gh_v2rayng.txt
+https://raw.githubusercontent.com/Ganjabady/XC/05ee01ca449a669c03537ac7ae4945e72f6d6dc2/subscriptions/regions/IS.txt
+https://raw.githubusercontent.com/Ganjabady/XC/05ee01ca449a669c03537ac7ae4945e72f6d6dc2/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/UZ.txt
@@ -98,6 +100,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/750898a725a22121c0944
 https://raw.githubusercontent.com/Kolandone/v2raycollector/778db0c71e48306171245655bbb886af5d936754/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/7e6ba1f33574ff327d8adbf794868a70a152ec82/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/7f72d2308522a98339e84dfeee1034a1bb66732f/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/80905371105f751dc69b48939bb606cfd258c737/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/830edbc306234abd08296c0383ca4b5a1335f4be/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/845385cc6a8a90482b9a81edf7ef004731446b8e/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/8c55129398e86fe049735d029e17c6aec4d5672c/vmess.txt
@@ -219,6 +222,7 @@ https://raw.githubusercontent.com/mahdireignswwe/romanreignsmahdiwwe/ab500a71cc0
 https://raw.githubusercontent.com/mahdireignswwe/romanreignsmahdiwwe/ab500a71cc0a48f800a0baf4e50fc2013cf5f30f/automatic.all.server.free.json
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
 https://raw.githubusercontent.com/mick303/ysbag/704e1d2bc0993d788ec68d0d9e1c891814587044/singbox/kulaosub.json
+https://raw.githubusercontent.com/msasanmh/DNSveil/42ac542d081c978d2b52e3a30366fdec89ebd8e3/DNSveil/MainWindow.xaml.cs
 https://raw.githubusercontent.com/msasanmh/DNSveil/9353b2be95784f8a10e48563f7f859be46bc4578/DNSveil/MainWindow.xaml.cs
 https://raw.githubusercontent.com/nociex/SubSyncForge/1c7e322be6e35017f9e6507645397bb680711048/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/53227aac321e7763319c4d5f6a47b1850e86e27c/data/cache/pianyi_cache.json
