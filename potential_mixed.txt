@@ -146,6 +146,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/f30102718b9263eb53b63
 https://raw.githubusercontent.com/Kolandone/v2raycollector/f5a1f339866de7ee93f64385c5bb331cdbaee680/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/f91caf911ba239cde403f5c89ce94631b02a0264/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/fbb072af0b2d82eb7f8641cb2b0a3c71896558c8/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/main/vmess.txt
 https://raw.githubusercontent.com/LimeHi/LimeVPN/main/LimeVPN.txt
 https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/443f56a606eeb06bbc19e1c930a46f319d2e7ad4/LomConfig/filtered_export.json
@@ -224,6 +225,7 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2r
 https://raw.githubusercontent.com/V2RayRoot/V2Root-ConfigPilot/83e1d6703eb8819964de4f51b1ec79a7f4e74d09/output/BestConfigs_scored.json
 https://raw.githubusercontent.com/YukiKras/wiki/2168c82dbfaf13df0ebce32fb9258f99a351bb33/ssh-tunnels.md
 https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+https://raw.githubusercontent.com/chochoo77-crypto/freev2/46020dc6212f7d00823f1e7bdb377a63fe7a5cf5/100.json
 https://raw.githubusercontent.com/d1mdev/adblock/3117f3e7e7a9dc85bd7eaa3acb15a97f6685d4ce/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/5f527a5781a0c90789ebe4ab81e04f719b99775d/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/6b0468d5664fb60577716ad6d1cd85260349cead/vless.txt
