@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c87
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/TH.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3f3d38db1dfb8925d02ce2eb7b7a3d650a76ac5e/subscriptions/regions/UZ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/40464d0f117a5b879aa75ad01f8ba1a19f68199c/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/TH.txt
@@ -123,6 +124,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/b1cf8a50b505f67c299ad
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b364fa0b41c6ec0fb77eed1b348c00191db3f6cc/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b42fee7ed746b40c3f089a2fe5f2d698e3d9e6c7/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b8db1b293dc72c70d2b5d1e44427353b8a0cf91b/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/bbdcd4383e4d446ea0117bf7b19c2f5a09b61cfa/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/bddbefd9f18f5b76753498a21ccc659956e6550a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/be0acac38bc717fe98b806cace51c3de0f6d9649/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/be822b8ae48eae788a1d48fbb51e10a72e6bb08b/vmess.txt
@@ -213,6 +215,7 @@ https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2r
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no20.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no8.txt
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no9.txt
+https://raw.githubusercontent.com/V2RayRoot/V2Root-ConfigPilot/83e1d6703eb8819964de4f51b1ec79a7f4e74d09/output/BestConfigs_scored.json
 https://raw.githubusercontent.com/YukiKras/wiki/2168c82dbfaf13df0ebce32fb9258f99a351bb33/ssh-tunnels.md
 https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 https://raw.githubusercontent.com/d1mdev/adblock/3117f3e7e7a9dc85bd7eaa3acb15a97f6685d4ce/vless.txt
