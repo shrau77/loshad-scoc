@@ -103,6 +103,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/5529fed9336184e94223c0f9244
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/55e3f20337d04bbfc6aafe3a8aebe83b7a6293df/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/56b2325fa8c2950c860eaf222f3990d2289f24f3/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/577813f8916c519efe4c23f71fd6a4d47dd9daca/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/5f0a6c9d4aa3285b0281b1f78a5004a720ef7a94/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/5f5a7b88ba18182182d570391720845529090698/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/60172f9c88fb1daaced3247667884cd6980a2ef9/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/60172f9c88fb1daaced3247667884cd6980a2ef9/data/sub/datacenters/Cloud.ru.txt
@@ -421,6 +422,7 @@ https://raw.githubusercontent.com/Milkes06st/Vpn-Key-access/ad8122bd066c639df2d7
 https://raw.githubusercontent.com/Milkes06st/Vpn-Key-access/f707fa71ca980e59d115bd864f4f892e3aea7699/ClowovxVPN.txt
 https://raw.githubusercontent.com/MohsenReyhani/vless-subscriptions/a4bf5e9a0111522b547e7c87c57990660f198627/sub.txt
 https://raw.githubusercontent.com/OZRED/vless/0e9d7db80122d54fc3ce57a8f2cec83254f6525a/wubbalubbadubdub
+https://raw.githubusercontent.com/OZRED/vless/1b64f86b0644c9962d8eb04c339bbd1f34ffb48c/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/3043deacfeef862e43bd8c4051a77df68babf2e1/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/37c0673188c19844f19877978266b48b9659a4ea/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/3876ca01ec95815aac539f12ecc371ea3df084ff/ozred_bot
@@ -1608,12 +1610,14 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/fc14ea3fe6f57bfb83e9386bc201
 https://raw.githubusercontent.com/sakha1370/OpenRay/ff4d17d67fd507ffea42aed5d7ef80fdec2b1547/output/country/RU.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/0582116046deeb181cbfde51f8e9c3c80ebabe9a/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/0b1f1d89114db510cae925246ab7f9c1a2a6b239/working/countries/Venezuela.txt
+https://raw.githubusercontent.com/sevcator/5ubscrpt10n/0d3645e86f2fdd165fe4c48e6b45086c81871127/working/countries/Kazakhstan.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/14e9851f5dcd81c92593536d3bb1907cfecc1da2/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/7d69a668bf8346aff69857eaa69de8dfa0238ae3/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/a4ef11ab75f23c1f451456992b7ea0da8e5419d1/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/cccc0a6ee8b11fdd8f6c3cbe13442c947347f62e/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/d98fe1bae5723952e022b6753e4ff47ec1810551/working/countries/Venezuela.txt
 https://raw.githubusercontent.com/sevcator/5ubscrpt10n/de4d7b1816cee623cf861ed0c4f3bbec531c5aba/working/countries/Venezuela.txt
+https://raw.githubusercontent.com/shabane/kamaji/0081ba2785818c7ee508fb8ac330f1a61f497842/hub/RU.txt
 https://raw.githubusercontent.com/shabane/kamaji/157e36bf6a7f1df7f31623332c00a6442e7bf799/hub/RU.txt
 https://raw.githubusercontent.com/shabane/kamaji/569905ff12f6fcfcb685e81007c3e2959c1364a7/hub/RU.txt
 https://raw.githubusercontent.com/shabane/kamaji/6205a179d122d014e71765342767e8f84ef7d9de/hub/RU.txt
@@ -1808,6 +1812,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/120.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/121.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/122.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/130.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/132.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/139.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/157.txt
@@ -1822,9 +1827,11 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/186.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/190.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/192.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/195.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/197.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/199.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/202.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/204.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/205.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/206.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/207.txt

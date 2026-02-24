@@ -94,6 +94,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/3df2bfb01d04262846e33
 https://raw.githubusercontent.com/Kolandone/v2raycollector/4861373986e25f203750c9dc7ea85bf91b56a7c2/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/48f047b1122c7496d67442af08d5948f409ea4d5/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/4c04b9804f20b55893c2664fc142fba8182434dd/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/4ca65aa049da37b7ec1b5ddff416a1aaad07ed3e/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/4e987fe8cde2ee1d776507c44ff0161e9a743819/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/5143f1c351e5ea3a0bfa03b422c88360794c8030/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/5b586fe2aa6423684df51ac600f0392399850b86/vmess.txt
@@ -185,6 +186,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9986ea741740494512390
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99b9fce0e21798556f30f55adbba043f9957a5bf/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99c6c20d90bf67acdabe19bb810827b77c5eff11/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9e7c829b85b0869837d8c1fa8e508e9a7cf686fb/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/a336f3eaa43e9ddb5825fa166cfc4db3419edc6b/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/aa5fd9757f9db76e2d91a89bfb163e45f092f651/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ae1aecf8879f76a80cf6951e4e5bdb1c48082048/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b1c1dcf129a74fcd91e46502a1d41ff4c8f919c2/Countries/Italy.txt
@@ -270,6 +272,7 @@ https://raw.githubusercontent.com/remnawave/panel/a829daa3446d504957c3becd3f1846
 https://raw.githubusercontent.com/remnawave/panel/b4656f3b4457fc10d85c60f27b1eb5129feec80b/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/remnawave/panel/e885803422bb2754dbe4b4a21c976f1d61e4cf18/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/remnawave/panel/f9ae7d5b16ae15c573ffb9571cec4ed5029b2df0/docs/awesome-remnawave/_install-guides/whitebox.md
+https://raw.githubusercontent.com/shabane/kamaji/0081ba2785818c7ee508fb8ac330f1a61f497842/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/0a8f2543ad0410ccb76c953eb9a2650f1c871a93/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/0b72fc7fd3ac6cd3acb02b884168026c45ddf782/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/44b767e9e5e79c71c3cc8ac45060aa82e55c9e10/hub/tested/IN.txt
