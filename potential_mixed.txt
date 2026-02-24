@@ -62,6 +62,8 @@ https://raw.githubusercontent.com/Ganjabady/XC/dee9b20cac68f340d3290bf6eeb4975a2
 https://raw.githubusercontent.com/GooDHous/goodhous.github.io/54ed18f8a2cf53a6efa14eab2ed51fd4f53e6581/data/keys.json
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/1af683b157399fa0236ea67a9d1fe037d5ccd023/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/1af683b157399fa0236ea67a9d1fe037d5ccd023/subscriptions/v2ray3.txt
+https://raw.githubusercontent.com/JerryLiu369/free_tizi/1ca2128ae29a5c51d32b0667fd7f40932bc330ca/subscriptions/v2ray1.txt
+https://raw.githubusercontent.com/JerryLiu369/free_tizi/1ca2128ae29a5c51d32b0667fd7f40932bc330ca/subscriptions/v2ray3.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/270979440107585f4aa712aa50a9a82ca7a89c64/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/78b185200f26aa2634b797a93c4ea547ae15e1b2/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/9222901daef39a4c9612453ebb893280673e926b/subscriptions/v2ray1.txt
@@ -125,6 +127,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/b364fa0b41c6ec0fb77ee
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b42fee7ed746b40c3f089a2fe5f2d698e3d9e6c7/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b8db1b293dc72c70d2b5d1e44427353b8a0cf91b/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/bbdcd4383e4d446ea0117bf7b19c2f5a09b61cfa/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/bd958369b77cbe6c21fb73746f8966b52561b5ac/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/bddbefd9f18f5b76753498a21ccc659956e6550a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/be0acac38bc717fe98b806cace51c3de0f6d9649/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/be822b8ae48eae788a1d48fbb51e10a72e6bb08b/vmess.txt
@@ -184,6 +187,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99c6c20d90bf67acdabe1
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9e7c829b85b0869837d8c1fa8e508e9a7cf686fb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/aa5fd9757f9db76e2d91a89bfb163e45f092f651/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ae1aecf8879f76a80cf6951e4e5bdb1c48082048/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b1c1dcf129a74fcd91e46502a1d41ff4c8f919c2/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b549a6996564c5ff0728101feaac8939147f571f/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c2c70c9c7b60d0fb9f05ef42c0cf57a0efacd25c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c6ffd107837244c613f717ac9693839da3d8998e/Countries/Italy.txt
@@ -258,6 +262,7 @@ https://raw.githubusercontent.com/nociex/SubSyncForge/cc36efcad406a0cef3afecb9a9
 https://raw.githubusercontent.com/nociex/SubSyncForge/ccb09e3eef68ea9cd7ff3640c4c745798a108eac/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/d4ad35148b5121151dead94b5828441b7611aa82/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/de806d02c94aaf085115230d4c4618b3a8ba69c0/data/cache/pianyi_cache.json
+https://raw.githubusercontent.com/nociex/SubSyncForge/fbc4b6da6ad0d1ab2dcefc63df2c77d3514652a5/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/fea7719f043b7f2c33a6fb3fdbeafdffa9049e90/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/remnawave/panel/07e508c16af14d50d178530579a2df9943bf1a4b/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/remnawave/panel/3ec01631302413a32265b490e29f9c0b83dcacb4/docs/awesome-remnawave/_install-guides/whitebox.md

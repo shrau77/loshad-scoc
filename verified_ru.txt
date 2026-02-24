@@ -429,6 +429,7 @@ https://raw.githubusercontent.com/OZRED/vless/47b806f4ea3b3102b2dc1b2b5d773de91d
 https://raw.githubusercontent.com/OZRED/vless/770a9689a9e222ed81d97d70714b2ebe9c81b0ca/ozred_bot
 https://raw.githubusercontent.com/OZRED/vless/770a9689a9e222ed81d97d70714b2ebe9c81b0ca/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/aa7805093daaf85f7cc82a31b449fb14347e963f/wubbalubbadubdub
+https://raw.githubusercontent.com/OZRED/vless/ac3149af3daf724c3691050955f53ba1368a8101/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/ad0d19490d086867b51d0991144385d01465ad1a/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/b66e3ae909956464aa9b2b9bad33d0ed87733405/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/d005f7fac96b43bd963e3c548eaa4d08df19a7a8/wubbalubbadubdub
@@ -906,6 +907,8 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/1422f4bec8ea082
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/15da205acd9e27af0f1a758ee029ff852cc7ecd6/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/18d630d2b080349b2b25938547f4aa5bc2dd6142/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/1c16a77465eeecaab3c3b27a57cbf403f7b7a686/Vless-Reality-White-Lists-Rus-Mobile.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/23c382b6df22b01776fbfc77651ce53f98ce265b/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/23c382b6df22b01776fbfc77651ce53f98ce265b/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/25830b81dd3a5c6ce1457df236492e184ed8b80d/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/25830b81dd3a5c6ce1457df236492e184ed8b80d/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/2921318e6b8ea2c32436a3483485956c355aa144/Vless-Reality-White-Lists-Rus-Mobile-2.txt
@@ -1639,6 +1642,7 @@ https://raw.githubusercontent.com/sinavm/SVM/87e30bca45fbad625e8637743cc8dfab198
 https://raw.githubusercontent.com/sinavm/SVM/a678ff0cb23f4e35316b25eded9ac5035041532f/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/a8369aef533ca565f75b7422753326a15d143f4b/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/a860d2897dd1030a08c745c8cbc816fcf9ecbaa6/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/afa651192aa1fd455177b604b76931db5258278a/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/c13a6ca69e95ee83a3d8a83730a64ace2fd0f039/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/c3d6de4f8696faddab1a0cdb7c1dc33fb0ddc5d6/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/c4fac27fef8c816b346e647a702d1e1a833fa000/reports/invalid.txt
@@ -1826,6 +1830,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/207.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/210.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/48.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/50.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/51.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/05d208c618718e36dcf63876b6b6652923c75a71/githubmirror/bypass-unsecure/bypass-unsecure-10.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/05d208c618718e36dcf63876b6b6652923c75a71/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
