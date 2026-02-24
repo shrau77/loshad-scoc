@@ -330,6 +330,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/81813f542dc74e3aaff89210296f
 https://raw.githubusercontent.com/Danialsamadi/v2go/824e15bdf61622d71c184a1edb1329016e375c6e/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/8a4b88a30f6a5339ce77e6e3da8e364364225219/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/9a9e7e7eb91c06e6c49ed22fde494c17d1277b65/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/a7c5c26e27f9549af6f1b7d6d6c890790526c16c/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/abd17311743f2d292c144ff6d1a4edf4063856e4/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/b1aeb01e6386214bf6d01a07c68a14de073d3780/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/ba3af3884daa3845cc16a9983231faf7a6b3aa62/Splitted-By-Country/MD.txt
@@ -954,6 +955,7 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/86ca01e8d7d0bca
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/86ca01e8d7d0bcab66216e5e865413a6325ed249/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/8800989101534296c353dde92959c9c1778bbc5f/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/8800989101534296c353dde92959c9c1778bbc5f/Vless-Reality-White-Lists-Rus-Mobile.txt
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/94af71c5beaada71d10c2276d5f11a4b244283d4/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/95405d5cfc794a42231b60f9eca9be7c0b9fa9aa/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/95405d5cfc794a42231b60f9eca9be7c0b9fa9aa/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/970c85fcf99fac7d12e27eae319a94ccb7c9e6ab/Vless-Reality-White-Lists-Rus-Mobile-2.txt
