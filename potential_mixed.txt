@@ -129,6 +129,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/a51b673025064b2b98091
 https://raw.githubusercontent.com/Kolandone/v2raycollector/a6fb6003728e2f613d4859e5bdd2b1c4568c44cd/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/af34430147e072f2af6ab59bd2232685ef88bb5b/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b1cf8a50b505f67c299ad26878c00c5b33f98ab0/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/b2fa6a4f10d5c9bbac21781ebfd60bb944d242d0/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b364fa0b41c6ec0fb77eed1b348c00191db3f6cc/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b42fee7ed746b40c3f089a2fe5f2d698e3d9e6c7/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b8db1b293dc72c70d2b5d1e44427353b8a0cf91b/vmess.txt
@@ -200,6 +201,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/aa5fd9757f9db76e2d91a
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ae1aecf8879f76a80cf6951e4e5bdb1c48082048/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b1c1dcf129a74fcd91e46502a1d41ff4c8f919c2/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b549a6996564c5ff0728101feaac8939147f571f/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/bc6ca1657d8ffba4a86c0d2232dede02ae6eb948/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c2c70c9c7b60d0fb9f05ef42c0cf57a0efacd25c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c6ffd107837244c613f717ac9693839da3d8998e/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/d33fe321174364921487591d70ec07051bffaa04/Countries/Italy.txt
@@ -312,6 +314,8 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/71af21cf2fd3b5cf365f7d2bf09636
 https://raw.githubusercontent.com/whoahaow/rjsxrd/71af21cf2fd3b5cf365f7d2bf0963602e3d597e8/githubmirror/default/180.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/71af21cf2fd3b5cf365f7d2bf0963602e3d597e8/githubmirror/default/185.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/71af21cf2fd3b5cf365f7d2bf0963602e3d597e8/githubmirror/default/196.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7d2634bf0a70f47d2b4151a19a892c8e6fbda947/githubmirror/bypass/bypass-19.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/7d2634bf0a70f47d2b4151a19a892c8e6fbda947/githubmirror/default/188.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/802bf89ec8d909b0997e30e65467b64d3fa696e7/githubmirror/bypass/bypass-19.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/802bf89ec8d909b0997e30e65467b64d3fa696e7/githubmirror/default/138.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/802bf89ec8d909b0997e30e65467b64d3fa696e7/githubmirror/default/179.txt
