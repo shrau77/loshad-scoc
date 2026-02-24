@@ -21,6 +21,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/1da68005c3d2ec738b7af7617a8e98ea4
 https://raw.githubusercontent.com/Ganjabady/XC/1da68005c3d2ec738b7af7617a8e98ea493a826a/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/1db335885f04aa9eb8efcfb4570f30c10c9a7cfd/subscriptions/regions/UZ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/260989e7ea4dd077c231c40108cff39844775966/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/2c5e956d0623d0c1d6151f345c8cdaad2c981c2f/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/2ece6578fbb92b24779d5a515cd2009a4c1ba295/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/2ece6578fbb92b24779d5a515cd2009a4c1ba295/subscriptions/regions/UZ.txt
@@ -79,6 +80,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/0598690f7ae9f83a9fa3c
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0b5c48b61df399e814d768758bc97c0f002324ae/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0ea1f31341b379225bc857539f950e3d6bb58434/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/15c5043ccc8962a0b7567df9e53fd21e55d295e0/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/1993079cdd9ab9b496056c950847ac3d0c77b6c6/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/1e174f5971b006b68a544147d605fdfc5e1d6e0a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/22fd336ef7dc5c195bb77ff506e583ff4c813e03/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/23669f177ce749c9c7a58a7e2c6e3e52f971d7d3/vmess.txt
@@ -327,4 +329,5 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b
 https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b2c9beeae22/githubmirror/default/70.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b2c9beeae22/githubmirror/default/79.txt
 https://raw.githubusercontent.com/xintrea/mytetra_syncro/4731e0e96a3bc3a87b701cfcb588ef51708650a4/base/1705912840sygx6w9dm0/text.html
+https://raw.githubusercontent.com/xintrea/mytetra_syncro/c55c9bc192fcc64df610b74cde5897dd0ee9317c/base/1705912840sygx6w9dm0/text.html
 https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray
