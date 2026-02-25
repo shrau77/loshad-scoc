@@ -291,6 +291,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/76ddc2bdf77a7030fb
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/878cc4080eedf7366fa3acdc8c50e8b47b4ee759/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/890523f9066d1eedcc960559c3c298f59bfcbc65/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/8a21c94b8b78d787fd317c940a81ded41dc707cf/githubmirror/8.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/94df7dd1d4cb6570ef62173ad4e1c0c2c8c78737/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/98a402bff855429a391d9f02973819fca10f0938/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/9b0ec5edd8088eed96888535df511f59595ae78a/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/ac46ced8be8d603ba11a3489079a41fa812f3c71/githubmirror/8.txt
@@ -363,6 +364,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/68d745a4373b7ae9d44496b6d6d7
 https://raw.githubusercontent.com/Danialsamadi/v2go/698a07992bdb9a228ebc9de4d93afc46e93164b9/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/6a07b4a9ba0981c034948eaf626b4abc4d918499/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/6d11746e31a817b50074c2ec86f2257a0940d931/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/6e3ea39b357c219ae745ee05ffc4833d88ac3fc6/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/72a7ef3e3797dad049ebc7d416195c38d669c59c/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/740e55dfb0eab07a6a989eb54220028efd61c1c1/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/7682e3265a41df066b1eeb9f43dd632bf26beb65/Splitted-By-Country/MD.txt
@@ -663,6 +665,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7344af7f10d76b7d90645
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7691382842129cf682997765d5b6e22c192861f6/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/79cec896884acc72d180f15d780e35c63be9f3ba/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7e97ff5b567ac378416c78658ee6fab744065894/Countries/Albania.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/818e783ecbacf33cc4a94eb0bea219264ce280a4/Subscriptions/Sub25.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/82967d69ef21da8d40a71fc53086201edf0d1c09/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/83d3e85776b556a9c10229ab16e6283655969462/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/83d3e85776b556a9c10229ab16e6283655969462/Countries/T%C3%BCrkiye.txt
@@ -1400,6 +1403,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/59695a8bfff896c8be6d27b8410f9f316932f3ed/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/68b6ae3e03c659469102bd7c9e063b916f36e11c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/7c9958861307563cb0b0cb30ac380149da967558/category/Kazakhstan.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/88b4aa265a0081ef887b6188b204863c39465d4b/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b5902707023050f914e1d59163af0e06d2f92a37/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b7ec5fd515299f316503c46394aa32568a84de04/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b9eab9cbb4308b4377361d812be62152fdc85a0c/category/Kazakhstan.txt
