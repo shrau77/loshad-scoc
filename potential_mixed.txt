@@ -134,6 +134,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/80905371105f751dc69b4
 https://raw.githubusercontent.com/Kolandone/v2raycollector/830edbc306234abd08296c0383ca4b5a1335f4be/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/845385cc6a8a90482b9a81edf7ef004731446b8e/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/8c55129398e86fe049735d029e17c6aec4d5672c/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/8e4de8f5e83b970ced780dcd6f7c30a0cf9a2132/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/970761bf83a6b9933fa7d9a5381f7a77776a2370/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/97701b17429c96a232aca9893ef0bd3066196251/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/97e58a8d71a50cdfb8ff5c9e5a16a6e56fa28d76/vmess.txt

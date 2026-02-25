@@ -340,6 +340,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/3057d7d9be4150f5aaf4d4a78a56
 https://raw.githubusercontent.com/Danialsamadi/v2go/306f3fbf9713a0f94d8b7daa04788bb6ac2decd8/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/33a278fc27e4c9874543c16b20b10756c3ad9873/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/410cc0d7278205ff39b5985c854783ca0ab0809a/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/42ee2614e6b960b8c838a52bae582aaf6fffd1c5/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/4960f0a2156dc7cd90c2be90bd82ea85229d58f8/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/5d111d7b3dd1673c2970ada6982583ab080d5223/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/607f60c504dd187db6840e1ae6a7ee14a4184eac/Splitted-By-Country/MD.txt
@@ -1370,6 +1371,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/0597868def28bf1d5dc58f82e243fd5a269c12b6/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/0fa3b2ee8b5f3f5361ee5ef51ddbbc01ac501b03/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/459dadd8e01d294c9ff9e5380593fe1490786311/category/Kazakhstan.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/59695a8bfff896c8be6d27b8410f9f316932f3ed/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/68b6ae3e03c659469102bd7c9e063b916f36e11c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/7c9958861307563cb0b0cb30ac380149da967558/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b5902707023050f914e1d59163af0e06d2f92a37/category/Kazakhstan.txt
