@@ -84,6 +84,7 @@ https://raw.githubusercontent.com/JerryLiu369/free_tizi/cc7d8c13680978eea1a17fbf
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/e76d5424e67d4eade2a3e72b13280b7ccc3751b3/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/00e60637ccdaeaa0164512500d317948ed008e5b/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0233c91c4d0b0a290dbd718de6e0cd53cefc62c1/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/036cd1ac1ff337c5e1b2461ec60abbcbe2aae575/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/04d3db8099a235de4f21a2278b67899c8778405a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0598690f7ae9f83a9fa3cc5c818190663329bf54/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/0723714c3804d8dc25b9f871fdca3dbddc68c515/vmess.txt
@@ -300,6 +301,7 @@ https://raw.githubusercontent.com/nociex/SubSyncForge/4a2187a29e2f1a609415f4a38b
 https://raw.githubusercontent.com/nociex/SubSyncForge/5149abd3692418b548da64c9eea8933f50e9b368/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/53227aac321e7763319c4d5f6a47b1850e86e27c/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/5b3df292521aae78ef5fe9d3f09acb35cbb5c585/data/cache/pianyi_cache.json
+https://raw.githubusercontent.com/nociex/SubSyncForge/63f4cb4f1dd7d183c676643c74c0c9283285c5d8/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/74655780f06206233c2a9ab0b11ca1693a9bfc6b/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/833f227affe9c198a8e53e0f3cd8bb35651127ae/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/895967cd03a736c1ec77378eae2a81b23d2729bb/data/cache/pianyi_cache.json
@@ -348,6 +350,8 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa
 https://raw.githubusercontent.com/whoahaow/rjsxrd/04c99a68cce2c520dd927fe517c2aa9c4b5a636e/githubmirror/default/191.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4d9528abfc3e91a9ef1f0e59d9c60d9c9db3e56c/githubmirror/bypass/bypass-19.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/4d9528abfc3e91a9ef1f0e59d9c60d9c9db3e56c/githubmirror/default/138.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/138.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/179.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/default/73.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/default/74.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/6d36ed91f8b4ceb62d8a8b25f35b7984d3741acb/githubmirror/default/75.txt
