@@ -303,6 +303,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c7d829b870dfe6eb68
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c91e0e21477a3ed517dd3e8d6827e56ea3ecf809/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c96093aca46da0b8401ca46c9bc417638e81c79e/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/dbbdf3e4d448832701920e6dd3e597aa6f99d5fc/githubmirror/8.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/e2a6677e9067d89ccc34406d91c0b4093aa93871/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/e53cf60cd35a8f93c49dba9cef203878e7dbc0dc/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/ed7ccfa5348e6acf48e483dd6a3887f3a941281f/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/f2292e9e3e89ef01a83fb595c11556484fcb5270/githubmirror/8.txt
@@ -347,6 +348,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/3057d7d9be4150f5aaf4d4a78a56
 https://raw.githubusercontent.com/Danialsamadi/v2go/306f3fbf9713a0f94d8b7daa04788bb6ac2decd8/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/333ef778311ebac9675298b1fbb96b6736e751f7/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/33a278fc27e4c9874543c16b20b10756c3ad9873/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/33ec6ef3619b6047bba07bbad569b3118f0ff595/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/410cc0d7278205ff39b5985c854783ca0ab0809a/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/42ee2614e6b960b8c838a52bae582aaf6fffd1c5/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/4960f0a2156dc7cd90c2be90bd82ea85229d58f8/Splitted-By-Country/MD.txt
@@ -470,6 +472,7 @@ https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/efefc35ff36f
 https://raw.githubusercontent.com/LimeHi/LimeVPN/main/LimeVPN.txt
 https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/17ed671c335b11aaf1cca1162cfb3d34bfa343e1/LomConfig/filtered_export.json
+https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/21d07de8711530ab0d769217afc8d426f505ada1/LomConfig/filtered_export.json
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/2fb9881203063d3f417949987f95dee093ddac31/LomConfig/filtered_export.json
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/dc6964924db49dacfbfd74b0afbec0a7af5608b2/LomConfig/filtered_export.json
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/e5c0a03876cee857167612e76657fc807af56b09/LomConfig/filtered_export.json
@@ -1394,6 +1397,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b9eab9cbb4308b4377361d812be62152fdc85a0c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c7433e0dbbb31c17ad9d8029c5710c5c6dcba5eb/category/Russia.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/cfd54f4709fd6637ec0818a47fa73705e07e2ed3/category/Kazakhstan.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/d740a17e930ad0926cea42d236766baeaf7c4ff5/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/dc325b4629acc716215156d38f4f50bd1ec66913/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/e40cbf04134a45b0561983b08c250d6d14d74553/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/efe52a24cb71a0fbf341c803d169564cc96e8c1c/category/Kazakhstan.txt
@@ -1786,6 +1790,7 @@ https://raw.githubusercontent.com/sinavm/SVM/ecc094b762212c3c982640aa0863bf77a7c
 https://raw.githubusercontent.com/sinavm/SVM/ede22734d16c08b30216334d7ffb8891bf896190/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/eef6dff38daf201d88797b7b640d5a05aa9f5d98/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/fee63522a8b8607fc7a7dafd7fa734a02cb59fa5/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/ff23c063c40976324f4a12c488928de959c47188/reports/invalid.txt
 https://raw.githubusercontent.com/suprohub/novaprox/6f3b2af36657ded25e7d0b73b02c1bf7c200af1f/sub/vless.txt
 https://raw.githubusercontent.com/tanhatarinam/server/5638127c4f3e21d2a4f906be578a481d6c04e5cd/NEO.text
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/64a111196d10342513d84b31d9f28b99520e0e87/WhiteKeys
