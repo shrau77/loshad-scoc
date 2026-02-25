@@ -172,6 +172,7 @@ https://raw.githubusercontent.com/PacketCipher/TVC/9bb2be1749d121742174909d25955
 https://raw.githubusercontent.com/SamanValipour1/My-v2ray-configs/main/MySub.txt
 https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/BlackList.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/099612c6b76f0c58e7c343d98cbfa99cfb2621df/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0a7f959328d6c98a9d3f36907382108886092b65/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/166d52709b272920832270b53a3682ae6c545cac/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/1802ff633d65bb55fe9dd91b0272c263107e922d/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/192484353cec1cc1f39202021dea4c4f9a910a2e/Countries/Italy.txt
