@@ -207,6 +207,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/cdbcd62c544ee663eb9bf795a0b
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/d2494dd9a7b3ff9a5821717ad0580a37185770bf/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/d2a4d4db2c03f32ed5c2dcb26efd05a73b807871/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/d2c388356122501b6600c6d71e65ce481d9790dd/data/sub/datacenters/LLC_eurodonbas.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/d2fe4e2f3a4f84492ef07de5a3c7400df328c1de/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/d4173e10b132b65a1f4770b50be19ac2ddfc3f02/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/d82d1e3b7f88cd81ad9e410a5a90c2c9689bb0f3/data/sub/channel_subs/v2nodes.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/d82d1e3b7f88cd81ad9e410a5a90c2c9689bb0f3/data/sub/countries/RU.txt
@@ -295,6 +296,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/ac46ced8be8d603ba1
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/ae79243f137ad98f11168c22e59c17366da8c300/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/b4f82cbad4005c65a24062f4fdb067c762359995/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/b56380194c5e7c0541ac0080821a707d942b31c4/githubmirror/13.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/bb90a4ab0585f69a6971a5aaeb6be3afef3249c1/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c2ccd72382e9b35010e181decb03e49691e6f6ec/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c6053567e3bd856d8587aa748cd4c57a1f9e9ce7/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/c7abfee9133207274e0b6b236daf67cccebeed3f/githubmirror/8.txt
@@ -338,6 +340,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/19825864fb25e2e9135dce8df251
 https://raw.githubusercontent.com/Danialsamadi/v2go/1a9d016646726036dd1fd571f5e7e36ad09f0db9/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/1b5780cab12dd1f20aaa3ff1d398affc87df9ee2/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/1c7e068092fc7d940202c945996a48e1f28d5d55/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/1e0501eccab507e5680bd6853c8688f99dbdd385/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/1f0b53e1d10145638c74faf032e25589bd2f700a/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/251772186d4f9e2918dd086a80a7488aa4b6d648/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/2939b1acfc1d603025fe95c24e0a463742caea8a/Splitted-By-Country/MD.txt
@@ -416,6 +419,7 @@ https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/e8fa866559c0c0098cc5dc0
 https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/eb19917ca31a6de0449c686a418ddad06d734db7/configs/russia_whitelist.txt
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/main/configs
 https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs
+https://raw.githubusercontent.com/Ganjabady/XC/05a1f3bc0230c67e3454cd9bda8c3e31c96b7ea5/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/05ee01ca449a669c03537ac7ae4945e72f6d6dc2/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/11b3312c6646e7bb49e65a3a98c56b79b0233689/subscriptions/regions/HU.txt
@@ -459,6 +463,7 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
+https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/84902744e36545454a50d7303d3552506ac44653/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/3acfed839e57d00a71705fa06508e7b8cf8e9753/githubmirror/27.txt
@@ -969,6 +974,7 @@ https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/59eb7a89911
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/59eb7a89911dfc9817015585f65dec88f00c33f7/detailed/vless/501.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/59eb7a89911dfc9817015585f65dec88f00c33f7/detailed/vless/51101.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/5b202f2d283bdd09b504a109cd82d765da18c275/sub/rare/port_2346.txt
+https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/60898f780410d6bdb59d8c23c716a22e93460ac1/sub/rare/port_2346.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/673e9af52ca49a042e8abe0ba4980bddcd62b74d/detailed/vless/4249.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/9535bfdb30dc4179cbe4467d6c6159c6d42413a7/detailed/vless/4249.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/9535bfdb30dc4179cbe4467d6c6159c6d42413a7/detailed/vless/4443.txt
@@ -1399,6 +1405,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/dc325b4629acc716215156d38f4f50bd1ec66913/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/e40cbf04134a45b0561983b08c250d6d14d74553/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/efe52a24cb71a0fbf341c803d169564cc96e8c1c/category/Kazakhstan.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/fb7cd96424fd444cdf5a5ddd90f9119d253f87c0/category/Kazakhstan.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/wl.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/9c6cf41b624669ec6caf9d8716af0653eec8f43e/ru.txt
@@ -1451,6 +1458,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/04130f20f1b074e10789e137c5a5
 https://raw.githubusercontent.com/sakha1370/OpenRay/04c42220078d72bf989032a6d1baf4759164fd2e/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/06422cb8b26da56318591c9376a394e3ddd97037/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/06f024d70a25275437046f7a3ff2a0e92dff392b/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/07741df5f56887213f0e210b6fd7951100a6410a/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/083aff69d748737722991942276ed7582bdc9e94/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/096aad6baddcca9ee9046b3e6ba9957544a18d92/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/0995eba6cc8bf8ac68001a2c0635000a5c78cf40/output/country/RU.txt
