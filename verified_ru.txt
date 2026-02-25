@@ -8,6 +8,7 @@ https://github.com/Mukhin7/MukhinVPN/raw/main/MukhinVPN.txt
 https://github.com/Semenhach1/vpnserver/raw/main/test
 https://github.com/SilentGhostCodes/TestWhiteListVpn/raw/main/config.txt
 https://github.com/Sprorororo/Sava-VPN-Premium/raw/main/Sava.txt
+https://github.com/Urbanica/vpn-sub/raw/main/sub.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-CIDR-RU-checked.txt
 https://github.com/igareck/vpn-configs-for-russia/raw/main/WHITE-SNI-RU-all.txt
 https://github.com/mhitarana509-svg/Phantom-vpn/raw/main/Phantom%20vppn
@@ -285,6 +286,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/76ddc2bdf77a7030fb
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/878cc4080eedf7366fa3acdc8c50e8b47b4ee759/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/890523f9066d1eedcc960559c3c298f59bfcbc65/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/8a21c94b8b78d787fd317c940a81ded41dc707cf/githubmirror/8.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/9b0ec5edd8088eed96888535df511f59595ae78a/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/ac46ced8be8d603ba11a3489079a41fa812f3c71/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/ae79243f137ad98f11168c22e59c17366da8c300/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/b4f82cbad4005c65a24062f4fdb067c762359995/githubmirror/13.txt
@@ -443,6 +445,7 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
+https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/84902744e36545454a50d7303d3552506ac44653/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/3acfed839e57d00a71705fa06508e7b8cf8e9753/githubmirror/27.txt
@@ -470,6 +473,8 @@ https://raw.githubusercontent.com/OZRED/vless/37c0673188c19844f19877978266b48b96
 https://raw.githubusercontent.com/OZRED/vless/3876ca01ec95815aac539f12ecc371ea3df084ff/ozred_bot
 https://raw.githubusercontent.com/OZRED/vless/3876ca01ec95815aac539f12ecc371ea3df084ff/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/47b806f4ea3b3102b2dc1b2b5d773de91dad0e58/wubbalubbadubdub
+https://raw.githubusercontent.com/OZRED/vless/47f7666ee5293ce6ffbf3aa94c06cae58d52855b/ozred_bot
+https://raw.githubusercontent.com/OZRED/vless/47f7666ee5293ce6ffbf3aa94c06cae58d52855b/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/52b47dc807fd4fb0358263e9860825c7229c5c31/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/770a9689a9e222ed81d97d70714b2ebe9c81b0ca/ozred_bot
 https://raw.githubusercontent.com/OZRED/vless/770a9689a9e222ed81d97d70714b2ebe9c81b0ca/wubbalubbadubdub
@@ -566,7 +571,11 @@ https://raw.githubusercontent.com/SER38Off/happ-subscription/b90e9392ffab3dbd05c
 https://raw.githubusercontent.com/SER38Off/happ-subscription/b90e9392ffab3dbd05cc449b258b5c642b9de903/white-sub11.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/b90e9392ffab3dbd05cc449b258b5c642b9de903/white-sub5.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/b90e9392ffab3dbd05cc449b258b5c642b9de903/white-sub6.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/dfd18f73ed8bcff358befa92b92ef6a39ad2c19a/sub10.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/dfd18f73ed8bcff358befa92b92ef6a39ad2c19a/sub2-white-lists.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/dfd18f73ed8bcff358befa92b92ef6a39ad2c19a/sub3.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/dfd18f73ed8bcff358befa92b92ef6a39ad2c19a/sub4.txt
+https://raw.githubusercontent.com/SER38Off/happ-subscription/dfd18f73ed8bcff358befa92b92ef6a39ad2c19a/sub9.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/e959423672149a4548bfcfd70287ee92e0599285/sub10.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/e959423672149a4548bfcfd70287ee92e0599285/sub2-white-lists.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/e959423672149a4548bfcfd70287ee92e0599285/sub3.txt
@@ -1364,6 +1373,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/68b6ae3e03c659469102bd7c9e063b916f36e11c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/7c9958861307563cb0b0cb30ac380149da967558/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b5902707023050f914e1d59163af0e06d2f92a37/category/Kazakhstan.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b7ec5fd515299f316503c46394aa32568a84de04/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b9eab9cbb4308b4377361d812be62152fdc85a0c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c7433e0dbbb31c17ad9d8029c5710c5c6dcba5eb/category/Russia.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/cfd54f4709fd6637ec0818a47fa73705e07e2ed3/category/Kazakhstan.txt
@@ -1741,6 +1751,7 @@ https://raw.githubusercontent.com/sinavm/SVM/a538b696635433289e59eb82b1782098a41
 https://raw.githubusercontent.com/sinavm/SVM/a678ff0cb23f4e35316b25eded9ac5035041532f/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/a8369aef533ca565f75b7422753326a15d143f4b/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/a860d2897dd1030a08c745c8cbc816fcf9ecbaa6/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/aaddf26889b0c06f8067e252e251e2eca9320458/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/afa651192aa1fd455177b604b76931db5258278a/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/c13a6ca69e95ee83a3d8a83730a64ace2fd0f039/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/c3d6de4f8696faddab1a0cdb7c1dc33fb0ddc5d6/reports/invalid.txt
@@ -3774,6 +3785,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/d924998e030b9d92f481b179256e66
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d924998e030b9d92f481b179256e66a22530d705/githubmirror/default/190.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d924998e030b9d92f481b179256e66a22530d705/githubmirror/default/191.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d924998e030b9d92f481b179256e66a22530d705/githubmirror/default/192.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/d924998e030b9d92f481b179256e66a22530d705/githubmirror/default/193.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d924998e030b9d92f481b179256e66a22530d705/githubmirror/default/195.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d924998e030b9d92f481b179256e66a22530d705/githubmirror/default/198.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/d924998e030b9d92f481b179256e66a22530d705/githubmirror/default/201.txt

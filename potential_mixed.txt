@@ -74,6 +74,7 @@ https://raw.githubusercontent.com/JerryLiu369/free_tizi/1ca2128ae29a5c51d32b0667
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/1ca2128ae29a5c51d32b0667fd7f40932bc330ca/subscriptions/v2ray3.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/270979440107585f4aa712aa50a9a82ca7a89c64/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/70ef879653acedc8fd8bd323e99eaca62e0a666f/subscriptions/v2ray1.txt
+https://raw.githubusercontent.com/JerryLiu369/free_tizi/70ef879653acedc8fd8bd323e99eaca62e0a666f/subscriptions/v2ray3.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/78b185200f26aa2634b797a93c4ea547ae15e1b2/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/9222901daef39a4c9612453ebb893280673e926b/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/9279a1e6d37567bfa1cb3c1e89416c3fee3abeab/subscriptions/v2ray1.txt
@@ -103,6 +104,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/2b7c2e6ce6ee11b27e69d
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2c46bb051f67f215d952dcdfe73436cd9b128b86/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2d2e6383bcea221abf11d8ef83c9a2a5c9d89020/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2e047ecfe53233f055e001530d38f9cf371da47a/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/2e5a932d57216cb7a411ce2af2b2aa4079f53c44/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/38acedd007a5fcf2c8ef411ca394fe43193ccd35/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/392d1ff69796d656cd11b431edc1b8448e5673d9/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/3d9606764b3b49c28f9d495ba057e5f73f5f6217/vmess.txt
