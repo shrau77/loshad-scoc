@@ -330,6 +330,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/1c7e068092fc7d940202c945996a
 https://raw.githubusercontent.com/Danialsamadi/v2go/1f0b53e1d10145638c74faf032e25589bd2f700a/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/2939b1acfc1d603025fe95c24e0a463742caea8a/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/2acff4c59c9161b67c8f1dbb12b467c6766b2929/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/2fc873804dcdedab6ee2fdd35a1e07932ad87169/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/3057d7d9be4150f5aaf4d4a78a5693360224cb1a/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/306f3fbf9713a0f94d8b7daa04788bb6ac2decd8/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/33a278fc27e4c9874543c16b20b10756c3ad9873/Splitted-By-Country/MD.txt
@@ -1070,6 +1071,7 @@ https://raw.githubusercontent.com/itsyebekhe/PSG/c0b0b8a26c6de84b5228c44468959be
 https://raw.githubusercontent.com/itsyebekhe/PSG/d48f757bcbdcc7a64f134415f555b809bbad9b29/subscriptions/locations/normal/RU
 https://raw.githubusercontent.com/kojjii/vv/18de1fc8411cfb74d0ba5f72c0870110b6ce0c17/8
 https://raw.githubusercontent.com/kojjii/vv/18de1fc8411cfb74d0ba5f72c0870110b6ce0c17/x082
+https://raw.githubusercontent.com/komyaka/xraycheck/76af5a06035ae0870ed6380eb92f72fa1952b462/configs/white-list_available
 https://raw.githubusercontent.com/kort0881/vpn-checker-backend/17dfd372b04ca93c6263904a8006439e2239eda9/checked/My_Euro/my_euro_part3.txt
 https://raw.githubusercontent.com/kort0881/vpn-checker-backend/2086958abdfc897f15016bc29a4efcfb487c088d/checked/RU_Best/ru_white_part3.txt
 https://raw.githubusercontent.com/kort0881/vpn-checker-backend/2e8578d4afe33dd547140f06ca9fc0c938041ffe/checked/My_Euro/my_euro_part3.txt
@@ -1704,6 +1706,7 @@ https://raw.githubusercontent.com/sinavm/SVM/05d17581f7b11f160d7044a65f3dfebf891
 https://raw.githubusercontent.com/sinavm/SVM/086c7d7e577f97b1796b15124ea2a7d3fac0466b/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/15c9fe728834db69864ceef4292a32559eb053d4/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/1911692a6cb88879878d6eb8b3693afa613b8d07/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/23fd0e31bb672d9ca483ac59ea24bc012b743fa1/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/25ecdc33b6adb764f47322add515c7709c0655b3/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/2b9785000cea235e5958ea5ff7516ecfea052139/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/2f0747225830715aeae6a9768de690f02a8b13d3/reports/invalid.txt
