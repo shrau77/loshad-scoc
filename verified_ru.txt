@@ -278,6 +278,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/1838a78403877eb049
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/1b0253f8dc884fc11ac375db6c07a5d32ae382bd/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/21fd0470a9c7ce1f0007135ae9fb3b449a0dc2bb/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/255c7472783a36f3432be5712f35aaf64e3ab4a5/githubmirror/8.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/29948eaa104508dd47b49e424f54eb0e4b155183/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/29f61baa896e7b6ca9abfe1bd18356dabcb47d6d/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/2a155755cbcc4a716ca044835c598f03ac127e7a/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/3d8474b0d5d136ebaacdf4aa849d8b17cc23eb83/githubmirror/8.txt
@@ -480,6 +481,7 @@ https://raw.githubusercontent.com/LimeHi/LimeVPN/main/LimeVPN.txt
 https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/17ed671c335b11aaf1cca1162cfb3d34bfa343e1/LomConfig/filtered_export.json
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/21d07de8711530ab0d769217afc8d426f505ada1/LomConfig/filtered_export.json
+https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/2e70f8d387553bbdc236d874c27917be829f7ad6/LomConfig/filtered_export.json
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/2fb9881203063d3f417949987f95dee093ddac31/LomConfig/filtered_export.json
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/dc6964924db49dacfbfd74b0afbec0a7af5608b2/LomConfig/filtered_export.json
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/e5c0a03876cee857167612e76657fc807af56b09/LomConfig/filtered_export.json
@@ -507,6 +509,7 @@ https://raw.githubusercontent.com/OZRED/vless/aa7805093daaf85f7cc82a31b449fb1434
 https://raw.githubusercontent.com/OZRED/vless/ac3149af3daf724c3691050955f53ba1368a8101/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/ad0d19490d086867b51d0991144385d01465ad1a/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/b66e3ae909956464aa9b2b9bad33d0ed87733405/wubbalubbadubdub
+https://raw.githubusercontent.com/OZRED/vless/c6007a7db38d82367e0242f4b763aaad84249c63/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/d005f7fac96b43bd963e3c548eaa4d08df19a7a8/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/d8173091862ff229eca9c4cd730f441e883733d4/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/d9ae1485cbda510667e6cc613eb90c5a419d879e/wubbalubbadubdub
@@ -661,6 +664,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5a61b28057e0946eb0bc4
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5b78723d3a1eb72ca49b775c02671aca7217c3ac/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/62024859713a2f2584adda65cdd6e168d46c66d6/Subscriptions/Sub15.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/63383dc00e14d1c01c41f645fdfa9a027be99fd5/Subscriptions/Sub25.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7268c1d8f151c3cfe50c08342f8512b7f9ed21ea/Subscriptions/Sub25.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7344af7f10d76b7d90645a864f651cd470085a0d/Subscriptions/Sub30.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7691382842129cf682997765d5b6e22c192861f6/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/79cec896884acc72d180f15d780e35c63be9f3ba/Countries/Russia.txt
@@ -1513,6 +1517,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/2a5d92da739c1d8c6690e143e6a5
 https://raw.githubusercontent.com/sakha1370/OpenRay/2b3d21ff0e18f125cea431e2598d691db0b97527/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2d0ade3cb3c1c1dc49cf1cb80fb61b23708141ae/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2e050cc0e4ae3ecb0550f34399496643f0170fab/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/2f24f8fe0d6d8f66636d7359de159c0a78fc1926/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/2f965da9105938ef3ca9297af4a7aef1aad1cf2c/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/316b082c1ec046ea535a327823fc501bc9a378e7/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/31ed58c5c77d4607c16ea6970c582196d7a814c5/output/country/RU.txt
