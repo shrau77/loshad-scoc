@@ -282,6 +282,7 @@ https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/4f3b4271a509652bb1
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/551ff0f2c77bb43de9bedf4c996445be7afb16f6/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/5c2aea3948966f833be82f1dfc9bb0bf51a9b924/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/620da2a96795b27af0e462965c56c357b4168543/githubmirror/13.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/6a3a95db622466c2f5277258583a43c6e9888867/githubmirror/8.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/70ee6a2dcd88015889b809a84abc7c53c1adb713/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/76ddc2bdf77a7030fb0efd6224171718e547906d/githubmirror/13.txt
 https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/878cc4080eedf7366fa3acdc8c50e8b47b4ee759/githubmirror/8.txt
@@ -364,6 +365,7 @@ https://raw.githubusercontent.com/Danialsamadi/v2go/9092ebe2c2168626f8346039209c
 https://raw.githubusercontent.com/Danialsamadi/v2go/9a9e7e7eb91c06e6c49ed22fde494c17d1277b65/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/a7c5c26e27f9549af6f1b7d6d6c890790526c16c/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/abd17311743f2d292c144ff6d1a4edf4063856e4/Splitted-By-Country/MD.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/afa8c1c582ba1a90eb2a8850fe1d2c347e903fef/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/b1aeb01e6386214bf6d01a07c68a14de073d3780/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/ba3af3884daa3845cc16a9983231faf7a6b3aa62/Splitted-By-Country/MD.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/cb161f8903dc8f79489dba71ef2171317e973674/Splitted-By-Country/MD.txt
@@ -482,6 +484,8 @@ https://raw.githubusercontent.com/OZRED/vless/47f7666ee5293ce6ffbf3aa94c06cae58d
 https://raw.githubusercontent.com/OZRED/vless/52b47dc807fd4fb0358263e9860825c7229c5c31/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/770a9689a9e222ed81d97d70714b2ebe9c81b0ca/ozred_bot
 https://raw.githubusercontent.com/OZRED/vless/770a9689a9e222ed81d97d70714b2ebe9c81b0ca/wubbalubbadubdub
+https://raw.githubusercontent.com/OZRED/vless/94b666eb9281f026e6df69d1b2b545a85327adb5/ozred_bot
+https://raw.githubusercontent.com/OZRED/vless/94b666eb9281f026e6df69d1b2b545a85327adb5/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/aa7805093daaf85f7cc82a31b449fb14347e963f/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/ac3149af3daf724c3691050955f53ba1368a8101/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/ad0d19490d086867b51d0991144385d01465ad1a/wubbalubbadubdub
@@ -1383,6 +1387,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b9eab9cbb4308b4377361d812be62152fdc85a0c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c7433e0dbbb31c17ad9d8029c5710c5c6dcba5eb/category/Russia.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/cfd54f4709fd6637ec0818a47fa73705e07e2ed3/category/Kazakhstan.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/dc325b4629acc716215156d38f4f50bd1ec66913/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/e40cbf04134a45b0561983b08c250d6d14d74553/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/efe52a24cb71a0fbf341c803d169564cc96e8c1c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/ndsphonemy/proxy-sub/6fa416e607193b2af1ceeff5e752e1d7bfb43030/ru.txt
@@ -2552,12 +2557,21 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/163.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/165.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/166.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/175.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/177.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/182.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/183.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/185.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/186.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/189.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/191.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/194.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/195.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/196.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/197.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/199.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/48.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/5e66fa401b3da06873b87a91e4cd1d74621de6ad/githubmirror/default/51.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e8a09c08ab454907e59132e39d8420745a15afe/githubmirror/bypass-unsecure/bypass-unsecure-11.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e8a09c08ab454907e59132e39d8420745a15afe/githubmirror/bypass-unsecure/bypass-unsecure-13.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/5e8a09c08ab454907e59132e39d8420745a15afe/githubmirror/bypass-unsecure/bypass-unsecure-15.txt
