@@ -1,3 +1,4 @@
+https://gist.githubusercontent.com/Ai123999/9727011183d149db3f4e524172efed29/raw/43c4319ced01d8c9d02b72a8c4f5036abe7e6921/notorvpn-subscription.txt
 https://gist.githubusercontent.com/Gamesaix/0ff0282c8e1298bd282432146db0e997/raw/c334935f34f626307b79a794d3f18fe1584e7d74/United%2520States
 https://github.com/Ennzo0/V2ray/blob/main/all.txt
 https://github.com/LimeHi/LimeVPN/raw/main/LimeVPN.txt
@@ -130,6 +131,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/6d840910a1e1d4dca4372
 https://raw.githubusercontent.com/Kolandone/v2raycollector/6ee81d171116824f6d49c264436bcce8a70c4cbc/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/705d19779fd248d90d5585d7841574b1f0648dd4/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/7171404b677fecd501a42e4d447154f5ecb37786/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/7210319cf3af14bb79f79dd627848c43ae574532/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/73182abda13c5c6d317af3e509e6fdb222353397/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/74a265688e0636570be7d4d91327155fc1069024/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/750898a725a22121c09448ada5410101375c2c4a/vmess.txt
