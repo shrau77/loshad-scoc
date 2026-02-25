@@ -55,6 +55,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/8b2471e354711b217e2c50b842845f4a1
 https://raw.githubusercontent.com/Ganjabady/XC/8b2471e354711b217e2c50b842845f4a137aafe0/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/b1d6147824fcddc084d9c892e9b9408d1449a6da/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/c0188847f09f63aabdef43ce4de40aba8a75a703/subscriptions/regions/IS.txt
+https://raw.githubusercontent.com/Ganjabady/XC/c0676a2976a4cd7a23943c86efeb0f34028c68ec/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/AR.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/d671e86922f7d02894a0f20babe7c76d496ca007/subscriptions/regions/UZ.txt
@@ -94,6 +95,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/2727ee416522b38382002
 https://raw.githubusercontent.com/Kolandone/v2raycollector/283dd8f0d3deeb0a91bf1ba11fe0e91e188ba94c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/285bb80bb75ae92b26cf77a02cf61df09ecb5000/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2b7c2e6ce6ee11b27e69d4619b4eeb4d37b2265c/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/2c46bb051f67f215d952dcdfe73436cd9b128b86/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2d2e6383bcea221abf11d8ef83c9a2a5c9d89020/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/2e047ecfe53233f055e001530d38f9cf371da47a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/38acedd007a5fcf2c8ef411ca394fe43193ccd35/vmess.txt
@@ -184,6 +186,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/3fe1aad16fd3ff441517c
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/40278acb99fb27b0039418578034430daa027c92/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/430cfd5efe1d0007b51cf3ab5decf354f71ff5bd/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/43e04408e154f96db1fb144b43845c332c6eaef2/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4957b4c8801642d7d74d9224e8ef110a4129f58c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4bf94ba27a46e4fd5e8c5ef208244eb11e711d1c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4bfd57ef3304e9af3337a137aab943cda2865ce0/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/50dcce48b9e1aa98e5b6ac7a2367c51971e4d482/Countries/Italy.txt
@@ -248,6 +251,7 @@ https://raw.githubusercontent.com/V2RayRoot/V2Root-ConfigPilot/83e1d6703eb881996
 https://raw.githubusercontent.com/YukiKras/wiki/2168c82dbfaf13df0ebce32fb9258f99a351bb33/ssh-tunnels.md
 https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 https://raw.githubusercontent.com/chochoo77-crypto/freev2/46020dc6212f7d00823f1e7bdb377a63fe7a5cf5/100.json
+https://raw.githubusercontent.com/d1mdev/adblock/107fc73ab407d1eb1f06e1f902d4fde4ad9e2be2/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/3117f3e7e7a9dc85bd7eaa3acb15a97f6685d4ce/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/5f527a5781a0c90789ebe4ab81e04f719b99775d/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/6b0468d5664fb60577716ad6d1cd85260349cead/vless.txt
@@ -282,6 +286,7 @@ https://raw.githubusercontent.com/nociex/SubSyncForge/833f227affe9c198a8e53e0f3c
 https://raw.githubusercontent.com/nociex/SubSyncForge/895967cd03a736c1ec77378eae2a81b23d2729bb/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/a3ddf4a70717fb5c3e385bd3f72308230919299a/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/a746c4644f17ea4387fe79cb0e00fb61f8746522/data/cache/pianyi_cache.json
+https://raw.githubusercontent.com/nociex/SubSyncForge/a9d7d9011409f3f7cadfcfb0debf36ae8f3f520d/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/ae1880859a6b722cf16c281c4cfae0a410268c79/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/aef5ecceb7195745e9b4cc9b0f5418d2287a55a6/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/c0ae4a4e22d69000f92099cfcb1280cd5cc0ffa9/data/cache/pianyi_cache.json
@@ -298,6 +303,7 @@ https://raw.githubusercontent.com/remnawave/panel/3ec01631302413a32265b490e29f9c
 https://raw.githubusercontent.com/remnawave/panel/a829daa3446d504957c3becd3f18469b70fbac41/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/remnawave/panel/b288e1098b258fbd1314bf24365a8bf551fc370f/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/remnawave/panel/b4656f3b4457fc10d85c60f27b1eb5129feec80b/docs/awesome-remnawave/_install-guides/whitebox.md
+https://raw.githubusercontent.com/remnawave/panel/d83d061623675e7f674abd1f923637bc1207a0bf/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/remnawave/panel/e885803422bb2754dbe4b4a21c976f1d61e4cf18/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/remnawave/panel/f9ae7d5b16ae15c573ffb9571cec4ed5029b2df0/docs/awesome-remnawave/_install-guides/whitebox.md
 https://raw.githubusercontent.com/shabane/kamaji/0081ba2785818c7ee508fb8ac330f1a61f497842/hub/tested/IN.txt
@@ -308,6 +314,7 @@ https://raw.githubusercontent.com/shabane/kamaji/63962239f8ab2dbdd5af8e31e65a578
 https://raw.githubusercontent.com/shabane/kamaji/8122e3798aaac09bdacc72b0d7a60cdbcc2df9cb/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/9cf9a02333078d34156e2ff9331ff18f7238092f/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/bd9b152ce9f8742eb28a2d64d298b2cead51e3dc/hub/tested/IN.txt
+https://raw.githubusercontent.com/shabane/kamaji/fbf9772af49527106499de8eb24ad44c82dc10a5/hub/tested/IN.txt
 https://raw.githubusercontent.com/shirazipooya/link/88127971bf0b0ae73423371467e9f953ba6c132d/Reality.txt
 https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/3a41a0dbb5ecc8d2dc6fb40561ce80288abcaf16/data/sub/channel_subs/freevv2rayng.txt
 https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/3a41a0dbb5ecc8d2dc6fb40561ce80288abcaf16/data/sub/channel_subs/outlinev2rayng.txt
@@ -367,6 +374,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b
 https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b2c9beeae22/githubmirror/default/138.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b2c9beeae22/githubmirror/default/70.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/bfe36e05079b0eb21f2a4a9e7fff4b2c9beeae22/githubmirror/default/79.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/d924998e030b9d92f481b179256e66a22530d705/githubmirror/default/138.txt
 https://raw.githubusercontent.com/xintrea/mytetra_syncro/4731e0e96a3bc3a87b701cfcb588ef51708650a4/base/1705912840sygx6w9dm0/text.html
 https://raw.githubusercontent.com/xintrea/mytetra_syncro/c55c9bc192fcc64df610b74cde5897dd0ee9317c/base/1705912840sygx6w9dm0/text.html
 https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray
