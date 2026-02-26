@@ -1446,6 +1446,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/68b6ae3e03c659469102bd7c9e063b916f36e11c/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/7c9958861307563cb0b0cb30ac380149da967558/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/88b4aa265a0081ef887b6188b204863c39465d4b/category/Kazakhstan.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/8ac51579484b55cec4d1ff4a20be607416b3c011/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/a52845b9a41d8340ce54a15687bf8c3a303a1e2f/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b5902707023050f914e1d59163af0e06d2f92a37/category/Kazakhstan.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b7ec5fd515299f316503c46394aa32568a84de04/category/Kazakhstan.txt
