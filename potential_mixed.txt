@@ -34,6 +34,7 @@ https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c87
 https://raw.githubusercontent.com/Ganjabady/XC/3cfd4f2eb8e4d6c36909a4ea765202c876b85173/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/3f3d38db1dfb8925d02ce2eb7b7a3d650a76ac5e/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/40464d0f117a5b879aa75ad01f8ba1a19f68199c/subscriptions/regions/UZ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/467abc254c8a046286eef1c3b7c82676dc67061e/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/50c6a408064090e1ec0827c67a04bcc5b9f1725d/subscriptions/regions/TH.txt
@@ -169,6 +170,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/af34430147e072f2af6ab
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b1cf8a50b505f67c299ad26878c00c5b33f98ab0/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b2fa6a4f10d5c9bbac21781ebfd60bb944d242d0/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b364fa0b41c6ec0fb77eed1b348c00191db3f6cc/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/b42e3839ab8c0de9e438dc31dd9903e729d858a4/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b42fee7ed746b40c3f089a2fe5f2d698e3d9e6c7/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/b8db1b293dc72c70d2b5d1e44427353b8a0cf91b/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/bbdcd4383e4d446ea0117bf7b19c2f5a09b61cfa/vmess.txt
@@ -371,6 +373,7 @@ https://raw.githubusercontent.com/shabane/kamaji/0b72fc7fd3ac6cd3acb02b884168026
 https://raw.githubusercontent.com/shabane/kamaji/1be5f533a6e0d3529eeaf6fac127f839517c98b6/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/44b767e9e5e79c71c3cc8ac45060aa82e55c9e10/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/63962239f8ab2dbdd5af8e31e65a578c24a40d12/hub/tested/IN.txt
+https://raw.githubusercontent.com/shabane/kamaji/6f0302e4a903244288a8aa65fde8b79a2a7bd075/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/8122e3798aaac09bdacc72b0d7a60cdbcc2df9cb/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/8ed94c86746da698496c16a2dea9293fb5c110b3/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/9cf9a02333078d34156e2ff9331ff18f7238092f/hub/tested/IN.txt
