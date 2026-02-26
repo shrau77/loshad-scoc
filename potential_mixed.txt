@@ -81,6 +81,7 @@ https://raw.githubusercontent.com/JerryLiu369/free_tizi/1af683b157399fa0236ea67a
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/1ca2128ae29a5c51d32b0667fd7f40932bc330ca/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/1ca2128ae29a5c51d32b0667fd7f40932bc330ca/subscriptions/v2ray3.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/270979440107585f4aa712aa50a9a82ca7a89c64/subscriptions/v2ray1.txt
+https://raw.githubusercontent.com/JerryLiu369/free_tizi/3fd9a265fa2b78ff8d6ace66a42dfea7d1ab63d4/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/70ef879653acedc8fd8bd323e99eaca62e0a666f/subscriptions/v2ray1.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/70ef879653acedc8fd8bd323e99eaca62e0a666f/subscriptions/v2ray3.txt
 https://raw.githubusercontent.com/JerryLiu369/free_tizi/78b185200f26aa2634b797a93c4ea547ae15e1b2/subscriptions/v2ray1.txt
@@ -190,6 +191,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/e01d1058a8cced2ef3dd8
 https://raw.githubusercontent.com/Kolandone/v2raycollector/e3a2574420f692b3f257f7bca6c9ab2688143c33/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/e5043a6a0f19593e91977a1c1cf749e2b4ca31b4/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/e68503b4431886ae6cd6eafc5d1bc558540afa27/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/f07c0d0417fa61f15f5fc14e7982d9dbc00b03b0/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/f30102718b9263eb53b63e0d353cba83f98be3e2/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/f5a1f339866de7ee93f64385c5bb331cdbaee680/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/f91caf911ba239cde403f5c89ce94631b02a0264/vmess.txt
@@ -330,6 +332,7 @@ https://raw.githubusercontent.com/msasanmh/DNSveil/9353b2be95784f8a10e48563f7f85
 https://raw.githubusercontent.com/nociex/SubSyncForge/1b7380c74ab16979ce5e6f9f874f1584c11e2748/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/1c7e322be6e35017f9e6507645397bb680711048/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/4a2187a29e2f1a609415f4a38b00f55c5b352206/data/cache/pianyi_cache.json
+https://raw.githubusercontent.com/nociex/SubSyncForge/4cafc0cea59b7e0affc50ba87d5415883522c67c/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/5149abd3692418b548da64c9eea8933f50e9b368/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/53227aac321e7763319c4d5f6a47b1850e86e27c/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/5b3df292521aae78ef5fe9d3f09acb35cbb5c585/data/cache/pianyi_cache.json
