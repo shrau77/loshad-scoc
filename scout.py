@@ -69,7 +69,7 @@ SEARCH_QUERIES = [
     'filename:configs.txt OR filename:config.txt OR filename:conf.txt',
     'filename:sub.txt OR filename:subscription.txt OR filename:subs.txt',
     'filename:nodes.txt OR filename:v2ray.txt OR filename:vless.txt OR filename:reality.txt',
-    'filename:ru.txt OR filename:russia.txt',
+    'filename:ru.txt OR filename:russia.txt OR filename:ru_nodes.txt OR filename:runodes.txt',
     'filename:bypass.txt OR filename:antifilter.txt OR filename:antizapret.txt',
     'filename:vpn.txt OR filename:proxy.txt OR filename:proxies.txt',
     'filename:clients.txt OR filename:client.txt',
@@ -77,6 +77,17 @@ SEARCH_QUERIES = [
     'filename:list.txt OR filename:links.txt OR filename:urls.txt',
     'filename:server.txt OR filename:servers.txt',
     'filename:good.txt OR filename:checked.txt OR filename:valid.txt',
+    # NEW: Дополнительные имена файлов
+    'filename:share.txt OR filename:shared.txt OR filename:public.txt',
+    'filename:free_nodes.txt OR filename:freenodes.txt OR filename:free-nodes.txt',
+    'filename:telegraf.txt OR filename:tg.txt OR filename:telegram.txt',
+    'filename:output.txt OR filename:result.txt OR filename:results.txt',
+    'filename:updated.txt OR filename:latest.txt OR filename:new.txt',
+    'filename:db.txt OR filename:database.txt OR filename:data.txt',
+    'filename:clash.txt OR filename:clash_meta.txt OR filename:singbox.txt OR filename:sing-box.txt',
+    'filename:shadowsocks.txt OR filename:ss.txt OR filename:ssr.txt',
+    'filename:port.txt OR filename:ports.txt',
+    'filename:test.txt OR filename:testing.txt',
 
     # 2. Пути и расширения
     'extension:txt vless reality path:subscriptions',
@@ -94,6 +105,17 @@ SEARCH_QUERIES = [
     'path:**/server/** vless',
     'path:**/nodes/** vless',
     'path:**/sub/** vless',
+    # NEW: Дополнительные пути
+    'path:**/xray/** reality',
+    'path:**/sing-box/** vless',
+    'path:**/singbox/** reality',
+    'path:**/nekoray/** vless',
+    'path:**/hiddify/** reality',
+    'path:**/clash/** vless',
+    'path:**/outline/** vless',
+    'path:**/sharing/** vless',
+    'path:**/backup/** vless',
+    'path:**/backup/** reality',
 
     # 3. Контент (сигнатуры)
     '"security=reality" "fingerprint: chrome" "shortId"',
@@ -103,6 +125,12 @@ SEARCH_QUERIES = [
     '"xtls" "flow: xtls-rprx-vision" "reality"',
     '"streamSettings" "realitySettings" "publicKey"',
     '"type": "vless" "security": "reality" "encryption": "none"',
+    # NEW: Дополнительные сигнатуры
+    '"vless://" "flow=xtls-rprx-vision"',
+    '"vless://" "packetEncoding=xudp"',
+    '"reality" "shortId" "spiderX"',
+    '"inbounds" "reality" "listen"',
+    '"vless" "grpc" "reality"',
 
     # 4. Популярные SNI (RU Targets)
     '"gosuslugi.ru" reality',
@@ -120,6 +148,37 @@ SEARCH_QUERIES = [
     '"dzen.ru" reality',
     '"kinopoisk.ru" reality',
     '"avito.ru" reality',
+    # NEW: Расширенный список RU SNI
+    '"leroymerlin.ru" reality',
+    '"petrovich.ru" reality',
+    '"detmir.ru" reality',
+    '"mvideo.ru" reality',
+    '"eldorado.ru" reality',
+    '"citilink.ru" reality',
+    '"dns-shop.ru" reality',
+    '"sportmaster.ru" reality',
+    '"lamoda.ru" reality',
+    '"aliexpress.ru" reality',
+    '"tbank.ru" reality',
+    '"alfa.ru" OR "alfabank.ru" reality',
+    '"vtb.ru" reality',
+    '"gazprombank.ru" reality',
+    '"raiffeisen.ru" reality',
+    '"pochta.ru" reality',
+    '"sber.ru" reality',
+    '"taxi.yandex.ru" reality',
+    '"ya.ru" reality',
+    '"habr.ru" reality',
+    '"hh.ru" reality',
+    '"autoru.ru" OR "auto.ru" reality',
+    '"cian.ru" reality',
+    '"aviasales.ru" reality',
+    '"tutu.ru" reality',
+    '"gosuslugi" reality',
+    '"edu.ru" reality',
+    '"mytracker.ru" reality',
+    '"kp.ru" reality',
+    '"rbc.ru" reality',
 
     # 5. Облака (поиск упоминаний доменов)
     '"storage.yandexcloud.net" vless',
@@ -129,6 +188,15 @@ SEARCH_QUERIES = [
     '"digitaloceanspaces.com" vless',
     '"backblazeb2.com" vless',
     '"amazonaws.com" vless',
+    # NEW: Дополнительные облака
+    '"cloud.yandex.net" vless',
+    '"object.pscloud.io" vless',
+    '"s3pointer.ru" vless',
+    '"selectel.ru" vless',
+    '"mcs.mail.ru" vless',
+    '"cloud.ru" vless',
+    '"sbercloud.ru" vless',
+    '"yandexcloud.net" reality',
 
     # 6. Темы и Keywords
     '"anti-rkn" OR "antirkn" OR "antizapret" vless',
@@ -138,36 +206,97 @@ SEARCH_QUERIES = [
     '"nekoray" "reality" extension:json',
     '"hiddify" "reality" extension:txt',
     '"v2rayng" "reality"',
-    '"xray" "reality" "whitelist"'
+    '"xray" "reality" "whitelist"',
+    # NEW: Дополнительные темы
+    '"vless" "free" "russia"',
+    '"reality" "free" "ru"',
+    '"подписка" "vless" extension:txt',
+    '"vpn" "бесплатно" "reality"',
+    '"ноды" "vless" "txt"',
+    '"обход" "блокировок" vless',
+    '"proxyrussia" OR "proxy-russia" vless',
+    '"vpn4ru" OR "vpn-for-russia" vless',
+    '"unblock" "russia" vless',
+
+    # 7. NEW: Telegram-связанные дорки
+    '"t.me/" "vless" extension:txt',
+    '"telegram" "reality" "config"',
+    '"tg://" "proxy" OR "vless"',
+    '"t.me/" "proxy" "reality"',
+
+    # 8. NEW: CI/CD и Docker (часто содержат конфиги)
+    'filename:docker-compose.yml vless',
+    'filename:Dockerfile vless',
+    'path:.github/workflows vless',
+    'extension:env vless reality',
+
+    # 9. NEW: Base64 и закодированные конфиги
+    'extension:b64 vless',
+    'extension:base64 reality',
+    '"eyJ" "vless" OR "reality"',  # Base64开头
+
+    # 10. NEW: Специфичные форматы
+    'extension:conf vless reality',
+    'extension:cfg vless',
+    'extension:ini vless reality'
 ]
 
 # --- DATA LISTS ---
 
-# 1. S3 Domains & Patterns
+# 1. S3 Domains & Patterns - Расширенный список
 S3_DOMAINS = [
-    "storage.yandexcloud.net", "vkcloud-storage.ru", "gpucloud.ru", "object.pscloud.io",
-    "hb.bizmrg.com", "s3.timeweb.com", "digitaloceanspaces.com", "backblazeb2.com", "amazonaws.com"
+    # Российские облака
+    "storage.yandexcloud.net", "yandexcloud.net", "cloud.yandex.net",
+    "vkcloud-storage.ru", "mcs.mail.ru",
+    "hb.bizmrg.com", "object.pscloud.io", "s3pointer.ru",
+    "s3.timeweb.com", "selectel.ru", "cloud.ru", "sbercloud.ru",
+    # Международные облака
+    "digitaloceanspaces.com", "backblazeb2.com", "amazonaws.com",
+    "cloudflare.com", "wasabisys.com", "contabo.com"
 ]
 
 # Регулярки для извлечения ссылок на облака из текста
 S3_DOMAIN_PATTERNS = [
+    # Российские облака
     r'https?://[a-zA-Z0-9.-]*storage\.yandexcloud\.net[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*yandexcloud\.net[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*cloud\.yandex\.net[^\s"<>\)]*',
     r'https?://[a-zA-Z0-9.-]*vkcloud-storage\.ru[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*mcs\.mail\.ru[^\s"<>\)]*',
     r'https?://[a-zA-Z0-9.-]*hb\.bizmrg\.com[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*object\.pscloud\.io[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*s3pointer\.ru[^\s"<>\)]*',
     r'https?://[a-zA-Z0-9.-]*s3\.timeweb\.com[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*selectel\.ru[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*cloud\.ru[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*sbercloud\.ru[^\s"<>\)]*',
+    # Международные облака
     r'https?://[a-zA-Z0-9.-]*digitaloceanspaces\.com[^\s"<>\)]*',
     r'https?://[a-zA-Z0-9.-]*backblazeb2\.com[^\s"<>\)]*',
     r'https?://[a-zA-Z0-9.-]*amazonaws\.com[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*wasabisys\.com[^\s"<>\)]*',
+    r'https?://[a-zA-Z0-9.-]*contabo\.com[^\s"<>\)]*',
 ]
 
 S3_COMMON_FILES = [
-    "configs.txt", "v2ray.txt", "xray.txt", "reality.txt",
-    "whitelist.txt", "wl.txt", "white.txt", "russia.txt",
-    "bypass.txt", "antifilter.txt", "antizapret.txt", "ru_nodes.txt",
-    "free.txt", "proxy.txt", "socks.txt", "shadowsocks.txt",
-    "clash.txt", "clash.meta.txt", "singbox.txt", "nekoray.txt",
-    "sub.txt", "subs.txt", "sub1.txt", "sub2.txt", "urls.txt",
-    "data.txt", "database.txt", "list.txt", "nodes.txt", "1.txt"
+    # Основные конфиги
+    "configs.txt", "v2ray.txt", "xray.txt", "reality.txt", "vless.txt",
+    "whitelist.txt", "wl.txt", "white.txt", "russia.txt", "ru_nodes.txt",
+    "bypass.txt", "antifilter.txt", "antizapret.txt",
+    # VPN форматы
+    "free.txt", "proxy.txt", "socks.txt", "shadowsocks.txt", "ss.txt",
+    "clash.txt", "clash.meta.txt", "clash_pro.txt", "singbox.txt", "sing-box.txt",
+    "nekoray.txt", "nekobox.txt", "hiddify.txt", "outline.txt",
+    # Подписки
+    "sub.txt", "subs.txt", "sub1.txt", "sub2.txt", "sub3.txt", "subscription.txt",
+    "urls.txt", "links.txt", "list.txt",
+    # Данные
+    "data.txt", "database.txt", "db.txt", "nodes.txt",
+    "share.txt", "shared.txt", "public.txt", "free_nodes.txt",
+    # Результаты сканирований
+    "result.txt", "results.txt", "output.txt", "updated.txt", "latest.txt",
+    # Нумерованные файлы
+    "1.txt", "2.txt", "3.txt", "node.txt", "config.txt"
 ]
 
 # 2. Hard Block
@@ -199,11 +328,26 @@ BLACK_SNI = [
     'worker', 'pages.dev', 'herokuapp', 'workers.dev', 'localhost', '127.0.0.1'
 ]
 
-# 5. White SNI (RU Boost)
+# 5. White SNI (RU Boost) - Расширенный список
 WHITE_SNI = [
-    "gosuslugi.ru", "yandex.ru", "vk.com", "mail.ru", "ozon.ru", "wildberries.ru",
-    "tbank.ru", "sberbank.ru", "mos.ru", "rutube.ru", "dzen.ru", "avito.ru",
-    "kinopoisk.ru", "dns-shop.ru", "rzd.ru", "pochta.ru", "nalog.ru", "ru_target"
+    # Государственные сервисы
+    "gosuslugi.ru", "mos.ru", "nalog.ru", "pochta.ru", "rzd.ru", "gosuslugi", "edu.ru",
+    # Банки и финансы
+    "sberbank.ru", "sber.ru", "tinkoff.ru", "tbank.ru", "vtb.ru", "alfa.ru", "alfabank.ru",
+    "raiffeisen.ru", "gazprombank.ru", "otpbank.ru", "pochtabank.ru", "qiwi.com",
+    # E-commerce
+    "yandex.ru", "ya.ru", "ozon.ru", "wildberries.ru", "aliexpress.ru", "avito.ru",
+    "market.yandex.ru", "beru.ru", "lamoda.ru", "sportmaster.ru",
+    # Социальные и медиа
+    "vk.com", "mail.ru", "dzen.ru", "rutube.ru", "kinopoisk.ru", "ok.ru",
+    "livejournal.ru", "rambler.ru",
+    # Технологии и сервисы
+    "habr.ru", "hh.ru", "autoru.ru", "auto.ru", "cian.ru", "aviasales.ru", "tutu.ru",
+    # Ритейл
+    "dns-shop.ru", "mvideo.ru", "eldorado.ru", "citilink.ru", "leroymerlin.ru",
+    "petrovich.ru", "detmir.ru", "leroymerlin.ru",
+    # Специальные метки
+    "ru_target", "russia", ".ru"
 ]
 
 # Global Caches & State
