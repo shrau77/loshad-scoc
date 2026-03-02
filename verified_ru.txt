@@ -44,8 +44,6 @@ https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/eb5514f8e5
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/f09d3cdddcd4f18f41fcde4e22eef80e86d77ac4/whitelist.txt
 https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/refs/heads/main/whitelist.txt
 https://raw.githubusercontent.com/ASTRACAT2022/VPN-FREE-astra.net-V1/84b0547bf8d978352fb71280f620a4057533282f/AVPN%20Key
-https://raw.githubusercontent.com/Ai123999/WhiteKeys/main/WhiteKeys
-https://raw.githubusercontent.com/Ai123999/WhiteKeys/refs/heads/main/WhiteKeys
 https://raw.githubusercontent.com/Ai123999/WhiteeListSub/main/whitelistkeys
 https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whitelistkeys
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/0159d2efd222b7823a01285bd6fafcd03c210f44/data/sub/countries/RU.txt
@@ -492,7 +490,6 @@ https://raw.githubusercontent.com/HikaruApps/WhiteLattice/f5d322782fbcbce76a2756
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/HikaruApps/WhiteLattice/refs/heads/main/subscriptions/main-sub.txt
 https://raw.githubusercontent.com/Huryyy120/Byhurs4ndSUBSCRIBE/1489c33aa9f4d0f95c4dd07cd6ec788bb5ff546e/Salayev
-https://raw.githubusercontent.com/ImMALWARE/wiki.malw.link/84902744e36545454a50d7303d3552506ac44653/wiki/network/vpns/whitelist.md
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
 https://raw.githubusercontent.com/KiryaScript/white-lists/3acfed839e57d00a71705fa06508e7b8cf8e9753/githubmirror/27.txt
@@ -548,7 +545,6 @@ https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489eb
 https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested-2025-07-26T00-32-09Z.json
 https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested_2025-07-31T16-52-03-985Z.json
 https://raw.githubusercontent.com/OpexDevelop/opexvpn-checker/2c7899ac22687489ebcf13de83fbfcaace257d34/tested_2025-07-31T18-59-06-808Z.json
-https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs
 https://raw.githubusercontent.com/SER38Off/happ-subscription/01d80bd55cee0bdba2dd06ac525eb27dbff4087f/sub2-white-lists.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/01d80bd55cee0bdba2dd06ac525eb27dbff4087f/white-sub6.txt
 https://raw.githubusercontent.com/SER38Off/happ-subscription/2b39ea1fbc19d718dc963e808a0dd849b2bde714/sub10.txt
@@ -1872,8 +1868,6 @@ https://raw.githubusercontent.com/sinavm/SVM/ff23c063c40976324f4a12c488928de959c
 https://raw.githubusercontent.com/suprohub/novaprox/6f3b2af36657ded25e7d0b73b02c1bf7c200af1f/sub/vless.txt
 https://raw.githubusercontent.com/tanhatarinam/server/5638127c4f3e21d2a4f906be578a481d6c04e5cd/NEO.text
 https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/64a111196d10342513d84b31d9f28b99520e0e87/WhiteKeys
-https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/main/WhiteKeys
-https://raw.githubusercontent.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/197bc7f9f07450ef71537966cadb14b2eee97e60/Sub.txt
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/34272382f7af5300a445230d7d8f24877cf8b6ee/Sub.txt
 https://raw.githubusercontent.com/trikiman/desktop-tutorial/5bc4f41a7bfe8801dfd24009d338831993c37aa2/Sub.txt
