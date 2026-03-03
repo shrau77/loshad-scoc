@@ -1350,8 +1350,6 @@ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/f5f924852e1abcb
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/f9292b1b85cb108f358f17a6830f879185aec34d/Vless-Reality-White-Lists-Rus-Mobile-2.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/fbf6f433582c0d33b366e7690b64ee6a1d8c493f/Vless-Reality-White-Lists-Rus-Mobile.txt
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/fbf6f433582c0d33b366e7690b64ee6a1d8c493f/WHITE-SNI-RU-all.txt
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
 https://raw.githubusercontent.com/imaksy007/imaksy/8bee9764d8e0d18fc558c02bbf13b3b1bd204f58/imaksy.txt
 https://raw.githubusercontent.com/imaksy007/imaksy/ccf08407b4ddfbdc4b8b78d829065973337aee5c/imaksy.txt
 https://raw.githubusercontent.com/indexhacker/catvpnrussian.github.io/0678580eccadf83203183db36c1f4818a3ebe666/0.txt
