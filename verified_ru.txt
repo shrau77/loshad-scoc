@@ -1,6 +1,5 @@
 https://bp.wl.free.nf/confs/selected.txt
 https://bp.wl.free.nf/confs/wl.txt
-https://github.com/AirLinkVPN/AirLinkVPN.github.io/raw/main/1.txt
 https://github.com/Artem0790YT/vpninternet/raw/main/vpn.txt
 https://github.com/LimeHi/LimeVPN/raw/main/LimeVPN.txt
 https://github.com/Mukhin7/MukhinVPN/raw/main/MukhinVPN.txt
@@ -4535,6 +4534,5 @@ https://raw.githubusercontent.com/zieng2/wl/f91e91a82f3ab232aa7cd6f4f7491c9043c9
 https://raw.githubusercontent.com/zieng2/wl/fbec12b06b9377c500d0428b59b57048540a2f00/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/fddc6b5747a9b0d75bab0a08d89c5b5dce06ef24/vless_lite.txt
 https://raw.githubusercontent.com/zieng2/wl/fe2fab9389b15932c336334714e047701a0a3363/vless_lite.txt
-https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt
 https://storage.yandexcloud.net/cid-vpn/whitelist.txt
 https://subs.root.sx/hdff1
