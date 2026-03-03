@@ -1362,10 +1362,6 @@ https://raw.githubusercontent.com/itsyebekhe/PSG/c0b0b8a26c6de84b5228c44468959be
 https://raw.githubusercontent.com/itsyebekhe/PSG/d48f757bcbdcc7a64f134415f555b809bbad9b29/subscriptions/locations/normal/RU
 https://raw.githubusercontent.com/kojjii/vv/18de1fc8411cfb74d0ba5f72c0870110b6ce0c17/8
 https://raw.githubusercontent.com/kojjii/vv/18de1fc8411cfb74d0ba5f72c0870110b6ce0c17/x082
-https://raw.githubusercontent.com/komyaka/xraycheck/0b44a1c406e60cb963dfa066dd07e7675c0ec9f1/configs/white-list_available
-https://raw.githubusercontent.com/komyaka/xraycheck/76af5a06035ae0870ed6380eb92f72fa1952b462/configs/white-list_available
-https://raw.githubusercontent.com/komyaka/xraycheck/e97c67136729a411ac0dd8dd4965f5eaf2b115f7/configs/white-list_available_st
-https://raw.githubusercontent.com/komyaka/xraycheck/f148b646b54d852874d8a59648b01ccb1c9d87ec/configs/white-list_available
 https://raw.githubusercontent.com/kort0881/vpn-checker-backend/17dfd372b04ca93c6263904a8006439e2239eda9/checked/My_Euro/my_euro_part3.txt
 https://raw.githubusercontent.com/kort0881/vpn-checker-backend/2086958abdfc897f15016bc29a4efcfb487c088d/checked/RU_Best/ru_white_part3.txt
 https://raw.githubusercontent.com/kort0881/vpn-checker-backend/2e8578d4afe33dd547140f06ca9fc0c938041ffe/checked/My_Euro/my_euro_part3.txt
