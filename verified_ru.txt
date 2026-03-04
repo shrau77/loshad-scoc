@@ -327,10 +327,7 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/710b81e5a29b4d92d005d24cd82
 https://raw.githubusercontent.com/Barabama/FreeNodes/8c1fa437ee8e903dbf4b931d6b246da842be533d/nodes/wenode.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/a201f1ceb972e28b852cb986b73b83ea93c0ae93/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/a201f1ceb972e28b852cb986b73b83ea93c0ae93/nodes/wenode.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodefree.txt
-https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/wenode.txt
 https://raw.githubusercontent.com/CattMurr/gatsby-blog/dc92506085684f4773e57d896639bcd6234e4222/server/data/proxies.json
 https://raw.githubusercontent.com/CidVpn/cid-vpn-config/cb7de98459151b8a9fa47e81b03737e05724d2eb/general.txt
