@@ -18,7 +18,7 @@ jobs:
   scout:
     runs-on: ubuntu-latest
     # Жёсткий лимит 30 минут - чтобы не висел часами
-    timeout-minutes: 30
+    timeout-minutes: 90
 
     steps:
     - name: Checkout repository
