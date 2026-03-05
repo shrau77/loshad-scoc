@@ -276,6 +276,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ae1aecf8879f76a80cf69
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b1c1dcf129a74fcd91e46502a1d41ff4c8f919c2/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/b549a6996564c5ff0728101feaac8939147f571f/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/bc6ca1657d8ffba4a86c0d2232dede02ae6eb948/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/bda43e3f9ffcb5ccc1fbab9844327ac2c2a24655/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c2c70c9c7b60d0fb9f05ef42c0cf57a0efacd25c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c4ff2cec78a2ff8187c731ff074c98510d227acb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c6ffd107837244c613f717ac9693839da3d8998e/Countries/Italy.txt
@@ -342,6 +343,13 @@ https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/60898f78041
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/60898f780410d6bdb59d8c23c716a22e93460ac1/sub/rare/port_2280.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/60898f780410d6bdb59d8c23c716a22e93460ac1/sub/rare/port_44.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/60898f780410d6bdb59d8c23c716a22e93460ac1/sub/rare/port_444.txt
+https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/8788f0123e326795cea8f6d48388f9d016b11f17/sub/port_2093.txt
+https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/8788f0123e326795cea8f6d48388f9d016b11f17/sub/port_2099.txt
+https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/8788f0123e326795cea8f6d48388f9d016b11f17/sub/port_3030.txt
+https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/8788f0123e326795cea8f6d48388f9d016b11f17/sub/port_4890.txt
+https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/8788f0123e326795cea8f6d48388f9d016b11f17/sub/port_500.txt
+https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/8788f0123e326795cea8f6d48388f9d016b11f17/sub/port_5052.txt
+https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/8788f0123e326795cea8f6d48388f9d016b11f17/sub/port_7710.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/9851a0f63e5284387321645047eeefe390a2d3b5/sub/rare/port_1.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/9851a0f63e5284387321645047eeefe390a2d3b5/sub/rare/port_1198.txt
 https://raw.githubusercontent.com/hamedcode/port-based-v2ray-configs/9851a0f63e5284387321645047eeefe390a2d3b5/sub/rare/port_2280.txt
