@@ -2,15 +2,23 @@ name: VPN Scout Ultimate
 
 on:
   schedule:
-    - cron: '21 * * * *'
+    # Каждые 3 часа в 21 минуту (00:21, 03:21, 06:21, 09:21, 12:21, 15:21, 18:21, 21:21 UTC)
+    - cron: '21 */3 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# Блокируем параллельные запуски - новый ждёт завершения предыдущего
+concurrency:
+  group: scout-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   scout:
     runs-on: ubuntu-latest
+    # Жёсткий лимит 30 минут - чтобы не висел часами
+    timeout-minutes: 30
 
     steps:
     - name: Checkout repository
@@ -24,17 +32,13 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: |
-        pip install aiohttp
-        # requests убран, так как скрипт его не использует
+      run: pip install aiohttp
 
     - name: Pull latest changes (Sync)
       run: |
         git config --global user.name 'VPN Scout Bot'
         git config --global user.email 'bot@noreply.github.com'
         git pull origin main
-        # ВАЖНО: Сначала обновляем базу, чтобы скрипт видел последние ссылки
-        # и не добавлял дубликаты, если сработал другой запуск
 
     - name: Run Scout Logic
       id: scout_step
@@ -42,22 +46,16 @@ jobs:
         GTA_TOKEN: ${{ secrets.GTA_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         HF_TOKEN: ${{ secrets.HF_TOKEN }}
-      run: |
-        python scout.py
+      run: python scout.py
 
     - name: Commit and Push changes
       run: |
-        # Добавляем только измененные текстовые файлы
         git add *.txt 2>/dev/null || true
         
-        # Проверяем, есть ли изменения для коммита
         if git diff --cached --quiet; then
-          echo "No changes to commit. Exiting."
+          echo "No changes to commit."
           exit 0
         fi
         
-        # Создаем коммит (сообщение по умолчанию, т.к. скрипт возвращает только кол-во)
-        git commit -m "Scout Automatic Update $(date +'%Y-%m-%d %H:%M:%S')"
-        
-        # Пушим изменения
+        git commit -m "Scout Update $(date +'%Y-%m-%d %H:%M:%S')"
         git push origin main
