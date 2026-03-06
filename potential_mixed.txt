@@ -276,6 +276,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9986ea741740494512390
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99b9fce0e21798556f30f55adbba043f9957a5bf/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/99c6c20d90bf67acdabe19bb810827b77c5eff11/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9e7c829b85b0869837d8c1fa8e508e9a7cf686fb/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/a2337b2ec23aaef52566524da8d3ef7dbe961033/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/a336f3eaa43e9ddb5825fa166cfc4db3419edc6b/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/aa5fd9757f9db76e2d91a89bfb163e45f092f651/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ae1aecf8879f76a80cf6951e4e5bdb1c48082048/Countries/Italy.txt
@@ -375,6 +376,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d91848f1e546
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/d91848f1e546ad1a802eee66040b61421a12d17c/post_20251201_105923.txt
 https://raw.githubusercontent.com/mahdireignswwe/romanreignsmahdiwwe/ab500a71cc0a48f800a0baf4e50fc2013cf5f30f/1.Telegram.Mahdi-fast-@Roman_wwe.2024.com.json
 https://raw.githubusercontent.com/mahdireignswwe/romanreignsmahdiwwe/ab500a71cc0a48f800a0baf4e50fc2013cf5f30f/automatic.all.server.free.json
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
 https://raw.githubusercontent.com/mick303/ysbag/704e1d2bc0993d788ec68d0d9e1c891814587044/singbox/kulaosub.json
 https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/bbcd42f0caa9147987ed64f3ce3cfed47de9c466/output_configs/UK.txt

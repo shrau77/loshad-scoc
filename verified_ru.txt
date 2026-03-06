@@ -28,6 +28,7 @@ https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/6d412eba1b373f9a189c
 https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/768821f13a8332444a64bae95b59c851b9364e02/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/0a5a55d675de044e4e9cfc33e7132086c3201bbc/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/1c2b90cdbff5da31758c908e3eab69fe7dac1e40/output_configs/Russia.txt
+https://raw.githubusercontent.com/10ium/dedup-configs/51005a7c79aebaf51e44df34a658f84c787e7fb3/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/675a2a32cced09714efb9e418d7985831eba0597/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/82c157302133db3a2fe5051682f861bee9db5e4c/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/8ce0ba2b563b7c0a00a70389271f8dfd1ee144d6/output_configs/Russia.txt
@@ -715,7 +716,9 @@ https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/dc6964924db49dacfbfd
 https://raw.githubusercontent.com/Lom-666/wot-lom.github.io/e5c0a03876cee857167612e76657fc807af56b09/LomConfig/filtered_export.json
 https://raw.githubusercontent.com/LowiKLive/BypassWhitelistRu/refs/heads/main/WhiteList-Bypass_Ru.txt
 https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta6.txt
+https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyaktestru.txt
 https://raw.githubusercontent.com/MohsenReyhani/vless-subscriptions/a4bf5e9a0111522b547e7c87c57990660f198627/sub.txt
+https://raw.githubusercontent.com/Niyakwi/Vpn-config.txt/main/VPN.txt
 https://raw.githubusercontent.com/OZRED/vless/01316f8aed8b16c610105c2ef4c037bdc26f5c3f/ozred_bot
 https://raw.githubusercontent.com/OZRED/vless/0e9d7db80122d54fc3ce57a8f2cec83254f6525a/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/1b64f86b0644c9962d8eb04c339bbd1f34ffb48c/wubbalubbadubdub
@@ -949,6 +952,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/8e49665c1af6a12837032
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9149fd9497eedd5ce090650d8c84a5ce21ca6cae/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9149fd9497eedd5ce090650d8c84a5ce21ca6cae/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/9da114ec95c3c74f33b2ef8b14f3b2669eb61dfe/Countries/Russia.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/a2337b2ec23aaef52566524da8d3ef7dbe961033/Subscriptions/Sub24.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/a32900cb3b07a614200b7b888970d2684e6165a4/Subscriptions/Sub24.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ad0ffa6afbecb3cc628db70eb0bd1ec3e4ca5d03/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/ae1aecf8879f76a80cf6951e4e5bdb1c48082048/Subscriptions/Sub1.txt
@@ -992,6 +996,7 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/70ef7fa0f58f8ea9dcca694a
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/80fd1b403dbba85ae3fea7385133e9e5ef103edd/reserve_pool.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/80fd1b403dbba85ae3fea7385133e9e5ef103edd/stats.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/81c465250a1e6edb88fd1596aa07d79d2b764356/reserve_pool.json
+https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/8738d577adc478c58f85078b15d5452a6fa05760/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/87ebcaa0acfe1572dac07ef14daa3b0b282a856c/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/8c9c4a4a896c32ddced0de93cda1a493804b1493/reserve_pool.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/8c9c4a4a896c32ddced0de93cda1a493804b1493/stats.json
@@ -1015,6 +1020,7 @@ https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/a5ece10ea5f97c5aed6
 https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/f9631d3dc43e1f2282da77f2104c093dd181c703/v2ray_configs_no7.txt
 https://raw.githubusercontent.com/V2RayRoot/V2Root-ConfigPilot/ba71d2bd5881e03593b8c704fd318d9d1febcf5f/output/BestConfigs_scored.json
 https://raw.githubusercontent.com/VPNclient/VPNclient-app/a66cadae3ae6d1b17117b35687b9cfd4c0588bef/lib/pages/main/main_btn.dart
+https://raw.githubusercontent.com/WhitePrime/xraycheck/0e9e710d9a105d9c056bd0b3a67d595425d41034/configs/white-list_available_st
 https://raw.githubusercontent.com/WhitePrime/xraycheck/26450a2457a48a55fa75417ade9bf7959605b18c/configs/white-list_available
 https://raw.githubusercontent.com/WhitePrime/xraycheck/412e5dc71a84dbc40ca5a731c9917f384e9e94ab/configs/white-list_available(top100)
 https://raw.githubusercontent.com/WhitePrime/xraycheck/6abd32bd1a68ae8f7b0358401a8da8dd9bffe444/configs/white-list_available
@@ -2111,6 +2117,7 @@ https://raw.githubusercontent.com/sinavm/SVM/7381f6c2ce82aa4a95da580e63a3fdf4815
 https://raw.githubusercontent.com/sinavm/SVM/781867ae282e4669ed850f3fcaf4d15ada6e68e1/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/7b6de2f17079c8956e80765f29e85ed8c6f4f2d8/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/7c216bcdb2af7e73a5a0686997b866b786e1b0a2/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/87d656b0e73cc2b5bb3d40afe4be724277e4f09c/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/87e30bca45fbad625e8637743cc8dfab198fd590/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/8e3a06456adf7df30e45b28fa7c4c7fab769260e/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/96c00d68a6a1a4aa0225785c7161f85f072eec09/reports/invalid.txt
@@ -2206,6 +2213,7 @@ https://raw.githubusercontent.com/vpnineh/config/4df47d5d1f3b8a7908c6364723751c3
 https://raw.githubusercontent.com/vpnineh/config/583f62d32bfa0c51edb84410b9132b2173826afc/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/5de66b36f7bc4af305e352f88effedbdad2e116a/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/5f614925c8c7ae8cd50c073d6088e7ea3dc2fa48/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/vpnineh/config/620f1abfcaa991a2c9477bf4df55568b2fd3b630/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/67c305acfc3dcff3055f3701294707c551f07008/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/6a4819da1e022f416154fb2ee2735d58a3a034e9/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/vpnineh/config/6f0d1bf66b8d5db45078981cc6d9efb496026e12/sub/datacenters/Cloud.ru.txt
