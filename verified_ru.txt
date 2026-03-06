@@ -291,6 +291,8 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fbf8291ff5c8d0d7b306d510700
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fbf8291ff5c8d0d7b306d510700c435febafd0d7/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fbf8291ff5c8d0d7b306d510700c435febafd0d7/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fc496efac44bc766943a60c535a9fa6e3d62b66c/data/sub/countries/RU.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fdc4758bac83399a3335c0f087787d7c7ac22fe5/data/sub/channel_subs/V2RAY_VMESS_free.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fdc4758bac83399a3335c0f087787d7c7ac22fe5/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/ff0b5c85dcfcfdfde93a9b0f80b1f045861113de/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/00b621c2fa6d246730ad8f1743713fd946b4da50/configs/Latvia.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/1f54206f7e377fbae63018321098dc59306f5599/configs/Turkey.txt
@@ -646,6 +648,7 @@ https://raw.githubusercontent.com/FoKey-Junior/Telegram-Store/ab217ae74848f98e8d
 https://raw.githubusercontent.com/Ganjabady/XC/00722a740b6610136bc8742f5acbbbcbc747f1ac/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/00722a740b6610136bc8742f5acbbbcbc747f1ac/subscriptions/regions/IQ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/05a1f3bc0230c67e3454cd9bda8c3e31c96b7ea5/subscriptions/regions/HU.txt
+https://raw.githubusercontent.com/Ganjabady/XC/05dfd84c7ed39c450b16af0e893875cf2e6d59b4/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/05ee01ca449a669c03537ac7ae4945e72f6d6dc2/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/11b3312c6646e7bb49e65a3a98c56b79b0233689/subscriptions/regions/HU.txt
@@ -757,6 +760,7 @@ https://raw.githubusercontent.com/OZRED/vless/51aa1db97bb5cc01dbcb79db4e8c7e9584
 https://raw.githubusercontent.com/OZRED/vless/52b47dc807fd4fb0358263e9860825c7229c5c31/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/5c91b43481ec37d9c6bddce60f9d0374596ec2d2/ozred_bot
 https://raw.githubusercontent.com/OZRED/vless/5c9ee793529af7c6262d46588c1963d445aa6bfc/wubbalubbadubdub
+https://raw.githubusercontent.com/OZRED/vless/5f1316dfafec7fc94dd820e953c7b9fe02fef27e/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/64001735c8d39ed20c3d51da03d118fa0ce632b8/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/6427efa1a1bb361f6acba24ff188a61a7e29ef46/ozred_bot
 https://raw.githubusercontent.com/OZRED/vless/6427efa1a1bb361f6acba24ff188a61a7e29ef46/wubbalubbadubdub
@@ -932,6 +936,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/03bdb2c3900ede85267bb
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/06c9cc7e35464afab145d4650bf26bec0e2bbde6/Subscriptions/Sub28.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/083e47fbf473a03bbcd4c3af32cfb811df0ea999/Countries/Russia.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0e941230b0b41c5fa245cfef98cce8990202d080/Countries/T%C3%BCrkiye.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0f3fbfb6f231b29302b54160c52dd9e8d5769c33/Countries/Switzerland.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/147769c7be6926dbb5af21d2e7ef60bf6d406111/Countries/Switzerland.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/26a5695827b66f5e4776b1c416778fc93cf688d1/Countries/Hungary.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/26a5695827b66f5e4776b1c416778fc93cf688d1/Countries/T%C3%BCrkiye.txt
@@ -1046,6 +1051,7 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/a2964086a79b80bcbee0caaf
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/b52c210d7f1a5a048abe066091aa37469515ecc7/stats.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/be293eedf31410c249c4793fac06d1210371f072/reserve_pool.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/be4488d456c0847cba5abb1e40d6314edb4014a7/main.py
+https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/c670a7c085230524fa00b832ea9c3f844e7a6e53/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/d9e9fda01b90821b6a14816cb8861d9be4d7f584/stats.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/da4dcb9c8eedb3358d5dba98232b02b26d686f52/stats.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/dcd17c012ac287e509d41bd4511bc380622f9980/reserve_pool.json
@@ -2114,6 +2120,7 @@ https://raw.githubusercontent.com/sakha1370/OpenRay/ef90fa8188e7c0f24270dd227031
 https://raw.githubusercontent.com/sakha1370/OpenRay/ef9e469d77b51460d66b446f0e4d9bec3e701a16/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/f07e98d891c88dba168d363b77aed93561eda1b2/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/f1964983a55f01771fee861f5617694ac15272a4/output/country/RU.txt
+https://raw.githubusercontent.com/sakha1370/OpenRay/f24f7ecbb553799f6a6ba1382613279d4c576a35/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/f27870ff72ee51424e466be012d454dab62edf58/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/f31cdf14d918ee2e7975f19abfd4fee7de128770/output/country/RU.txt
 https://raw.githubusercontent.com/sakha1370/OpenRay/f342eab8b88ab0c4c8c31c27757bbc76f738cd7d/output/country/RU.txt
@@ -2190,6 +2197,7 @@ https://raw.githubusercontent.com/sinavm/SVM/7381f6c2ce82aa4a95da580e63a3fdf4815
 https://raw.githubusercontent.com/sinavm/SVM/781867ae282e4669ed850f3fcaf4d15ada6e68e1/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/7b6de2f17079c8956e80765f29e85ed8c6f4f2d8/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/7c216bcdb2af7e73a5a0686997b866b786e1b0a2/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/7db18a08ea2053a478ef620cc7918347e1859341/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/83da1f3e1b6adc4517a53c7ab2c37b0d565420f7/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/87d656b0e73cc2b5bb3d40afe4be724277e4f09c/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/87e30bca45fbad625e8637743cc8dfab198fd590/reports/invalid.txt

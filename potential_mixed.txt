@@ -14,12 +14,15 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/96e4165e6668ed21e0bd3a68e3d
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/9b260dce9010ffc4f73f9e12c17b231052720503/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a5fb5f3baed6f3933a7f910b68bf49323b0a0045/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a60c10ea0a198a482e0a0c5bb15703f97855eaad/data/sub/datacenters/AROSS-AS.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/fdc4758bac83399a3335c0f087787d7c7ac22fe5/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Country/Russia.txt
 https://raw.githubusercontent.com/Asyny-big/vpnys-bot/654fdf648596a0921f81acddb741c926bd021f1c/fast-servers.json
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-country/Russia.txt
 https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/6f78fe13bfcf122790a79ca2edd4d14850356c5a/Tested_Servers/Channels/gh_v2rayng.txt
 https://raw.githubusercontent.com/Ganjabady/XC/00722a740b6610136bc8742f5acbbbcbc747f1ac/subscriptions/regions/LA.txt
 https://raw.githubusercontent.com/Ganjabady/XC/05a1f3bc0230c67e3454cd9bda8c3e31c96b7ea5/subscriptions/regions/UZ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/05dfd84c7ed39c450b16af0e893875cf2e6d59b4/subscriptions/regions/IQ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/05dfd84c7ed39c450b16af0e893875cf2e6d59b4/subscriptions/regions/LA.txt
 https://raw.githubusercontent.com/Ganjabady/XC/05ee01ca449a669c03537ac7ae4945e72f6d6dc2/subscriptions/regions/IS.txt
 https://raw.githubusercontent.com/Ganjabady/XC/05ee01ca449a669c03537ac7ae4945e72f6d6dc2/subscriptions/regions/UZ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/0c94d05e4a3cfd669524dfcca5e3ba153fa2251f/subscriptions/regions/IS.txt
@@ -184,6 +187,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/830edbc306234abd08296
 https://raw.githubusercontent.com/Kolandone/v2raycollector/845385cc6a8a90482b9a81edf7ef004731446b8e/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/8c55129398e86fe049735d029e17c6aec4d5672c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/8e4de8f5e83b970ced780dcd6f7c30a0cf9a2132/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/8f600442d844048a21ddee072efbbc9b371b760f/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/90508190749c2a2557351a2b701bad6c47a0ca6a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/970761bf83a6b9933fa7d9a5381f7a77776a2370/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/97701b17429c96a232aca9893ef0bd3066196251/vmess.txt
@@ -248,6 +252,7 @@ https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/099612c6b76f0c58e7c343d98cbfa99cfb2621df/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0a7f959328d6c98a9d3f36907382108886092b65/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0e14ca0ecbf0b829cfffcfb5ac8502594ef68249/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0f3fbfb6f231b29302b54160c52dd9e8d5769c33/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/147769c7be6926dbb5af21d2e7ef60bf6d406111/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/166d52709b272920832270b53a3682ae6c545cac/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/177275c36ebeaf8a07e4603f94b0f445f65e5360/Countries/Italy.txt
@@ -409,6 +414,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/38b566a1a26f00e4f0f0f8b28ffb10543220ecaa/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/3fbcc17c6b208273c622cc3e4a8c8de1da7b3d46/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/638afb0ed513a6ac95612fbbaf6ddb2992e5df59/category/Uruguay.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/83194000156b312d647af39bc250be4c24d07865/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/89fff6bfce41ef24a23023cff18e9a7af14ec915/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/aa365fb85e6d42a670b08e9a8a07959435bdfa89/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/f0f7e22e12b804fb584a201c8e3bf29bee1b3cc4/category/Uruguay.txt
@@ -470,6 +476,7 @@ https://raw.githubusercontent.com/shabane/kamaji/0f73053b953dd4e33e827b2b7f7f985
 https://raw.githubusercontent.com/shabane/kamaji/1be5f533a6e0d3529eeaf6fac127f839517c98b6/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/26ba6dde0b3ec9c7c063274ff0dd0fef278ff93c/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/44b767e9e5e79c71c3cc8ac45060aa82e55c9e10/hub/tested/IN.txt
+https://raw.githubusercontent.com/shabane/kamaji/55230ef288bb4a953c6451fe8c3c654f68fb95cc/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/63962239f8ab2dbdd5af8e31e65a578c24a40d12/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/6f0302e4a903244288a8aa65fde8b79a2a7bd075/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/706ef591bde93a9121416ae806dc49e4f2849808/hub/tested/IN.txt
