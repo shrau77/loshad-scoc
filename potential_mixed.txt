@@ -325,6 +325,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/50dcce48b9e1aa98e5b6a
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/544e8544a91e7af41007f60671386f5f237b192f/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/56f357805eb48b2aaf26a2545a12474d69f9aa7d/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/57e68620465be04fb2caff5b1b057388f25992a3/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/589c0ede9a6500b1a73cddaadb46fbf72210ab26/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/59c5e59d029c77506ee78d828d6d1e7a9a88322e/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/59c5e59d029c77506ee78d828d6d1e7a9a88322e/Subscriptions/Sub1.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/63383dc00e14d1c01c41f645fdfa9a027be99fd5/Countries/Italy.txt
@@ -414,6 +415,7 @@ https://raw.githubusercontent.com/dimzon/scaling-sniffle/59a9fd7cea4d1e9d6e01ef2
 https://raw.githubusercontent.com/dimzon/scaling-sniffle/59a9fd7cea4d1e9d6e01ef21641c19361052167a/tv.lst
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/06b73f5dfa68a1dc0c02884e690864bac4fd62c5/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/11ab6556c019ab266e5ac6bf4f4f9e2a3ec49f2e/nekobox.txt
+https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/68135dab1c081ed80648fe4a587d94bf36db6d03/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/a6075fdb9e2d1cd7c0a9eee6fbbb886d1f92ffcc/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/ed200bbbea1a9cc5cfea8b7632a110df7f244fc7/nekobox.txt
 https://raw.githubusercontent.com/firefoxmmx2/v2rayshare_subcription/main/subscription/vray_sub.txt
