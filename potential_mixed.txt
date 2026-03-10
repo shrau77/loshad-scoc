@@ -393,6 +393,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c4ff2cec78a2ff8187c73
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c6ffd107837244c613f717ac9693839da3d8998e/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/d33fe321174364921487591d70ec07051bffaa04/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/d579c553d8095f40da1f0ab71b475470193f2428/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/d5dd274566ef698e03540737f50256e0ed88b528/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/df880bc328c5c35f8ae41158687e05c63cf5a5e2/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/dfec932efae7506ee827fda302cc2dccc7521f16/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/e0ff7048fb132ecb3013612071c5deebeccb0847/Countries/Italy.txt
@@ -443,6 +444,7 @@ https://raw.githubusercontent.com/dimzon/scaling-sniffle/59a9fd7cea4d1e9d6e01ef2
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/06b73f5dfa68a1dc0c02884e690864bac4fd62c5/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/11ab6556c019ab266e5ac6bf4f4f9e2a3ec49f2e/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/4461f0ddb2018218184fb89d49fb850d0387fc8c/nekobox.txt
+https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/5b38de2ec721724e179d64ad0cb034ea7a13f101/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/68135dab1c081ed80648fe4a587d94bf36db6d03/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/940c5f987d5110bc5b721057a61b2c2408481bdb/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/a000524957a2ce68c9100a5b01b3f67190ca4a3e/nekobox.txt
@@ -800,6 +802,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/ab1b43360b3851a4d2cd173cc3163e
 https://raw.githubusercontent.com/whoahaow/rjsxrd/ab1b43360b3851a4d2cd173cc3163ef278e068f9/githubmirror/default/2425.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/ab1b43360b3851a4d2cd173cc3163ef278e068f9/githubmirror/default/2433.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/ab1b43360b3851a4d2cd173cc3163ef278e068f9/githubmirror/default/2444.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/ab1b43360b3851a4d2cd173cc3163ef278e068f9/githubmirror/default/2545.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/ab1b43360b3851a4d2cd173cc3163ef278e068f9/githubmirror/default/2556.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/ab1b43360b3851a4d2cd173cc3163ef278e068f9/githubmirror/default/2691.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/ab1b43360b3851a4d2cd173cc3163ef278e068f9/githubmirror/default/2802.txt
