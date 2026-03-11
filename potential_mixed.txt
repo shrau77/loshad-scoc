@@ -351,6 +351,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0a7f959328d6c98a9d3f3
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0e14ca0ecbf0b829cfffcfb5ac8502594ef68249/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0f3fbfb6f231b29302b54160c52dd9e8d5769c33/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/147769c7be6926dbb5af21d2e7ef60bf6d406111/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/1621bdbffbc592760569a9f0f249d4197056fe4d/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/166d52709b272920832270b53a3682ae6c545cac/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/177275c36ebeaf8a07e4603f94b0f445f65e5360/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/1802ff633d65bb55fe9dd91b0272c263107e922d/Countries/Italy.txt
@@ -457,6 +458,7 @@ https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 https://raw.githubusercontent.com/callmeEBi/VPN/09f197ed1fe83aec530e2a5f49dd0b2c252b73d0/normalYT
 https://raw.githubusercontent.com/chochoo77-crypto/freev2/1f49d0b22b7e0a5b99de2fb3adf31ef3a0b6061a/site.json
 https://raw.githubusercontent.com/chochoo77-crypto/freev2/46020dc6212f7d00823f1e7bdb377a63fe7a5cf5/100.json
+https://raw.githubusercontent.com/chochoo77-crypto/freev2/571e3bb4610ac388d05681f3bc12ff7a3f3458a0/site.json
 https://raw.githubusercontent.com/chochoo77-crypto/freev2/8c718d3dc3fe30cf3999bac6a7953ab76f66e24b/site.json
 https://raw.githubusercontent.com/d1mdev/adblock/107fc73ab407d1eb1f06e1f902d4fde4ad9e2be2/vless.txt
 https://raw.githubusercontent.com/d1mdev/adblock/3117f3e7e7a9dc85bd7eaa3acb15a97f6685d4ce/vless.txt
@@ -565,6 +567,7 @@ https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/bca15f6cfc4
 https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/c2134b1764a4c44c5b71214087e06318e8d26db4/output_configs/UK.txt
 https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/d053d92abd0924d45435342638889a1ef216c6e2/output_configs/UK.txt
 https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/ea070c4e84bd095325438bbb770763f58fd22dad/output_configs/UK.txt
+https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/ed91fb7f91786d0748342e3a8a441b4ac69fc2ff/output_configs/UK.txt
 https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/f931054a982dc769974e3f2964f4178a48846fb2/output_configs/UK.txt
 https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/f98a068cf2fb1de99f138e9fa2c387c5233ec436/output_configs/UK.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/037eaeac4586c8dd567b9b49e74b78b9c5807ada/category/Uruguay.txt
