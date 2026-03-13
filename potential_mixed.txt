@@ -395,6 +395,7 @@ https://raw.githubusercontent.com/M-logique/Proxies/2e597259507e6bb5637b3398e98b
 https://raw.githubusercontent.com/M-logique/Proxies/389c6b457940c84b8aa58698579d7e96de02bb47/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/4c03de293e50adead489d2624f4de45d288ac422/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/6bbc6a8524952ae9697d6e20926e9a9f8bc36ec4/proxies/byLocation.json
+https://raw.githubusercontent.com/M-logique/Proxies/9aff5f1a72608a4c0345003bdeca37fd489ed0b6/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/b959b795cadd963a6c4777a90c12f3554660f697/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/d1a2bdf99b215eaada587fe59d41877542759bcd/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/e3350b87467fd1e2edbdeba7d135865bab5e2ad7/proxies/byLocation.json
@@ -456,6 +457,8 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/6bdf3a105b2554e1b3701
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/6e56467e679150a5648c6a3e6b8f54940f157a92/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/70227a5892abc756f2128c596fc889bcb3bbf45a/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/70867a4902815cb784bc375bdfa5456646ffbd28/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7217b1075ae3f87abdcee7b90c5d217ea56741ef/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7217b1075ae3f87abdcee7b90c5d217ea56741ef/Subscriptions/Sub1.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/74b185cf40bd7e155edc9f4e3e5efb0b49131ca1/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/7595b1533229e5af3a35faaa7a88fb5be2619ca7/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/793b7c5df3e83cab9ad9a6627974190a88ccd457/Countries/Italy.txt
@@ -707,6 +710,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/a8b67500259d5070f8fffdaf71b950c162242b8b/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/aa365fb85e6d42a670b08e9a8a07959435bdfa89/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/ae6fc50e33a6f553eb3441d069567c446cfe7702/category/Uruguay.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b43bde7ad6baaf0128829f30d92836d770159fba/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b521336c173fa061539961bb25a916dcd993b957/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/b6d5f8c0d7df233edc5770bbf4d340f849648da3/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/ba8a0f060d9eeeff25e2cc43e5e3c885c43f2808/category/Uruguay.txt
@@ -846,6 +850,7 @@ https://raw.githubusercontent.com/shabane/kamaji/eea64a677f888c2dde204566c95a924
 https://raw.githubusercontent.com/shabane/kamaji/f78e372cf8f68ef3e648dc137787803524218d96/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/f84229d4aee4e850939cfc3c8545da7e532da606/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/fbf9772af49527106499de8eb24ad44c82dc10a5/hub/tested/IN.txt
+https://raw.githubusercontent.com/shabane/kamaji/fc92512d5de80b9a6bbdf81b0f5ecc73396a8fe9/hub/tested/IN.txt
 https://raw.githubusercontent.com/shirazipooya/link/88127971bf0b0ae73423371467e9f953ba6c132d/Reality.txt
 https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
 https://raw.githubusercontent.com/tahmaseb73/V2RayScrapeByCountry/427b0de06be85ea28c331fcd152aa74fe8ca08a0/output_configs/Ukraine.txt
