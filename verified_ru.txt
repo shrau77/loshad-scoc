@@ -29,6 +29,7 @@ https://github.com/zieng2/wl/raw/main/vless.txt
 https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/2180ed60ed5a1d6bf23558899bfc35f70a4a9c11/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/6d412eba1b373f9a189ceb1e04435cf0b547eb7a/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/768821f13a8332444a64bae95b59c851b9364e02/output_configs/Russia.txt
+https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/e1c5707c4fd0f820e211db0e029a5bc8a6f3bb1b/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/0a5a55d675de044e4e9cfc33e7132086c3201bbc/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/1c2b90cdbff5da31758c908e3eab69fe7dac1e40/output_configs/Russia.txt
 https://raw.githubusercontent.com/10ium/dedup-configs/51005a7c79aebaf51e44df34a658f84c787e7fb3/output_configs/Russia.txt
@@ -931,6 +932,7 @@ https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/05a6ea37815f71fe9b
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/05a6ea37815f71fe9bb42f770362f4082b3080fa/kr/mob/wifi.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/0c48d1e171b532e0931e497e3878e8ac9e6e4f42/kr/mob/mob.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/0c48d1e171b532e0931e497e3878e8ac9e6e4f42/kr/mob/wifi.txt
+https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/15482c7121e07bc0d9aa1649428c62c16e775839/kr/mob/mob.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/211e55be59a688dbbd6093089de88729ff41ec33/issue_body.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/211e55be59a688dbbd6093089de88729ff41ec33/kr/mob/mob.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/2235b30235d8f71bb970e847a233cae8c28d2fdb/kr/mob/mob.txt
@@ -941,6 +943,7 @@ https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/330409ffb629816333
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/4f0225071fc1c5101b529071cab72df15d276051/kr/mob/mob.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/69e8582226d526cf2669644fe3de13757ee2c7e9/kr/mob/mob.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/69e8582226d526cf2669644fe3de13757ee2c7e9/kr/mob/wifi.txt
+https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/7ba900a97fff1ac0aeed0302d2491fd75145c81b/issue_body.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/844da12e445caccb153bb630eca7b9f1a0e11c4f/kr/mob/mob.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/89a60f97bbf32eb7ee013c7f69dcb287af958ca9/issue_body.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/89a60f97bbf32eb7ee013c7f69dcb287af958ca9/kr/mob/mob.txt
@@ -1270,6 +1273,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5a61b28057e0946eb0bc4
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5b6e78a29ae145d60c3a7af382777a9851801e14/Countries/Switzerland.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5b78723d3a1eb72ca49b775c02671aca7217c3ac/Countries/Albania.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5badd950038e96fb490b9866cdb1f17611415a84/Subscriptions/Sub25.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5baf6bc86754eb5d2b61496f70538281885dccf2/Subscriptions/Sub26.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/62024859713a2f2584adda65cdd6e168d46c66d6/Subscriptions/Sub15.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/63383dc00e14d1c01c41f645fdfa9a027be99fd5/Subscriptions/Sub25.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/636c2f04989c7c2f0d24b05f8cef4906dfe06e16/Subscriptions/Sub25.txt
@@ -1399,6 +1403,7 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/a8a08f0f8dd8cc810802b89a
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/a98e61429592e367eb4bb802ee75d3b2205db883/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/b1b0904ef0af357a1f6f99a15f8a69b9738db267/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/b52c210d7f1a5a048abe066091aa37469515ecc7/stats.json
+https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/b716f7e8eaa7c4dca573db12a5795e67d19f785b/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/be293eedf31410c249c4793fac06d1210371f072/reserve_pool.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/c3caa152fe6d5f76ff3b05d6b7973c4860991742/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/cd1719ce47934b671c7b33e6ef6d438eb36dfe58/main.py
@@ -2937,6 +2942,7 @@ https://raw.githubusercontent.com/sinavm/SVM/e325f548cd124cbd571d6b99208527a32a6
 https://raw.githubusercontent.com/sinavm/SVM/e35a51c303250cecb11548923cbe77389bbbde3c/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/e3cfb3abf498e631bdc07ca391ad0f51d2f80207/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/e4b8a048d322f7dd5eb0d293cde755d62e612394/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/e54d6995035f0669af8d5ded1ff3212511186b3c/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/e5866e13adffd52ae62279f86dc58681079ce52f/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/e60287c81a3a7953d964a62784e739da78d209df/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/ecc094b762212c3c982640aa0863bf77a7cfe212/reports/invalid.txt

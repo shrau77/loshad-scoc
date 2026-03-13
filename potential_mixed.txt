@@ -360,6 +360,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/cc47376f53bad2985bac4
 https://raw.githubusercontent.com/Kolandone/v2raycollector/cecd3f68f9e7d911ab0cd0421dc1be0f1f862e50/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/d06cb1e027c97b7474e219c4c30503eca0191bf7/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/d2cf818a66bed7a31d52a77bc97d185d330f31f6/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/d4ddeef1b48510cf200906ff291c9c473d5e73f1/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/d66e3dcfa941341c94bcbc849f591bf3b129baad/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/d97fd327bb5861694c66759b75431b19b9694507/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/ddc7fb96df9a7d6a8120073ab60ca87f5211fd69/vmess.txt
@@ -386,6 +387,7 @@ https://raw.githubusercontent.com/M-logique/Proxies/389c6b457940c84b8aa58698579d
 https://raw.githubusercontent.com/M-logique/Proxies/4c03de293e50adead489d2624f4de45d288ac422/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/6bbc6a8524952ae9697d6e20926e9a9f8bc36ec4/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/d1a2bdf99b215eaada587fe59d41877542759bcd/proxies/byLocation.json
+https://raw.githubusercontent.com/M-logique/Proxies/e3350b87467fd1e2edbdeba7d135865bab5e2ad7/proxies/byLocation.json
 https://raw.githubusercontent.com/MekaSeka/skills-github-pages/fc1e2fdc8866d878dafc85f63b1273c3b05845fa/vless.txt
 https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
 https://raw.githubusercontent.com/OpexDevelop/opexvpn/d0311f3ecb798d021570829f26212f06c3243e16/db.json
@@ -434,6 +436,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/59c5e59d029c77506ee78
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/59c5e59d029c77506ee78d828d6d1e7a9a88322e/Subscriptions/Sub1.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5b6e78a29ae145d60c3a7af382777a9851801e14/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5badd950038e96fb490b9866cdb1f17611415a84/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/5baf6bc86754eb5d2b61496f70538281885dccf2/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/63383dc00e14d1c01c41f645fdfa9a027be99fd5/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/682e770c1742fd6d88cd050b6a3fb9c1cab3c685/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/68b63f3bbc343ecef9b8c0a34933c3c113c87fc4/Countries/Italy.txt
