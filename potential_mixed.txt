@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/22a96cfd45ee9b7538501177f84
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/279fe491fe7a86462f6aa8202efa685cc188504e/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/325dbdc78c191474866759567dcd10555998ce45/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/339e3801352559772513f9730ad861672ae113b7/data/sub/datacenters/AROSS-AS.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/380ec84fc67b09da766d19a96147bf6fdc86cd79/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/4e1f70be352597a89898b7c61a37bca1ccb1a9f0/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/50e86270c9599c43adc2abb63df5873934b743e8/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/56bfb84dffe1c5a29799920d6cd5ead2e47272b6/data/sub/datacenters/AROSS-AS.txt
@@ -166,6 +167,8 @@ https://raw.githubusercontent.com/Ganjabady/XC/927debf09140c918f870ca3aaeafdf7f4
 https://raw.githubusercontent.com/Ganjabady/XC/92c7061322d543f570576a24ec60fee76f80ea61/subscriptions/regions/IQ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/92c7061322d543f570576a24ec60fee76f80ea61/subscriptions/regions/LA.txt
 https://raw.githubusercontent.com/Ganjabady/XC/92f92a585a3348a697cc00abe43d0411e0abe67c/subscriptions/regions/LA.txt
+https://raw.githubusercontent.com/Ganjabady/XC/98b7f06a94202df2ae1d9c1c8464d6b44f671267/subscriptions/regions/IQ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/98b7f06a94202df2ae1d9c1c8464d6b44f671267/subscriptions/regions/LA.txt
 https://raw.githubusercontent.com/Ganjabady/XC/a5bbd96e3ca22ff0f1fccf07d4540b5b0ec256d3/subscriptions/regions/IQ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/a5bbd96e3ca22ff0f1fccf07d4540b5b0ec256d3/subscriptions/regions/LA.txt
 https://raw.githubusercontent.com/Ganjabady/XC/a6c878691025062d6a572c32e3b15e2b042e4f8e/subscriptions/regions/IQ.txt
@@ -251,6 +254,7 @@ https://raw.githubusercontent.com/Kolandone/v2raycollector/15c5043ccc8962a0b7567
 https://raw.githubusercontent.com/Kolandone/v2raycollector/1883cbfcc41e9d3afbcd87ac4f7c8482a0e2a52c/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/195fb4075e1ccb6a7265f938137ac498f3364507/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/1993079cdd9ab9b496056c950847ac3d0c77b6c6/vmess.txt
+https://raw.githubusercontent.com/Kolandone/v2raycollector/19cb896accbf8db9ef9287e0a75bbd9d7b24c60b/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/1e174f5971b006b68a544147d605fdfc5e1d6e0a/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/1f7b249de8855e27933e99a34a27d8e401486324/vmess.txt
 https://raw.githubusercontent.com/Kolandone/v2raycollector/21c6fedaf63486aa5d2f6e3f9c19aa9e5f22d69e/vmess.txt
@@ -381,6 +385,7 @@ https://raw.githubusercontent.com/M-logique/Proxies/2e597259507e6bb5637b3398e98b
 https://raw.githubusercontent.com/M-logique/Proxies/389c6b457940c84b8aa58698579d7e96de02bb47/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/4c03de293e50adead489d2624f4de45d288ac422/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/6bbc6a8524952ae9697d6e20926e9a9f8bc36ec4/proxies/byLocation.json
+https://raw.githubusercontent.com/M-logique/Proxies/d1a2bdf99b215eaada587fe59d41877542759bcd/proxies/byLocation.json
 https://raw.githubusercontent.com/MekaSeka/skills-github-pages/fc1e2fdc8866d878dafc85f63b1273c3b05845fa/vless.txt
 https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt
 https://raw.githubusercontent.com/OpexDevelop/opexvpn/d0311f3ecb798d021570829f26212f06c3243e16/db.json
@@ -473,6 +478,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c2d924ff6aee9483cb3a6
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c4ff2cec78a2ff8187c731ff074c98510d227acb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c6ffd107837244c613f717ac9693839da3d8998e/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c9a5f491d595d87abe722a81b3d82409ae5438ba/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/c9bfd8ec67f49fbadc4844d06d5aa1808ab2bee8/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/d33fe321174364921487591d70ec07051bffaa04/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/d579c553d8095f40da1f0ab71b475470193f2428/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/d5dd274566ef698e03540737f50256e0ed88b528/Countries/Italy.txt
@@ -599,6 +605,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/7479b158c0a5
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/844da57675e8d4e994712240473f0f591214ae6b/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/91dde6d4cef955c1667f4698e1aa358567683155/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/a4a30599cc8f904bee6ea8bd14735b2179352345/post_20251028_125023.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/abec52b15d588c30197cd263674fcb4044bb65c3/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/b1e5db693693b37a1d3281c28b779fed70e6e338/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/b213408432dd7074797e18dabc28f3a54b953c34/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/b2d9ea851d8bbc30628c25a219f2396f2e682f58/post_20251028_125023.txt
@@ -686,6 +693,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c2bf272256ca17b9358127f7c63f6d53dd31b6eb/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/d3477407e7d270cdfd90ee77441c6c46054a9a4b/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/d97dedff4b8b179a3cad5e6251cad3cb587fc43e/category/Uruguay.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/e2c9511f202dabaf9871f3e12989d39f5b136322/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/f0f7e22e12b804fb584a201c8e3bf29bee1b3cc4/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/f98f5269ba389a9d30587324d85fdbfc6a96c9c6/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/fad246f4783deb2ce806f563ff3b62930d4b8092/category/Uruguay.txt
@@ -725,6 +733,7 @@ https://raw.githubusercontent.com/nociex/SubSyncForge/9776bdcdcd40900fba564c60b9
 https://raw.githubusercontent.com/nociex/SubSyncForge/a3ddf4a70717fb5c3e385bd3f72308230919299a/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/a746c4644f17ea4387fe79cb0e00fb61f8746522/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/a9d7d9011409f3f7cadfcfb0debf36ae8f3f520d/data/cache/pianyi_cache.json
+https://raw.githubusercontent.com/nociex/SubSyncForge/aab6964933df573816cc2539fddfda723e5e0cf4/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/acb1a906d6c9fd2899069f2aaa2d1e05f8bd8ae9/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/ae1880859a6b722cf16c281c4cfae0a410268c79/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/aef5ecceb7195745e9b4cc9b0f5418d2287a55a6/data/cache/pianyi_cache.json
@@ -780,6 +789,7 @@ https://raw.githubusercontent.com/shabane/kamaji/4c807d43a29bed8065b2b6249df6e6a
 https://raw.githubusercontent.com/shabane/kamaji/55230ef288bb4a953c6451fe8c3c654f68fb95cc/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/62463158d42a8db5476fb6fb5d51d57cd679a9b4/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/63962239f8ab2dbdd5af8e31e65a578c24a40d12/hub/tested/IN.txt
+https://raw.githubusercontent.com/shabane/kamaji/6a1e47e6020e17bcd482a610e96e41f1ed947313/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/6f0302e4a903244288a8aa65fde8b79a2a7bd075/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/706ef591bde93a9121416ae806dc49e4f2849808/hub/tested/IN.txt
 https://raw.githubusercontent.com/shabane/kamaji/73b994cac18f387af46e86a4adeebb74f5eb6c32/hub/tested/IN.txt
@@ -832,18 +842,23 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec0
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/1337.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/136.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/1371.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/146.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/1555.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/156.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/1563.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/157.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/160.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/1695.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/178.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/179.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/185.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/1932.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/1939.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/1944.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/1995.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2149.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2150.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2152.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2243.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2352.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2377.txt
@@ -851,6 +866,7 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec0
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2433.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2444.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2511.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2545.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2551.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2802.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2810.txt
@@ -858,12 +874,15 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec0
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/2919.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/336.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/342.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/347.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/351.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/354.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/36.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/439.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/461.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/518.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/524.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/621.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/798.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/18c58c82345f3588faebf559050ec03f4f498160/githubmirror/default/927.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/28920625b540957a930d1fe3b4a29efecac4a0d4/githubmirror/default/138.txt
