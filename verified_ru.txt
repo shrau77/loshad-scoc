@@ -291,6 +291,9 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b31b1c3cbccf8b5f7a4653d9afa
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b31b1c3cbccf8b5f7a4653d9afa00d2560d52152/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b64a30a5f35a580628cec1d73a72640e112ecb9d/data/sub/channel_subs/V2RAY_VMESS_free.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b64a30a5f35a580628cec1d73a72640e112ecb9d/data/sub/datacenters/LLC_eurodonbas.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b68c7d45b236941e25213d95059596805f6cfbf3/data/sub/channel_subs/V2RAY_VMESS_free.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b68c7d45b236941e25213d95059596805f6cfbf3/data/sub/datacenters/Cloud.ru.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b68c7d45b236941e25213d95059596805f6cfbf3/data/sub/datacenters/LLC_eurodonbas.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b8fca01a1eb6be1b78010f8a3689b996f778d0a4/data/sub/countries/RU.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b8fca01a1eb6be1b78010f8a3689b996f778d0a4/data/sub/datacenters/Cloud.ru.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/badcd5ff689a9494a5036560b0bedcf8c4a561a0/data/sub/channel_subs/V2RAY_VMESS_free.txt
@@ -876,6 +879,8 @@ https://raw.githubusercontent.com/Ganjabady/XC/7235b77b2e958b71e447021ad55c94a2d
 https://raw.githubusercontent.com/Ganjabady/XC/7235b77b2e958b71e447021ad55c94a2def3071c/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/774a39b9a94fb5b9ca4395002fcb4125caa4fff6/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/774a39b9a94fb5b9ca4395002fcb4125caa4fff6/subscriptions/regions/NO.txt
+https://raw.githubusercontent.com/Ganjabady/XC/799100f2c8d975fd8029994db04b10dca3a3d80c/subscriptions/regions/HU.txt
+https://raw.githubusercontent.com/Ganjabady/XC/799100f2c8d975fd8029994db04b10dca3a3d80c/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/7afe621ec1ffd7daa06154205e67351cee478aa6/subscriptions/regions/HU.txt
 https://raw.githubusercontent.com/Ganjabady/XC/7afe621ec1ffd7daa06154205e67351cee478aa6/subscriptions/regions/NO.txt
 https://raw.githubusercontent.com/Ganjabady/XC/7e986ef6523c3aa6c31da4540fdd87f78a803b25/subscriptions/regions/HU.txt
@@ -1023,7 +1028,9 @@ https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/e389450f52caeb5f03
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/eb9031d3fe1615994ba83d61b8529279f6805b94/kr/mob/mob.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/f2707991c8b6a2522d61c4b673c541544a44029b/issue_body.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/f762315958ab450aaaa1ea409c7cee1ee0d6e1dd/kr/mob/mob.txt
+https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/local/fb30585bf083ab33f9c01efaaa56a94988580924/kr/mob/mob.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/mob/4b769300d841c56eba76d4853e695e5839fc83f8/issue_body.txt
+https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/mob/6350089a10da1f62e4bb4fcf976c3a5b0650297b/kr/mob/wifi.txt
 https://raw.githubusercontent.com/KRYYYYYYYYYYYYYYYYYYY/mob/fe44c1e977d63699c2b98fbc941587b46a7b3cac/kr/mob/wifi.txt
 https://raw.githubusercontent.com/KawaiiSelbst/kawaiiselbst.github.io/8b5574b8f04a5aa5f4fb99e6ab6eb7092355002d/sub
 https://raw.githubusercontent.com/KiryaScript/white-lists/06787d760aa4e913d76065271b254fe412723ef0/githubmirror/27.txt
@@ -1075,6 +1082,7 @@ https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizy
 https://raw.githubusercontent.com/MohsenReyhani/vless-subscriptions/a4bf5e9a0111522b547e7c87c57990660f198627/sub.txt
 https://raw.githubusercontent.com/Niyakwi/Vpn-config.txt/main/VPN.txt
 https://raw.githubusercontent.com/OZRED/vless/01316f8aed8b16c610105c2ef4c037bdc26f5c3f/ozred_bot
+https://raw.githubusercontent.com/OZRED/vless/030609a8b12fccebf8c639fbcbfd31bb1d15f86c/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/07f47848d2f08c67029be73f3c2607753d5e4a1b/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/0baa3d92e277d2ee9ac5ce1f46051cc34fc1d79a/wubbalubbadubdub
 https://raw.githubusercontent.com/OZRED/vless/0e9d7db80122d54fc3ce57a8f2cec83254f6525a/wubbalubbadubdub
@@ -1310,6 +1318,8 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/083e47fbf473a03bbcd4c
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0e941230b0b41c5fa245cfef98cce8990202d080/Countries/T%C3%BCrkiye.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/0f3fbfb6f231b29302b54160c52dd9e8d5769c33/Countries/Switzerland.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/147769c7be6926dbb5af21d2e7ef60bf6d406111/Countries/Switzerland.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/1ee51db49ca16a82e5d769065eb90cee60e64dc0/Countries/Switzerland.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/1ee51db49ca16a82e5d769065eb90cee60e64dc0/Subscriptions/Sub25.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/2523fce6fbd8564cbb4c21635e5722919f801eb2/Countries/Switzerland.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/26a5695827b66f5e4776b1c416778fc93cf688d1/Countries/Hungary.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/26a5695827b66f5e4776b1c416778fc93cf688d1/Countries/T%C3%BCrkiye.txt
@@ -1457,6 +1467,7 @@ https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/43f394482b07b07dfca4ee18
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/472c6ec505dedde1d0f7b0a51bcff6970490764a/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/50a755de648c322f66611f17f8f9b073f1ee8c56/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/55255dfe7dba434361dbf8fc666d0a421f1c81e2/main.py
+https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/5595560a6843e56feca6a7a0cdad567e9766553e/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/56afd56a42d0b29cc04ef325ada4c967487692a5/reserve_pool.json
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/59969c1ce98bbbebdc38e33d4e7d879cd2cd659c/main.py
 https://raw.githubusercontent.com/TheFlipper-spec/VPNMY/59c95be0a28a0c0629946196cf69ebc4a0baec50/stats.json
@@ -1784,6 +1795,7 @@ https://raw.githubusercontent.com/d1mdev/adblock/23cde26488042471e5b481615633666
 https://raw.githubusercontent.com/d1mdev/adblock/7d613b337df2d549768e24f04f982d5a0d513f47/vless.txt
 https://raw.githubusercontent.com/danesh1118/Hiddifysyjdykfkykfyjdyjdykdjydweieiwi87165whw667664dhdjuitriii/4827f09d6fe953633254b8d04616d4df74b1f84f/Config
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/15711facc742ca1a8d979ea2a3a34496faadb5ae/nekobox.txt
+https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/25f6f287a16bc1f846c215bba1d5fb1eee9b71bb/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/59809cbe171570594a16b286dd158be5b6bd6c6b/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/5daabf7911068c7f2d33a58eb335e4a9546efe20/nekobox.txt
 https://raw.githubusercontent.com/dinaneq/dinaneq.github.io/a1b590c2893d818bf6f0c7200ab75ff6bf38417f/nekobox.txt
@@ -1818,6 +1830,7 @@ https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/67acd9aa6793e
 https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/67acd9aa6793e9ff91f522db3afb0a40d85b3686/countries/sweden.txt
 https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/694585b94c23b4f3d63fb0fca148daa45ec58c3e/countries/france.txt
 https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/766822d125d19ad0df3ede7ceb5f5757b3ac584b/countries/latvia.txt
+https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/9669629d9792061b39305a2b0d4d201445fe10bf/countries/france.txt
 https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/aca67ac2e456e313b8b31efb479aaa942f1600ef/countries/albania.txt
 https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/ad35ccc426fced4ffc7a44e0b52186af9070eb84/countries/estonia.txt
 https://raw.githubusercontent.com/ginolrewadsb11/studious-umbrella/c104ee40c7dbc93062f8867e3e485f1139b6f7f6/countries/sweden.txt
@@ -2296,6 +2309,9 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/abec52b15d58
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/abec52b15d588c30197cd263674fcb4044bb65c3/post_20251116_203405.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/abec52b15d588c30197cd263674fcb4044bb65c3/post_20251201_105923.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ac631277685c0936c9a75b1c16e309bcf234b29f/githubmirror/new/by_protocol/vless/vless_017.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ac7378a89c1309f39573e1f995ffd80cc58fdc7a/githubmirror/ru-sni-local/vless.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ac7378a89c1309f39573e1f995ffd80cc58fdc7a/post_20251116_203405.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ac7378a89c1309f39573e1f995ffd80cc58fdc7a/post_20251201_105923.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ad6f832c78ac39718930e114f48d062da8b78308/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ae8f888131169b63dca687b7d563f4d3b7423fc1/githubmirror/new/by_protocol/vless/vless_017.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/b0ca902d9de722cc54ab7c0b29962a1398fc2fd7/githubmirror/new/by_protocol/vless/vless_022.txt
@@ -2564,6 +2580,7 @@ https://raw.githubusercontent.com/rtwo2/FastNodes/569936f7fe3d49735a288a508e4722
 https://raw.githubusercontent.com/rtwo2/FastNodes/582d289c1870c6b784e36ac8bc23af6c0b548063/sub/countries/HU.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/582d289c1870c6b784e36ac8bc23af6c0b548063/sub/countries/LV.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/5d3d471c0601686ae303b30f35235a0df645bdbd/sub/countries/LV.txt
+https://raw.githubusercontent.com/rtwo2/FastNodes/6e7866d10a3ca9167940873794f6c61860c2322c/sub/countries/LV.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/6ffb4ef27e04281af209107afa551dade42a435d/sub/countries/LV.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/71da4bf01936eae803c2f711d4079e69a04a920a/sub/countries/LV.txt
 https://raw.githubusercontent.com/rtwo2/FastNodes/7c5c8d6fcc875d0f96f54c2976cbf0f348caba31/sub/countries/LV.txt
@@ -2945,6 +2962,7 @@ https://raw.githubusercontent.com/seknei3/psychic-fiestas/9b476e4abe86c34a2f1546
 https://raw.githubusercontent.com/seknei3/psychic-fiestas/9f19f60a81ad26dcfda6fb8079c84ca0dc3ab00c/countries/sweden.txt
 https://raw.githubusercontent.com/seknei3/psychic-fiestas/a6cd403313c7f0420e4cc92c9bc4a01a339651db/countries/estonia.txt
 https://raw.githubusercontent.com/seknei3/psychic-fiestas/a9d345cdef712c02f003c9eb7fb8a5de26678691/countries/albania.txt
+https://raw.githubusercontent.com/seknei3/psychic-fiestas/b81d72ca1d7ec4b07449ef485a2bfb63f5310cab/countries/france.txt
 https://raw.githubusercontent.com/seknei3/psychic-fiestas/d135308ec252c138ba58f16c58ace6e557df8b91/countries/latvia.txt
 https://raw.githubusercontent.com/seknei3/psychic-fiestas/d135308ec252c138ba58f16c58ace6e557df8b91/countries/sweden.txt
 https://raw.githubusercontent.com/seknei3/psychic-fiestas/d1aa7dcf029241ea1e8345ff93d3979aac67cbf0/countries/france.txt
@@ -2988,6 +3006,7 @@ https://raw.githubusercontent.com/sinavm/SVM/1663933068b9bfc6eac93e2a5e16f804ee4
 https://raw.githubusercontent.com/sinavm/SVM/1911692a6cb88879878d6eb8b3693afa613b8d07/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/1dea49aaaf376873e6b2c3be5502c673437ef88e/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/1ea4e7b79fa1cd6939a32555ce3482d277d179c3/reports/invalid.txt
+https://raw.githubusercontent.com/sinavm/SVM/1f977d1859e536e1812ca6dce1767297f89579a4/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/211ee36d6a42912eab334ae400dcd73172caf3f7/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/23fd0e31bb672d9ca483ac59ea24bc012b743fa1/reports/invalid.txt
 https://raw.githubusercontent.com/sinavm/SVM/24891992ed7cf545537b9fdd2acbec6b9a1075d4/reports/invalid.txt
@@ -3639,6 +3658,10 @@ https://raw.githubusercontent.com/whoahaow/rjsxrd/255c4f5c88f3ecf622f2494bc0d57b
 https://raw.githubusercontent.com/whoahaow/rjsxrd/255c4f5c88f3ecf622f2494bc0d57b72cd0a8e03/githubmirror/default/48.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/255c4f5c88f3ecf622f2494bc0d57b72cd0a8e03/githubmirror/default/50.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/255c4f5c88f3ecf622f2494bc0d57b72cd0a8e03/githubmirror/default/51.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/26f87259860f8344691d349fb53ea824a909ca42/githubmirror/default/139.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/26f87259860f8344691d349fb53ea824a909ca42/githubmirror/default/161.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/26f87259860f8344691d349fb53ea824a909ca42/githubmirror/default/1740.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/26f87259860f8344691d349fb53ea824a909ca42/githubmirror/default/2915.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/28920625b540957a930d1fe3b4a29efecac4a0d4/githubmirror/default/110.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/28920625b540957a930d1fe3b4a29efecac4a0d4/githubmirror/default/118.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/28920625b540957a930d1fe3b4a29efecac4a0d4/githubmirror/default/120.txt

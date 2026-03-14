@@ -53,6 +53,7 @@ https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a69fac0c278aa3d92a4c82280ee
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/a918b7d619b34b5f02bd84e36f0debad7279bf18/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/ac9fe467ee40561c93f11cfb8e5d9d9308fcfa0e/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b64a30a5f35a580628cec1d73a72640e112ecb9d/data/sub/datacenters/AROSS-AS.txt
+https://raw.githubusercontent.com/Argh73/V2Ray-Vault/b68c7d45b236941e25213d95059596805f6cfbf3/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/badcd5ff689a9494a5036560b0bedcf8c4a561a0/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c2d2e288d328234c49fc3a42b7425a68dff0308a/data/sub/datacenters/AROSS-AS.txt
 https://raw.githubusercontent.com/Argh73/V2Ray-Vault/c555936ccd51691b4cd697328a7163e105c2276a/data/sub/datacenters/AROSS-AS.txt
@@ -158,6 +159,8 @@ https://raw.githubusercontent.com/Ganjabady/XC/7235b77b2e958b71e447021ad55c94a2d
 https://raw.githubusercontent.com/Ganjabady/XC/7235b77b2e958b71e447021ad55c94a2def3071c/subscriptions/regions/LA.txt
 https://raw.githubusercontent.com/Ganjabady/XC/774a39b9a94fb5b9ca4395002fcb4125caa4fff6/subscriptions/regions/IQ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/774a39b9a94fb5b9ca4395002fcb4125caa4fff6/subscriptions/regions/LA.txt
+https://raw.githubusercontent.com/Ganjabady/XC/799100f2c8d975fd8029994db04b10dca3a3d80c/subscriptions/regions/IQ.txt
+https://raw.githubusercontent.com/Ganjabady/XC/799100f2c8d975fd8029994db04b10dca3a3d80c/subscriptions/regions/LA.txt
 https://raw.githubusercontent.com/Ganjabady/XC/7afe621ec1ffd7daa06154205e67351cee478aa6/subscriptions/regions/IQ.txt
 https://raw.githubusercontent.com/Ganjabady/XC/7afe621ec1ffd7daa06154205e67351cee478aa6/subscriptions/regions/LA.txt
 https://raw.githubusercontent.com/Ganjabady/XC/7e986ef6523c3aa6c31da4540fdd87f78a803b25/subscriptions/regions/IS.txt
@@ -411,6 +414,7 @@ https://raw.githubusercontent.com/M-logique/Proxies/122b02f22816914eb9612958c708
 https://raw.githubusercontent.com/M-logique/Proxies/2e597259507e6bb5637b3398e98bbe20eb5c7bf2/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/389c6b457940c84b8aa58698579d7e96de02bb47/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/4c03de293e50adead489d2624f4de45d288ac422/proxies/byLocation.json
+https://raw.githubusercontent.com/M-logique/Proxies/603cfa95d0860efb5df7c7f4675ee77aecec7e42/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/6863f561fc0faa951ee37c5a26ba9c600b74b453/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/6bbc6a8524952ae9697d6e20926e9a9f8bc36ec4/proxies/byLocation.json
 https://raw.githubusercontent.com/M-logique/Proxies/6e3f7dfc52bc93d16f67fe6508e7c96c776cc030/proxies/byLocation.json
@@ -440,6 +444,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/166d52709b27292083227
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/177275c36ebeaf8a07e4603f94b0f445f65e5360/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/1802ff633d65bb55fe9dd91b0272c263107e922d/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/192484353cec1cc1f39202021dea4c4f9a910a2e/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/1ee51db49ca16a82e5d769065eb90cee60e64dc0/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/283311a792fde6a7299433018f49552376dd10bb/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/2c154ccc802e0f9aa82d11c087dd785c97a3e23c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/2fea3d5fdb9dc8c3115d2a4a8e24fa38b9e42e16/Countries/Italy.txt
@@ -658,6 +663,7 @@ https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/91dde6d4cef9
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/a4a30599cc8f904bee6ea8bd14735b2179352345/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/a6de9913f8b6e61dc0fc113bcca981848a1a862a/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/abec52b15d588c30197cd263674fcb4044bb65c3/post_20251028_125023.txt
+https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/ac7378a89c1309f39573e1f995ffd80cc58fdc7a/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/b1e5db693693b37a1d3281c28b779fed70e6e338/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/b213408432dd7074797e18dabc28f3a54b953c34/post_20251028_125023.txt
 https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/b2d9ea851d8bbc30628c25a219f2396f2e682f58/post_20251028_125023.txt
@@ -753,6 +759,7 @@ https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c0ea042d82d24e192f17df0372f60f843db07012/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/c2bf272256ca17b9358127f7c63f6d53dd31b6eb/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/ccc08f7eb223bd51586f80517af13cd93391dc6f/category/Uruguay.txt
+https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/cd0b349e5517dac3c7015a62fef169b05c4b66e4/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/d3477407e7d270cdfd90ee77441c6c46054a9a4b/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/d97dedff4b8b179a3cad5e6251cad3cb587fc43e/category/Uruguay.txt
 https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/e2c9511f202dabaf9871f3e12989d39f5b136322/category/Uruguay.txt
@@ -808,6 +815,7 @@ https://raw.githubusercontent.com/nociex/SubSyncForge/b52ec2214f8abebb6bfb243512
 https://raw.githubusercontent.com/nociex/SubSyncForge/b62f194ec04c3f3048f5001fc121237050c023f5/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/b6b77399db72989ec235d79a5eb523de5d302fba/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/ba621f39c3317b45f111faf43342a15835977eae/data/cache/pianyi_cache.json
+https://raw.githubusercontent.com/nociex/SubSyncForge/bf099b9924a6fc4e2303785605925db1a005e620/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/c097bf476d4cc12739c50d47b4d031965aff4b95/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/c0ae4a4e22d69000f92099cfcb1280cd5cc0ffa9/data/cache/pianyi_cache.json
 https://raw.githubusercontent.com/nociex/SubSyncForge/c1ec88a6bb947f664267179afe471a2c2cdd47e1/data/cache/pianyi_cache.json
