@@ -450,6 +450,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4957b4c8801642d7d74d9
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4a42017733f7785993beeaa0a0e32c3d105d6301/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4bf94ba27a46e4fd5e8c5ef208244eb11e711d1c/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4bfd57ef3304e9af3337a137aab943cda2865ce0/Countries/Italy.txt
+https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4d008376391dd9f6c4af06d659aeca5902c8d986/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/4d300f73a2e44ad0f0ce244325999e1800b460cf/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/50dcce48b9e1aa98e5b6ac7a2367c51971e4d482/Countries/Italy.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/526fca82e1f4633668294a06e6285723b70b5486/Countries/Italy.txt
